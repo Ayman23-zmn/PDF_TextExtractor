@@ -1,0 +1,44 @@
+Total Matched sentences : 7
+
+
+-> Word =  nm
+-> Sentence Number = 72
+-> Sentence = Materials  Graphite powder (325mesh, 99.95%) and MWCNTs (inner diameter: 3–5 nm, outer di- ameter: 8–15 nm, length about 50 µm) were purchased from Shanghai Aladdin Biochemical Technology Co., Ltd., Shanghai, ChinaPotassium permanganate (KMnO4, 99.5%), concen- trated sulfuric acid (H2SO4, 98 wt.%), sodium nitrate (NaNO3, analytical purity), hydrogen peroxide (H2O2), hydrochloric acid (HCl, 36%), concentrated nitric acid (HNO3,70%), ace- tone (99%) and anhydrous ethanol (75%) were purchased from Sinopharmaceutical Group Chemical Reagent Co., Ltd., Beijing, China.The epoxy zinc-rich coating with 80 wt.% zinc was provided by Shanghai Qimeng Chemical Co., Ltd
+
+------------------------------------------------------------
+
+-> Word =  nm
+-> Sentence Number = 112
+-> Sentence = Cu target radiation (λ = 0.154 nm) was used, with a tube pressure of 45 kV and tube ﬂow of 50 mA, at a scanning rate of 8 cm/s in the range of 4◦ to 90◦
+
+------------------------------------------------------------
+
+-> Word =  nm
+-> Sentence Number = 113
+-> Sentence = The Raman spectrum was measured by Horiba Lab-RAM HR Evolution with the focal length of 800 nm, which was used to characterize the molecular structure of the sample
+
+------------------------------------------------------------
+
+-> Word =  mm
+-> Sentence Number = 117
+-> Sentence = The salt spray test of the sample (2 × 25 × 50 mm) was carried out in the salt spray testing chamber, according to the ISO  Polymers 2021, 13, x  4 of 22    Figure 1
+
+------------------------------------------------------------
+
+-> Word =  nm
+-> Sentence Number = 132
+-> Sentence = Cu target radiation (λ = 0.154 nm) was used, with a tube pressure of 45 kV and tube flow of 50 mA, at a scanning rate of 8 cm/s in the range of 4° to 90°
+
+------------------------------------------------------------
+
+-> Word =  nm
+-> Sentence Number = 133
+-> Sentence = The Raman spectrum was measured by Horiba Lab-RAM HR Evolution with the focal length of 800 nm, which was used to characterize the molecular structure of the sample
+
+------------------------------------------------------------
+
+-> Word =  mm
+-> Sentence Number = 137
+-> Sentence = The salt spray test of the sample (2 × 25 × 50 mm) was carried out in the salt spray testing chamber, according to the ISO 4628–Polymers 2021, 13, 1657  5 of 20  4628–2005 standard
+
+------------------------------------------------------------

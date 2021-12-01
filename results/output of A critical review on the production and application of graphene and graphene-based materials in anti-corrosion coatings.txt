@@ -1,0 +1,38 @@
+Total Matched sentences : 6
+
+
+-> Word =  N/m
+-> Sentence Number = 1373
+-> Sentence = Graphene is known for its outstanding electron mobility,[2,3] highest thermal conductivity of all materials, on par with diamond and carbon nanotubes (CNTs) and 12 times that of copper,[4–6] a mechanical breaking strength of 42 N/m (311 times higher than that of steel), and a Young’s modulus of 1.0 ± 0.1 TPa.[7]  The application of graphene as a functional layer or as an additive in coatings for corrosion protection has been attracting considerable interest in the last decade
+
+------------------------------------------------------------
+
+-> Word =  nm
+-> Sentence Number = 1436
+-> Sentence =  helical ribbon carbon nanofibers, for instance, have also been exfoliated by this technique.[41] With graph- ite, the milling itself may not be sufficient for success- ful graphene exfoliation, as it has been shown to in an amorphization of graphite’s crystalline result structure, due to the damage caused by the milling balls, which distorts the aromatic rings of the graph- ite.[53,54] This damage has been observed by both X- ray diffraction and Raman spectroscopy after 15 to 20 h of milling.[53]  In one of the earliest examples of graphene produc- tion by ball milling, Zhao et al.[55] milled 30 to 80 nm thick graphite nanoplatelets for 30 h in dimethylfor- mamide (DMF), using a planetary mill
+
+------------------------------------------------------------
+
+-> Word =  nm
+-> Sentence Number = 1491
+-> Sentence =  As an alternative to bath sonication, horn ultrasonica- tion has also been employed to exfoliate naturally occur- ring graphite flakes in the presence of a sodium cholate amphiphilic surfactant.[78] Supplemented by density gra- dient ultracentrifugation, this approach yielded flakes with an average thickness as low as 1.1 nm, with lateral sizes ranging from 50 to several hundred nanometers
+
+------------------------------------------------------------
+
+-> Word =  nm
+-> Sentence Number = 1751
+-> Sentence =  flakes  formation of  thinner graphene  An alternative approach relies on the application of multi-potential programs, as opposed to the trad- itional constant potential process.[117,123,127,138,139] A better control in the intercalation process leading to the (e.g., <3 nm)[138] was reported
+
+------------------------------------------------------------
+
+-> Word =  nm
+-> Sentence Number = 1785
+-> Sentence = Depending on the relative humidity within the stacked GO sheets, the from 0.6 nm to 1.2 nm.[169] These interlayer spacings weaken the interactions between the GO sheets and facilitate the exfoliation process
+
+------------------------------------------------------------
+
+-> Word =  mm
+-> Sentence Number = 1844
+-> Sentence = However, despite this excep- tional combination of features, the application of gra- phene in corrosion science appeared inconceivable, at first, since it was exclusively obtained via mechanical exfoliation, a low throughput, non-scalable method that renders 0.1 mm
+
+------------------------------------------------------------

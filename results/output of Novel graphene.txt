@@ -1,0 +1,32 @@
+Total Matched sentences : 5
+
+
+-> Word =  eV
+-> Sentence Number = 88
+-> Sentence = The main peaks observed from 932.6‒932.4 eV correspond to  metallic Cu and the low oxidation state of Cu2O27–30
+
+------------------------------------------------------------
+
+-> Word =  eV
+-> Sentence Number = 89
+-> Sentence = The high oxidation state of CuO is reflected by the peaks at  ∼933.6 eV27–29, and its satellite peak is observed from 944.6‒942.4 eV27,28
+
+------------------------------------------------------------
+
+-> Word =  eV
+-> Sentence Number = 94
+-> Sentence = In the Cu LMM Auger spectrum of the bare  Cu surface, the peaks at the binding energies of ∼567.9 and ∼570 eV correspond to metallic Cu31 and Cu2O17,  respectively
+
+------------------------------------------------------------
+
+-> Word =  nm
+-> Sentence Number = 201
+-> Sentence = The first experiment was carried out to examine the oxidized areas in the  SLG-coated Cu surface after 100 h of THS testing measured by Raman spectroscopy measurement at an excitation  wavelength of 633 nm and spot diameter of ~1 μm
+
+------------------------------------------------------------
+
+-> Word =  eV
+-> Sentence Number = 204
+-> Sentence = Cu 2p, Cu LMM, and O 1 s XPS spectra  were collected using an Al X-ray source (1486.6 eV) with a spot diameter of ~110 μm
+
+------------------------------------------------------------

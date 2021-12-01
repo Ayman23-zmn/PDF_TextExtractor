@@ -1,0 +1,56 @@
+Total Matched sentences : 9
+
+
+-> Word =  eV
+-> Sentence Number = 84
+-> Sentence = The computed value of WF (eV) for graphene-Cu (∼4.5 eV) is lower than that of bare Cu(111) (∼5.1 eV), and these values agree well with that of the previous report.30  Adsorbed graphene on Cu results in the formation of an the Cu−graphene interface
+
+------------------------------------------------------------
+
+-> Word =  eV
+-> Sentence Number = 87
+-> Sentence = Although the WF for SLG reduced only slightly from ∼5.1 to ∼4.9 eV at larger separation distances (d = 6 Å),  449  https://dx.doi.org/10.1021/acsnano.0c03987 ACS Nano 2021, 15, 447−454  Figure 3
+
+------------------------------------------------------------
+
+-> Word =  eV
+-> Sentence Number = 96
+-> Sentence = it dropped to ∼4.6 eV at d = ∼ 3.3 Å and to ∼4.2 eV at d < 3.3 Å
+
+------------------------------------------------------------
+
+-> Word =  meV
+-> Sentence Number = 123
+-> Sentence = We obtained a local perturbation of the potential, created by charge redistribution due to the formation of the defects and the perturbed ﬁeld extends over distances of the order of vacancy size and has an amplitude of ∼80 meV at 3 Å above the plane
+
+------------------------------------------------------------
+
+-> Word =  eV
+-> Sentence Number = 132
+-> Sentence = However, such a drop in WF is higher for the exposed GB regions (∼4.68 eV) compared to their pristine counterparts (∼4.82 eV)
+
+------------------------------------------------------------
+
+-> Word =  nm
+-> Sentence Number = 164
+-> Sentence = Conductive tip from Bruker (Model: PFQNE-Al, stiﬀness ≈ 0.8 ± 0.2 N/m, diameter ≈ 5 nm, resonance frequency = 300 kHz) has been used for the measurements
+
+------------------------------------------------------------
+
+-> Word =  N/m
+-> Sentence Number = 164
+-> Sentence = Conductive tip from Bruker (Model: PFQNE-Al, stiﬀness ≈ 0.8 ± 0.2 N/m, diameter ≈ 5 nm, resonance frequency = 300 kHz) has been used for the measurements
+
+------------------------------------------------------------
+
+-> Word =  eV
+-> Sentence Number = 165
+-> Sentence = The calculation of the tip work function (WF) was carried out using − eVdc
+
+------------------------------------------------------------
+
+-> Word =  nm
+-> Sentence Number = 167
+-> Sentence =  The Raman spectroscopy was carried out with a 532 nm laser line, 1800 grating line/mm using the Renishaw inVia 100X optical lens
+
+------------------------------------------------------------

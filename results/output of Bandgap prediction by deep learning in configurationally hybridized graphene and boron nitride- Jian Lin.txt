@@ -1,0 +1,62 @@
+Total Matched sentences : 10
+
+
+-> Word =  eV
+-> Sentence Number = 7
+-> Sentence = For 4 × 4 and 5 × 5 supercells they accurately predict bandgaps, with a R2 of >90% and root-mean-square error of ~0.1 eV
+
+------------------------------------------------------------
+
+-> Word =  eV
+-> Sentence Number = 34
+-> Sentence = Initial calculations show that the bandgaps of the pristine graphene with 4 × 4, 5 × 5, and 6 × 6 supercell systems are exactly 0 eV (Fig
+
+------------------------------------------------------------
+
+-> Word =  eV
+-> Sentence Number = 35
+-> Sentence = 1a), and the bandgap of the pristine h-BN is 4.59 eV (Fig
+
+------------------------------------------------------------
+
+-> Word =  eV
+-> Sentence Number = 37
+-> Sentence = More DFT calculations on examples of 4 × 4 systems that have the 50 at% B–N concentra- tions but with different conﬁgurational states show that they exhibit bandgaps ranging from 0.95 to 1.57 eV (Fig
+
+------------------------------------------------------------
+
+-> Word =  eV
+-> Sentence Number = 146
+-> Sentence = For the 4 × 4 supercell systems, all three CNNs show very low RMSE of ~0.1 eV for the predicted bandgaps
+
+------------------------------------------------------------
+
+-> Word =  eV
+-> Sentence Number = 148
+-> Sentence = For the 5 × 5 supercell systems, the RMSE values slightly increase to 0.16 eV for the CCN, but it decreases to 0.09 eV and 0.10 eV when predicted by the VCN and RCN, further conﬁrming the effectiveness of the VCN in predicting larger systems
+
+------------------------------------------------------------
+
+-> Word =  eV
+-> Sentence Number = 152
+-> Sentence =  The ultralow RMSE and RMSEF values show that these DL algorithms are more effective in predicting bandgaps of our system than other material systems, such as double perovskites39 which show a RMSE of 0.36 eV or inorganic crystals which show a RMSE of 0.51 eV.23 This advantage is even more compelling if considering that: (i) our performance is rigorously evaluated with the newly generated systems that don’t have any translational or symmetry equivalence with the training ones; the error maintains a low level when the relative size of the training data is signiﬁcantly reduced for the 5 × 5 supercell systems
+
+------------------------------------------------------------
+
+-> Word =  eV
+-> Sentence Number = 153
+-> Sentence = In contrast, the prediction accuracy from the SVM algorithm is lower, showing higher RMSEs of 0.33 and 0.51 eV for the 4 × 4 and 5 × 5 supercell systems, respectively
+
+------------------------------------------------------------
+
+-> Word =  eV
+-> Sentence Number = 191
+-> Sentence = For instance, it helps to reduce the MAE of CCN from 0.13to 0.09 eV and RMSE from 0.16 to 0.12 eV
+
+------------------------------------------------------------
+
+-> Word =  eV
+-> Sentence Number = 218
+-> Sentence = The Perdew-Burke-Ernzenhof (PBE) function was applied for the exchange-correlation energy.57 The cutoff plane wave energy was set to 400 eV
+
+------------------------------------------------------------

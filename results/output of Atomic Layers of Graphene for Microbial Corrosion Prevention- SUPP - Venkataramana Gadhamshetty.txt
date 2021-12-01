@@ -1,0 +1,68 @@
+Total Matched sentences : 11
+
+
+-> Word =  nm
+-> Sentence Number = 20
+-> Sentence = The measurements were carried at an incident power of 10 mW, a laser excitation   wavelength of 532 nm, and using a 100-objective lens
+
+------------------------------------------------------------
+
+-> Word =  meV
+-> Sentence Number = 57
+-> Sentence = All other coordinates were   relaxed using the Broyden–Fletcher–Goldfarb–Shanno (BFGS) algorithm until all unconstrained   force components were less than 2.6 meV/Å
+
+------------------------------------------------------------
+
+-> Word =  nm
+-> Sentence Number = 59
+-> Sentence =   The Raman measurements were carried out with a 532 nm laser line, 1800 grating line/mm   using  the  Renishaw  inVia™  100X  optical  lens
+
+------------------------------------------------------------
+
+-> Word =  nm
+-> Sentence Number = 67
+-> Sentence = Conductive tip from Bruker      6   (Model: PFQNE-Al, stiffness  0.8±0.2 N/m, diameter  5 nm, resonance frequency = 300 KHz)   has been used for the measurements
+
+------------------------------------------------------------
+
+-> Word =  N/m
+-> Sentence Number = 67
+-> Sentence = Conductive tip from Bruker      6   (Model: PFQNE-Al, stiffness  0.8±0.2 N/m, diameter  5 nm, resonance frequency = 300 KHz)   has been used for the measurements
+
+------------------------------------------------------------
+
+-> Word =  eV
+-> Sentence Number = 68
+-> Sentence = The calculation of the tip work function (WF) was carried   out using freshly cleaved HOPG using the relation, WFsample = WFtip – eVdc
+
+------------------------------------------------------------
+
+-> Word =  eV
+-> Sentence Number = 75
+-> Sentence = At d < 3 Å, the WF of SLG-Ni   (~3.5 eV) and MLG-Ni (~4.7 eV) was significantly lower than bare Ni (~5.4 eV)
+
+------------------------------------------------------------
+
+-> Word =  eV
+-> Sentence Number = 77
+-> Sentence =  Interestingly,  SLG-Ni   experienced the highest drop in the WF (ΔWF = -1.9 eV) compared to MLG-Ni (ΔWF = -0.7 eV)   at d < 3 Å
+
+------------------------------------------------------------
+
+-> Word =  eV
+-> Sentence Number = 78
+-> Sentence = Even, the WF of SLG-Ni (~3.5 eV) is found to be lower than free-standing graphene   (~4.6 eV)
+
+------------------------------------------------------------
+
+-> Word =  eV
+-> Sentence Number = 83
+-> Sentence = The report from   the KPFM study corroborate the findings from DFT analysis: (1) WF of the both MLG-Ni (~4.95   eV) and  SLG-Ni (~4.75 eV) are lower than Ni (~4.98 eV); (2) Upon exposure to the corrodent,   WF of both SLG-Ni and MLG-Ni experienced a significant drop in WF
+
+------------------------------------------------------------
+
+-> Word =  meV
+-> Sentence Number = 84
+-> Sentence = The ΔWF for SLG-Ni   (~200 meV) and MLG-Ni (~50 meV) was two-fold and four-fold lower than bare Ni, respectively
+
+------------------------------------------------------------
