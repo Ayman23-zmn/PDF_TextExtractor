@@ -1,0 +1,1038 @@
+C A R B O N 6 2 ( 2 0 1 3 ) 1 – 1 0
+
+A v a i l a b l e a t w w w . s c i e n c e d i r e c t . c o m
+
+j o u r n a l h o m e p a g e : w w w . e l s e v i e r . c o m / l o c a t e / c a r b o n
+
+Review
+
+Impermeability of graphene and its applications
+
+Vikas Berry *
+
+Department of Chemical Engineering, Kansas State University, 1005 Durland Hall, Manhattan, KS 66506, USA
+
+A R T I C L E I N F O
+
+A B S T R A C T
+
+Article history:
+Received 2 April 2013
+Accepted 26 May 2013
+Available online 3 June 2013
+
+This review discusses the genesis of impermeability in graphene and its extraordinary
+applications in ﬂuid-encasement for wet electron-microscopy, selective gas-permeation,
+nanopore-bio-diffusion, and barrier coating against rusting and environmental hazards.
+As the thinnest material, graphene is composed of sp2 hybridized carbon atoms linked
+to one another in a 2D honeycomb lattice with high electron-density in its aromatic rings,
+which blocks-off all molecules. This phenomena, in combination with its strong structure
+(C–C bond energy = 4.9 eV and intrinsic strength = 43 N/m) makes graphene the most
+impermeable membrane (thinnest membrane that is impermeable). Apart from the appli-
+cations mentioned above, graphene coatings have enabled fundamental studies on chem-
+ical processes and ﬂuid structures. For example, graphene can allow electron imaging of
+nanocrystal nucleation process and water-lattice-structure due to its impermeability. Along
+with being the strongest, most conductive, and optically-absorbing material (2.3% optical
+absorbance), graphene’s impermeability opens a wide range of exciting opportunities.
+
+Ó 2013 Elsevier Ltd. All rights reserved.
+
+Contents
+
+Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+1.
+Impermeability of graphene. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+2.
+Impermeable graphene microchambers for TEM imaging . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+3.
+Impermeable graphene membranes as protective coating . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+4.
+5.
+Stabilizing molecular monolayers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+6. Graphene membranes for separation applications . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+7. Graphene pore ionic diffusion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+8. Conclusion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+Acknowledgment . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+Appendix A.
+Supplementary data . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+References . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+
+* Fax: +1 785 532 7372.
+
+E-mail address: vberry@ksu.edu
+
+0008-6223/$ - see front matter Ó 2013 Elsevier Ltd. All rights reserved.
+http://dx.doi.org/10.1016/j.carbon.2013.05.052
+
+2
+
+1.
+
+Introduction
+
+C A R B O N 6 2 ( 2 0 1 3 ) 1 – 1 0
+
+Graphene – a single atom thick sheet of sp2 hybridized carbon
+atoms arranged in honeycomb lattice – is the thinnest 2D
+material (Fig. 1) [9]. Graphene’s overlapping p-orbitals with
+large scattering length imparts it with a high room-tempera-
+ture mobility [13–16]. Furthermore, it exhibits high optical
+absorptivity (2.3%) [17], high thermal conductivity (25· silicon)
+[18], and high mechanical strength (strongest nanomaterial)
+[19]. It has been used in several extraordinary applications,
+including ultrafast photo-detectors [20], single molecule
+detectors [21,22], ultrafast FETs [14,23–25], single-bacterial/
+DNA detectors [26], hydrogen visualization-templates for
+TEM [27], and tunable spintronic [28–30] devices. Further, it
+possesses a unique electronic structure [31,32], which can
+be controlled chemically [33,34] and geometrically [35].
+
+Although it is only one atom thick, an interesting property
+of graphene is its impermeability. Graphene’s p-orbitals forms
+a dense [36], delocalized cloud that blocks the gap within its
+aromatic rings (Fig. 1). This creates a repelling ﬁeld, which
+does not allow even the smallest molecules, like hydrogen
+and helium, to pass through even when 1–5 atm pressure
+difference is imposed across its atomic thickness at room
+temperature [4]. The ability to withstand such pressure differ-
+ences (6 atm) in graphene is a result of its high strength
+(breaking strength = 42 N/m) and Young’s modulus (1 TPa)
+[19], which retains the structural integrity of graphene. While
+the theoretical studies have shown that there is no gap in
+
+
+
+q
+
+ﬃﬃﬃﬃﬃﬃ
+
+
+electron-density around the aromatic rings to allow mole-
+cules to pass, it can be seen the geometric gap calculated
+from van der Waals (vdw) radius of carbon will be smaller
+than the size of He (Fig. 1). The C–C bond length [13] of
+0.142 nm in graphene implies that considering the nuclei
+alone, the pore size would be 0.246 nm. Now if we add the
+vdw radius of carbon of 0.11 nm, this geometric pore size
+would decrease to 0.064 nm. This geometric gap is smaller
+than the vdw diameter of small molecules like helium
+and
+0.314 nm (bond-length
+(0.074 nm) + 2r (0.12 nm)), respectively.
+
+0.28 nm and
+
+hydrogen:
+
+4
+
+8kT
+pm
+
+Since the permeance of a membrane (Q = ﬂux/(DP) = C.Pr/
+(DP), where C, Pr and DP are the particle collision rate
+c ¼ q
+, the probability of diffusion (Pr) and pressure dif-
+ference (DP), respectively, increases with reduction in the
+membrane thickness, and graphene is the thinnest 2D mate-
+rial, along with the fact that it does not allow any molecule to
+pass through, it can safely be graded as the most imperme-
+able material. Via a similar argument, graphene with con-
+trolled pores can form the ultimate thin membrane for gas
+separation or ﬂuid puriﬁcation. This property is gaining atten-
+tion since it has already shown a wide range of applications,
+as discussed in this review. Further, other properties of graph-
+ene can be combined with its impermeability to develop
+corresponding applications. For example, the ﬂexible [37]
+and stretchable [19] carbon–carbon bonds in graphene can
+allow conformal coating on corrugated surfaces to make
+them impermeable [12]. The high electron-transparency and
+
+Fig. 1 – Graphene lattice structure: sp2 hybridized carbon atoms arranged in a 2D honeycomb lattice. (Bottom) the molecular
+structure with rough electronic density distribution: while graphene is relatively transparent to electrons, it is practically
+impermeable to all molecules at room temperature. Geometric pore (0.064 nm) is also small enough not to allow molecules to
+pass through.
+
+C A R B O N 6 2 ( 2 0 1 3 ) 1 – 1 0
+
+dN
+dt
+
+¼ V
+kBT
+
+dP
+dt
+
+3
+
+ð1Þ
+
+conformability can be employed to construct atomically-thin
+impermeable liquid cells for transmission electron micro-
+scope (TEM) imaging. The strength of graphene to withstand
+high pressure difference and its high electrical conductivity
+enables liquid retention and reduction in electrical charging
+during electron-microscopy imaging. Moreover, chemical
+interfaces of graphene with membranes can be used to con-
+trol its permeance, and it can be used as a protective coating
+to prevent metal-corrosion and to quarantine hazardous
+nanomaterials. The next section will discuss the imperme-
+ability of graphene, followed by its applications.
+
+2.
+
+Impermeability of graphene
+
+Bunch et al. tested the permeance of several gases through a
+micro-chamber capped with a graphene sheet [4] (Fig. 2).
+Here, the graphene sheet blister depresses and stretches un-
+der a negative pressure difference of  93 kPa across the
+monolayer sheet (on a 2 · 2 lm2 hole) by applying vacuum
+(0.1 Pa) for 4 days and releasing the system to atmospheric
+pressure of different gases. The leak rate values are calculated
+by measuring the pressure change:
+
+For He, a leak rate of 105–106 atoms/s is measured for the
+chamber; this rate does not change with number of graphene
+layers. Importantly, estimated diffusion through the silica
+microchamber yields similar leak rate. This implies that the
+permeation is not through the graphene sheet, but through
+the microchamber walls. Further, Bunch et al. also estimated
+the upper bound of the probability of transmittance of a He
+atom through graphene (dN
+2d
+Nv, where d is the depth of the
+dt
+microchamber and v is the velocity of He atom) to be 10 11.
+With estimated tunneling barrier [38] of 8 eV [39] (or 3.5 eV
+for the temporary bond-breaking ‘window’ mechanism [40])
+for He transmittance through graphene, the probability of
+transmittance of He is orders of magnitude lower at 10 335
+!
+ 
+ﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃ
+p
+(or 10 212):
+ 2x
+2mðV   EÞ
+–
+h
+
+p ¼ exp
+
+ð2Þ
+
+where x = 0.3 nm, V is 8 eV (or 3.5 eV), and E is 25 meV (room
+temperature). Therefore, for all practical purposes, graphene
+is impermeable [41,42]. Further, the permeance of graphene
+
+Fig. 2 – (a) Schematic of a graphene sealed microchamber. (Inset) optical image of a single atomic layer graphene drumhead
+on 440 nm of SiO2. The dimensions of the microchamber are 4.75 · 4.75 lm · 380 nm. (b) Side view schematic of the graphene
+sealed microchamber. (c) Tapping mode atomic force microscope (AFM) image of a 9 nm thick many layer graphene
+drumhead with Dp > 0. The dimensions of the square microchamber are 4.75 · 4.75 lm. The upward deﬂection at the center of
+the membrane is 90 nm. (d) AFM image of the graphene sealed microchamber of Fig. 1a with Dp  93 kPa across it. The
+minimum dip in the z direction is 175 nm. (e) AFM line traces taken through the center of the graphene membrane of (a). The
+images were taken continuously over a span of 71.3 h and in ambient conditions. (Inset) deﬂection at the center of the
+graphene membrane vs time. The ﬁrst deﬂection measurement (z) 175 nm is taken 40 min after removing the microchamber
+from vacuum. From Ref. [4].
+
+4
+
+C A R B O N 6 2 ( 2 0 1 3 ) 1 – 1 0
+
+is related with the route of its synthesis, since it inﬂuences
+the defects on graphene. For example, CVD graphene is ex-
+pected to have Stone–Wales defects, which reduce the barrier
+to He diffusion. Although, this reduction in barrier height (cal-
+culated to be between 6 and 9.2 eV) is not sufﬁcient to allow
+ready passage of He [38]. However, other defects can signiﬁ-
+cantly reduce the barrier to He penetration, as per calcula-
+tions; for example vacancy defects 555777 divacancy, 858
+divacancy, tetravacancy, hexavacancy, and decavancy induce
+a barrier of around 5.75–8 eV, 3–4 eV, 1–1.2 eV, 0.33–0.44, and
+0.05–0.1 eV, respectively [38]. As will be discussed latter, the
+permeance of graphene can be controlled by opening ﬁne
+pores in graphene.
+
+Impermeable graphene microchambers for
+
+3.
+TEM imaging
+
+Graphene presents an excellent opportunity to be employed as
+a material to encase liquid or wet samples for enhanced elec-
+tron microscopy. The properties of graphene that make it ideal
+for ﬂuid encasement for TEM imaging include: (a) imperme-
+ability [5,21] (as mentioned above), (b) high electron-transpar-
+ency [22]: high-momentum electrons can transmit through
+monolayer or multilayer (1–10 nm) graphene, which enables
+facile TEM imaging, (c) ﬂexibility [6,7] (which enables graph-
+ene to be rolled into carbon nanotubes) allows the sheets to
+conformally form chambers at nano-, micro- and macro-
+scale, (d) mechanical strength [5,23]: graphene’s high yield-
+strength enables it to sustain the high pressure differences,
+similar to that between the ﬂuidic region and external vacuum
+of a TEM, (e) high electrical conductivity [8,22]: the mobile p-
+electrons of graphene signiﬁcantly reduce the electrostatic
+
+charge buildup under electron microscopy (EM), and (f) high
+thermal conductance [18]: graphene’s high phonon-conduc-
+tivity dissipates the heat generated from electron bombard-
+ment. Clearly, this unique combination of properties makes
+graphene an ideal nanomaterial for wet-phase imaging under
+TEM; while preserving volatile content under high vacuum.
+
+These properties of graphene can be leveraged to image
+wet biological cells via electron microscopy [12,43]. For exam-
+ple, graphene functionalized with concanavalin – a pectin
+protein speciﬁcally binds to bacterial cell-wall (Gram positive)
+– can hermetically wrap the bacterial cells [12] (Fig. 3) and act
+as an impermeable, electron transparent encasement, allow-
+ing wet-imaging of the cells under TEM conditions (high
+vacuum)
+[2,44]. The graphene-wrapped bacteria’s original
+shape, morphology and size from atmospheric pressure were
+retained under high vacuum TEM conditions. The mass trans-
+fer rate [35] from bacteria is given by:
+MT / k
+R
+
+Cw þ AI
+k
+
+CwCT
+
+ð3Þ
+
+where k is the Darcian permeability, A is the electron-beam
+damage-factor, Cw and CT are the water mass in and the total
+mass of a bacterium, R is the radius of the cell, I is the electron
+beam current and k is the latent heat of vaporization. The ini-
+tial rate of volume shrinkage is given by:
+
+
+
+dV
+dt
+
+t¼0
+
+¼ ðVB0 þ a1Þ
+
+a1b
+
+ð1 þ a1Þ2
+
+  a1b
+ð1 þ a2Þ ¼ PD
+
+ð4Þ
+
+This provides combined permeability (PD, Darcian and
+electron-beam induced permeability) where, VB0
+is the
+volume fraction of completely dehydrated cell and a1 and b
+are constants inversely proportional to membrane permeabil-
+ity, and a2 is a constant proportional to the additional perme-
+
+Fig. 3 – (a) Protein functionalized graphene (PFG) wrapping of bacteria prohibits shrinking under TEM. (b and c) Representative
+TEM images of wrapped bacterium (WB on 100 nm thick Si3N4 windows) exhibits no shrinkage from the original size after 5
+and 20 min exposure. (d and e) Representative unwrapped bacteria (UWB) exhibit 75% shrinkage after only 5 min under
+TEM vacuum (minimum time to obtain micrograph). Extensive bubbling is also observed during imaging, attributed to boiling
+of the volatile component of the cell’s intracellular region (see videos in Supporting information). Scale bar = 500 nm. Note
+that under the same conditions, the cell wall of the wrapped bacteria is clearly discernible. This is attributed to signiﬁcantly
+reduced charge accumulation due to the conductive PFGs (due to p-electrons). Further, it has been shown that graphene [7]
+and graphene oxide [10,11] can act as a great electron-transparent substrate for TEM imaging without the need for staining
+biological samples. From Ref. [12].
+
+C A R B O N 6 2 ( 2 0 1 3 ) 1 – 1 0
+
+5
+
+ability caused by electron-beam induced membrane damage.
+Here, the Darcian permeability of cells reduces from 7.6 to
+20 nm/s to practically zero for graphene wrapped cells. There-
+fore, this process can be used for cells to completely cut off
+the release of volatile material. The wrapping process cannot
+be used at higher temperature.
+
+The graphene encasement/wrapping mechanism on any
+substrate is a sequential multi-point attachment process, as
+favored by minimization of Gibbs energy:
+
+ð5Þ
+
+X
+ðlGþiNGþi þ lB iNB iÞ >
+
+n
+
+i¼1
+
+X
+ðlGBiNGBiÞ
+
+n
+
+i¼1
+
+Here, l is the chemical potential, N is the number of sites
+and the subscripts G+ and B  are the corresponding binding
+sites on graphene and substrate, respectively) [29]. Further,
+the sizeable reduction of free energy originating from the
+reduction of chemical potential via the highly-speciﬁc li-
+gand–receptor interaction is expected to offset the ligand–
+receptor bond stretching during wrapping [29].
+
+In 2011, via using a similar mechanism, Kempaiah et al.
+showed that yeast cells can also be wrapped with graphene
+oxide to provide a robust mechanical shell and electrically
+conductive surface [2] (Fig. 4). If the cells are not completely
+wrapped, they will leak out the intercellular volatile content,
+which leads to shrinkage of the yeast cell. As a result of the
+shrinkage of the cells, radial wrinkles form on graphene
+(1.5 nm thick) orthogonal to the boundary of the cell. The aver-
+age wavelength of the wrinkles is given by: k = t(E/Es)1/3, where
+t is the thickness of graphene, E is the Young’s modulus of
+graphene and Es is the Young’s modulus of the cell wall. The
+calculated wrinkle wavelength of 20 nm matched with the
+experimental values of 40–70 nm, with the amplitude, A, of
+the wrinkles due to the in-plane shear estimated to be
+28 nm (A = (Lt/k)[8/(3 + 3m)]1/2, [45] where m is the Poisson ratio
+and L is the length of the cell). Therefore, wrapping the cells
+can provide both a route to image cells via electron micro-
+scope, or to create ordered wrinkles. More studies are required
+to understand the inﬂuence on the number of layers on the
+electron transparency of graphene for these applications.
+
+Apart from imaging wet samples, graphene can enable
+observation of chemical processes in the liquid phase. In
+
+2012, Yuk et al. [46] studied the growth on Pt nanocrystals in
+liquid phase at high resolution by creating a blister space be-
+tween two graphene sheets, where aqueous solution of Pt cat-
+ions was encased. This was followed by reduction of Pt
+cations by electron beam exposure at constant ﬂux and their
+binding to form Pt nanocrystals. Here, graphene acted as an
+impermeable micro-chamber retaining the liquid phase, and
+an electron transparent membrane enabling electron-micros-
+copy, while the liquid solution absorbed the electrons to re-
+duce the Pt cations to nucleate the growth of nanocrystals
+of Pt. Therefore, it was possible to image the dynamics of
+growth of Pt nanocrystal in aqueous phase at high resolution
+via an aberration-corrected TEM; the monomer addition and
+coalescence events were directly observed. It is known that
+the nanocrystal growth is inﬂuenced by the interaction of
+the precursors with the chamber material. For example, in
+the case of silicon nitride encased TEM holders, the growth
+of the nanocrystals occurs near the wall. Interestingly, due
+to the low interaction of the Pt precursor and nanocrystal
+with graphene, the Pt nanocrystal growth in the graphene
+blister-chamber was independent of location, especially near
+the chamber-wall.
+
+Impermeable graphene membranes as
+
+4.
+protective coating
+
+Impermeable graphene can also be used as a barrier mem-
+brane for environmentally hazardous agents [47] and as an
+anti-corrosion coating [48]. In several chemical reactions,
+graphene acts as an inert material, where other materials un-
+dergo reaction. For anodic and cathodic scans on graphene
+coated nickel and copper, the current densities decreases by
+about an order of magnitude, and there is a sharp decrease
+in the reactions rates or reduction in ionic transfer. This im-
+plies that graphene acts as a protective layer to underlying
+metal. For Ni, the metallic ionization (Ni ! Ni2+ + 2e) and for
+Cu, cathodic reaction (2H2O + O2 + 4e  ! 4OH )
+reduces
+implying low rate of corrosion. The corrosion current density
+for both metals reduces after graphene coating. For Ni the
+corrosion potential moves up by 0.3 V, while for Cu the corro-
+sion potential reduces by 0.15 V [48–50].
+
+Fig. 4 – Interfacing of CRG sheets with SaC cells. (a) Schematic of the process where calcium ions are used to interface the CRG
+sheets with the SaC cells. (b) FESEM image shows the CRG sheets on the surface of the cells. They form a partial coverage on
+the surface. The inset shows the presence of the Au particles on the cell-CRG sheets. The scale is 50 nm. From Ref. [2].
+
+6
+
+C A R B O N 6 2 ( 2 0 1 3 ) 1 – 1 0
+
+Fig. 5 – Scanning tunneling microscopy topographic scans of few layered water conﬁned between graphene and mica. (a)
+Thrity nanometer by 30 nm image showing the ﬁrst two water layers on the mica surface. (b) Zoomed-in spatial derivative of
+the boxed region in (a) showing the honeycomb lattice of the monolayer graphene coating. (c) Hundred nanometer by 100 nm
+false-colored topographic image of graphene–water–mica system. Three layers of water are visible, as well as a graphene
+grain boundary, which is labeled by the dotted white line. The protrusions coming out of the third water layer could be due to
+either contaminants trapped under the graphene or to the water displaying increasing bulklike properties as it gets further
+from the mica surface. Scanning conditions are  0.35 V sample bias and 1 nA tunneling current. The right panel shows the
+lattice structure of ice crystal. Adapted from Refs. [5,8]. (For interpretation of the references to colour in this ﬁgure legend, the
+reader is referred to the web version of this article.)
+
+Graphene oxide (GO) ﬁlms also block the convective ﬂow at
+a much lower loading in comparison to other carbon sources.
+For example, a ﬁlm of GO (20 nm thick) coated on polyethyl-
+ene membrane can reduce the permeability of toxic mercury
+vapors by 90% [47]. Here, at only 50 nm thickness, the hydrau-
+lic conductivity (for convective water ﬂow) was measured to
+be 5 · 10 13 cm/s, which is lower than natural impervious
+materials such as granite and limestone. Therefore, graphene
+can function as an excellent protective coating for a large
+number of applications. Further, via microdroplet drying of
+GO with inorganic-nanostructures, an impermeable encase-
+ment of nanomaterials with GO forming a sack can be
+achieved [51]. This nanomaterial encased in GO can be used
+in environmental and biological applications where a physi-
+cal barrier is important.
+
+5.
+
+Stabilizing molecular monolayers
+
+Water monolayers are known to be formed on mica surface
+under high humidity. Interestingly, impermeable graphene
+on mica can trap crystalline adlayers of water at room tem-
+perature. This allows accurate measure of the size of these
+adlayers on mica surface [52]. Several other studies have been
+used to understand the length scales of the water adsorbed
+on mica and other substrates, however the studies are chal-
+lenging at room temperature due to the high vapor pressure
+
+of water. Graphene provides a highly conformal and ﬂexible
+encasement, which can trap and retain the adlayers of water.
+An atomic force microscope (AFM) can then be used to mea-
+sure the thickness of the water-adlayers. A puckered bilayer
+water from the structure of ice (Fig. 5) has a thickness of
+0.369 nm, while that measured from graphene trapped water
+layers is 0.37 nm. This implies the crystalline formation of
+water adlayers similar to ice under graphene. Similarly, He
+et al. employed high-vacuum STM to study water layer be-
+tween graphene and mica and found a height of 0.4 nm for
+ﬁrst water later and additional 0.3 nm more for the next water
+layer [5] (Fig. 5). Therefore, impermeable graphene and its rel-
+ative non-interaction with water enables imaging of water
+layer as a crystal1 [8] (Fig. 5) on mica at room temperature.
+This is an important fundamental result made possible via
+the conformity and impermeability of graphene. Similar re-
+sults are possible for other ﬂuidic crystal-structures.
+
+Graphene membranes
+
+6.
+applications
+
+for
+
+separation
+
+Theoretical predictions suggest that artiﬁcial pores in graph-
+ene can increase its permeability and permeation-selectivity
+
+1 http://www.benbest.com/cryonics/lessons.html
+
+C A R B O N 6 2 ( 2 0 1 3 ) 1 – 1 0
+
+7
+
+Fig. 6 – (Top) pore electron density iso-surface of (left) nitrogen functionalized and (right) hydrogen-terminated porous
+graphene (isovalue of 0.02 e/A˚ 3). (Bottom) functionalized graphene nanopores. (Left) the F–N-terminated nanopore. (Right) the
+H-terminated nanopore. Adapted from Refs. [1,6].
+
+[39–41,44,53] (Fig. 6). For example, a nitrogen functionalized
+pore in graphene can open up an effective gap of 3 A˚ , which
+can lead to high selective diffusion of H2 over CH4 of 108;
+while a hydrogen terminated vacancy can open up 2.5 A˚ with
+a selectivity of 10 [23] for H2/CH4 (Fig. 6) [1]. Similarly, periodic
+pores on graphene (two-dimensional polyphenylene net-
+works [54,55]) can produce different barrier heights for trans-
+mission of different gases as well. For example, 2D
+polyphenylene theoretically exhibits a transmission barrier
+of 0.523, 1.245, and 4.832 eV for He, Ne, and CH4 transport
+respectively [56]. These pores on graphene can be superior
+to the traditional polymeric or silica membranes [57] due to
+high permeance and selectivity.
+
+Koenig et al. produced Angstrom scale pores on graphene
+blisters by controlled UV exposure (wavelengths of 185 nm
+and 254 nm) [58]. The UV-based etching rate is slow and thus
+produces small pores, unlike plasma based etching which is
+fast and challenging to control. The permeability was calcu-
+lated by measuring the leak rate of the gases through the por-
+ous graphene blister. With pore sizes between 0.2 and 0.4 nm,
+a selectivity of 104 between CH4 and H2 was achieved. Fur-
+ther, the diffusion of Ar remains unchanged before and after
+etching pores in graphene, implying complete blockage of Ar.
+The molecular diffusion rate through the pores was found to
+be inversely proportional to the size of the molecules.
+
+There is also evidence of intrinsic pores in graphene pro-
+duced via chemical vapor deposition, which is expected to
+
+have grain-boundaries and point defects. These were
+estimated to be between 1 and 14 nm [59]. Larger pores can
+be created by template etching in graphene via plasma [60];
+however, those do not produce small enough pores to allow
+selective sieving. Therefore, a large number of possibilities ex-
+ist to make porous graphene structures over a large range of
+pores.
+
+Carbon nanotubes (CNTs) have also been used extensively
+in membrane applications; where, they can form two types
+of membranes: (a) randomly entangled CNT-paper structure
+where the molecules pass around CNTs and (b) isoporous
+membranes, where molecules pass through the interior of
+CNT tubes [61]. For the second type of CNT membranes,
+the collapsed vertically-aligned CNTs with no polymer show
+higher permeance (pore size = 3 nm) than CNT-membranes
+with polymer matrix [62]. Here, the ﬂow of molecules
+through CNT exhibit varied levels of (frictionless) velocities,
+depending on the interaction of the molecule with the CNT
+walls [63,64]. Most importantly, the tip functionalization
+[65,66] can be used to control the ﬂow of speciﬁc molecules
+through CNTs. For example, anionically charged CNT tip in-
+creased the diffusion of cationic molecules, an effect which
+reduces with increase in ionic concentration [66]. The molec-
+ular dynamics simulations have shown that while most mol-
+ecules shows relatively frictionless motion thought the CNT,
+the chemistry of the tip of the CNT inﬂuences the selectivity
+[67].
+
+8
+
+C A R B O N 6 2 ( 2 0 1 3 ) 1 – 1 0
+
+Fig. 7 – (a) Transmission electron microscopy (TEM) of nanopores drilled into multilayer graphene (b) TEM image of a 22 nm
+diameter pore in monolayer graphene. Incrusted numbers indicate spots where the diffraction patterns were recorded. (c)
+Diffraction patterns measured across the monolayer nanopore of panel left-b. (d–f) DNA translocation through a nanopore in
+a graphene monolayer. (d) Translocation of 48 kbp double-stranded k-DNA across a 22 nm nanopore within a graphene
+monolayer, showing the baseline conductance and blockade events upon addition of DNA. (e) Examples of translocation
+events of nonfolded (black), partially folded (red), and fully folded (blue) DNA molecules recorded at 200 mV in the 22 nm pore.
+(f) Conductance histogram collected from 1222 translocation events, including the open-pore conductance before and after
+the event. Adapted from Ref. [3]. (For interpretation of the references to colour in this ﬁgure legend, the reader is referred to
+the web version of this article.)
+
+7.
+
+Graphene pore ionic diffusion
+
+Since atomically thick graphene is an impermeable mem-
+brane, a perfect graphene sheet separating two aqueous res-
+ervoirs of ions will not allow ionic trans-diffusion due to its
+impermeability [3]. However, a nanoscale pore in graphene
+will allow controlled trans-location (trans-diffusion) of ions
+[6] and long molecules such as DNA [3] via the pore from
+one side of graphene to the other (Figs. 6 and 7). With a 1 M
+KCl reservoir, the pore resistance scales with the pore-diame-
+ter: R = a/d2, with a = 2.4 ± 0.2 · 10 9 X m2 [68]. Further, the
+chemical makeup of the pores inﬂuences the selectivity of
+the pores. For example, theoretical measurements show that
+H-, F- or N-terminated pores of 0.5 nm diameter in graphene
+can lead to selective ion diffusion. With a 0.1 V/nm, the F- and
+N-terminated pores allow only Li+, Na+ and K+ ions to pass,
+while H-terminated pore allows only F-, Cl- and Br-ions to
+pass. The selectivity is attributed to Coulomb coupling be-
+tween ions and functional groups on graphene pores [6]. How-
+ever, the selectivity-effect reduces with increase in the pore
+size.
+
+It is important to note that the ions pass through a thin
+0.3 nm thick graphene and in a short distance can translo-
+cate from one side to another. This is unlike solid-state-
+pores, where the thickness can be several nanometers. The
+modulation in the ionic currents [3] or lateral conductivity
+
+[69] can be used to detect the DNA or to read out the DNA
+sequence. For example, Schneider et al. has shown that
+the graphene nanopore could be used to determine the con-
+ﬁguration of the DNA molecules passing through graphene
+nanopore at a higher resolution than the solid-state-nanop-
+ores [68] (Fig. 7). Again, this is because the solid-state nanop-
+ores are thicker than the dimensions of the DNA, while
+graphene has a compatible thickness to the DNA (Fig. 7).
+Therefore, the resolution at which the signal changes in
+graphene is much higher (0.3 nm). More work is required
+to realize the ability to sequence DNA as it passes through
+the nanopore.
+
+8.
+
+Conclusion
+
+Graphene is the most impermeable material owing to (a) the
+closed-spaced carbon atoms in graphene, (b) the high elec-
+tron-density (p-cloud) which repels all molecules, (c) the high
+strength, and (d) its ultrathin (thinnest) structure. Since 2008
+this property of graphene has been employed to develop sev-
+eral unprecedented applications, including (i) liquid encase-
+ments for wet electron microscopy,
+(ii) selective gas
+permeation, (iii) nanopore bio-diffusion, (iv) thinnest barrier
+against rusting [48,50], and (v) retention of molecular water
+layers. Futuristically, next generation impermeable-graphene
+systems could produce impermeable capsules, completely-
+
+C A R B O N 6 2 ( 2 0 1 3 ) 1 – 1 0
+
+9
+
+sealed cages and gels [38], and answer some fundamental
+questions about ﬂuidic chemical processes and structures.
+Along with a high strength, conductivity, and optical absorp-
+tivity, graphene’s impermeability is set to open a wide range
+of exciting opportunities.
+
+Acknowledgment
+
+VB thanks the ﬁnancial support from NSF (CMMI-1054877,
+CMMI-0939523 and CMMI-1030963), Ofﬁce of Naval Research
+(Grant N000141110767), Terry C. Johnson Center for Basic
+Cancer Research, and KSU start-up.
+
+Appendix A. Supplementary data
+
+Supplementary data associated with this article can be found,
+in the online version, at http://dx.doi.org/10.1016/j.carbon.
+2013.05.052.
+
+R E F E R E N C E S
+
+[1] Jiang D, Cooper VR, Dai S. Porous graphene as the ultimate
+membrane for gas separation. Nano Lett 2009;9(12):4019–24.
+[2] Kempaiah R, Salgado S, Chung WL, Maheshwari V. Graphene
+as membrane for encapsulation of yeast cells: protective and
+electrically conducting. Chem Commun 2011;47(41):11480–2.
+[3] Garaj S, Hubbard W, Reina A, Kong J, Branton D, Golovchenko
+JA. Graphene as a subnanometre trans-electrode membrane.
+Nature 2010;467(7312):190–3.
+
+[4] Bunch JS, Verbridge SS, Alden JS, van der Zande AM, Parpia
+
+JM, Craighead HG, et al. Impermeable atomic membranes
+from graphene sheets. Nano Lett 2008;8(8):2458–62.
+
+[5] He KT, Wood JD, Doidge GP, Pop E, Lyding JW. Scanning
+tunneling microscopy study and nanomanipulation of
+graphene-coated water on mica. Nano Lett
+2012;12(6):2665–72.
+
+[6] Sint K, Wang B, Krap
+
+pu¨ l P. Selective ion passage through
+
+functionalized graphene nanopores. J Am Chem Soc
+2008;130(49):16448–9.
+
+[7] Nair RR, Blake P, Blake JR, Zan R, Anissimova S, Bangert U,
+
+et al. Graphene as a transparent conductive support for
+studying biological molecules by transmission electron
+microscopy. Appl Phys Lett 2010;97(15):153102.
+
+[8] http://www.benbest.com/cryonics/lessons.html.
+[9] Novoselov KS, Geim AK, Morozov SV, Jiang D, Zhang Y,
+
+Dubonos SV, et al. Electric ﬁeld effect in atomically thin
+carbon ﬁlms. Science 2004;306(5296):666–9.
+
+[10] Wilson NR, Pandey PA, Beanland R, Young RJ, Kinloch IA,
+
+Gong L, et al. Graphene oxide: structural analysis and
+application as a highly transparent support for electron
+microscopy. ACS Nano 2009;3(9):2547–56.
+
+[11] Riedl C, Zakharov AA, Starke U. Precise in situ thickness
+
+analysis of epitaxial graphene layers on SiC(0 0 0 1) using low-
+energy electron diffraction and angle resolved ultraviolet
+photoelectron spectroscopy. Appl Phys Lett 2008;93(3):033106.
+
+[12] Mohanty N, Fahrenholtz M, Nagaraja A, Boyle D, Berry V.
+
+Impermeable graphenic encasement of bacteria. Nano Lett
+2011;11(3):1270–5.
+
+[13] Gass MH, Bangert U, Bleloch AL, Wang P, Nair RR, Geim AK.
+
+Free-standing graphene at atomic resolution. Nat
+Nanotechnol 2008;3(11):676–81.
+
+[14] Du X, Skachko I, Barker A, Andrei EY. Approaching ballistic
+
+transport in suspended graphene. Nat Nanotechnol
+2008;3(8):491–5.
+
+[15] Chen JH, Jang C, Xiao SD, Ishigami M, Fuhrer MS. Intrinsic
+
+and extrinsic performance limits of graphene devices on
+SiO2. Nat Nanotechnol 2008;3(4):206–9.
+
+[16] Akturk A, Goldsman N. Electron transport and full-band
+
+electron–phonon interactions in graphene. J Appl Phys
+2008;103:053702.
+
+[17] Nair RR, Blake P, Grigorenko AN, Novoselov KS, Booth TJ,
+
+Stauber T, et al. Fine structure constant deﬁnes visual
+transparency of graphene. Science 2008;320(5881):1308.
+
+[18] Balandin AA, Ghosh S, Bao W, Calizo I, Teweldebrhan D, Miao
+
+F, et al. Superior thermal conductivity of single-layer
+graphene. Nano Lett 2008;8(3):902–7.
+
+[19] Lee C, Wei XD, Kysar JW, Hone J. Measurement of the elastic
+
+properties and intrinsic strength of monolayer graphene.
+Science 2008;321(5887):385–8.
+
+[20] Xia F, Mueller T, Lin Y, Valdes-Garcia A, Avouris P. Ultrafast
+
+graphene photodetector. Nat Nanotechnol 2009;4(12):839–43.
+[21] Schedin F, Geim AK, Morozov SV, Hill EW, Blake P, Katsnelson
+MI, et al. Detection of individual gas molecules adsorbed on
+graphene. Nat Mater 2007;6(9):652–5.
+
+[22] Lu GH, Ocola LE, Chen JH. Gas detection using low-
+
+temperature reduced graphene oxide sheets. Appl Phys Lett
+2009;94(8):083111.
+
+[23] Avouris P, Chen ZH, Perebeinos V. Carbon-based electronics.
+
+Nat Nanotechnol 2007;2(10):605–15.
+
+[24] Dawlaty JM, Shivaraman S, Chandrashekhar M, Rana F,
+
+Spencer MG. Measurement of ultrafast carrier dynamics in
+epitaxial graphene. Appl Phys Lett 2008;92:042116.
+
+[25] Lin YM, Jenkins KA, Valdes-Garcia A, Small JP, Farmer DB,
+Avouris P. Operation of graphene transistors at gigahertz
+frequencies. Nano Lett 2009;9(1):422–6.
+
+[26] Mohanty N, Berry V. Graphene-based single-bacterium
+
+resolution biodevice and DNA transistor: interfacing
+graphene derivatives with nanoscale and microscale
+biocomponents. Nano Lett 2008;8(12):4469–76.
+
+[27] Meyer JC, Girit CO, Crommie MF, Zettl A. Imaging and
+
+dynamics of light atoms and molecules on graphene. Nature
+2008;454(7202):319–22.
+
+[28] Abanin DA, Lee PA, Levitov LS. Charge and spin transport at
+
+the quantum hall edge of graphene. Solid State Commun
+2007;143(1–2):77–85.
+
+[29] Shen T, Wu YQ, Capano MA, Rokhinson LP, Engel LW, Ye PD.
+Magnetoconductance oscillations in graphene antidot arrays.
+Appl Phys Lett 2008;93(12):122102.
+
+[30] Semenov YG, Kim KW, Zavada JM. Spin ﬁeld effect transistor
+with a graphene channel. Appl Phys Lett 2007;91(15):153105.
+[31] Novoselov KS, Geim AK, Morozov SV, Jiang D, Katsnelson MI,
+Grigorieva IV, et al. Two-dimensional gas of massless Dirac
+fermions in graphene. Nature 2005;438(7065):197–200.
+
+[32] Novoselov KS, Jiang D, Schedin F, Booth TJ, Khotkevich VV,
+Morozov SV, et al. Two-dimensional atomic crystals. Proc
+Natl Acad Sci USA 2005;102(30):10451–3.
+
+[33] Gilje S, Han S, Wang M, Wang KL, Kaner RB. A chemical route
+
+to graphene for device applications. Nano Lett
+2007;7(11):3394–8.
+
+[34] Gomez-Navarro C, Weitz RT, Bittner AM, Scolari M, Mews A,
+
+Burghard M, et al. Electronic transport properties of
+individual chemically reduced graphene oxide sheets. Nano
+Lett 2007;7(11):3499–503.
+
+[35] Barone V, Hod O, Scuseria GE. Electronic structure and
+
+stability of semiconducting graphene nanoribbons. Nano Lett
+2006;6(12):2748–54.
+
+[36] Sreeprasad TS, Berry V. How do the electrical properties of
+
+graphene change with its functionalization? Small
+2012;9:341–50.
+
+10
+
+C A R B O N 6 2 ( 2 0 1 3 ) 1 – 1 0
+
+[37] Koenig SP, Boddeti NG, Dunn ML, Bunch JS. Ultrastrong
+
+[54] Bieri M, Treier M, Cai J, It-Mansour K, Rufﬁeux P, Groning
+
+adhesion of graphene membranes. Nat Nanotechnol
+2011;6(9):543–6.
+
+[38] Leenaerts O, Partoens B, Peeters FM. Graphene: a perfect
+
+O, et al. Porous graphenes: two-dimensional polymer
+synthesis with atomic precision. Chem Commun
+2009:6919–21.
+
+nanoballoon. Appl Phys Lett 2008;93(19):193107.
+
+[55] Li Y, Zhou Z, Shen P, Chen Z. Two-dimensional
+
+[39] Hrusak J, Bohme DK, Weiske T, Schwarz H. Ab initio MO
+calculation on the energy barrier for the penetration of a
+benzene ring by a helium atom. Model studies for the
+formation of endohedral He@C60+ complexes by
+high-energy bimolecular reactions. Chem Phys Lett
+1992;193(1–3):97–100.
+
+[40] Murry RL, Scuseria GE. Theoretical evidence for a C60
+
+‘‘window’’ mechanism. Science 1994;263(5148):791–3.
+
+polyphenylene: experimentally available porous graphene as
+a hydrogen puriﬁcation membrane. Chem Commun
+2010;46(21):3672–4.
+
+[56] Schrier J. Helium separation using porous graphene
+
+membranes. J Phys Chem Lett 2010;1(15):2284–7.
+
+[57] Du H, Li J, Zhang J, Su G, Li X, Zhao Y. Separation of hydrogen
+and nitrogen gases with porous graphene membrane. J Phys
+Chem C 2011;115(47):23261–6.
+
+[41] Geim AK, Novoselov KS. The rise of graphene. Nat Mater
+
+[58] Koenig SP, Wang L, Pellegrino J, Bunch JS. Selective molecular
+
+2007;6(3):183–91.
+
+[42] Georgiou T, Britnell L, Blake P, Gorbachev RV, Gholinia A,
+
+Geim AK, et al. Graphene bubbles with controllable
+curvature. Appl Phys Lett 2011;99(9):093103.
+
+[43] Nguyen P, Berry V. Graphene interfaced with biological cells:
+
+opportunities and challenges. J Phys Chem Lett
+2012;3(8):1024–9.
+
+[44] Lee Z, Jeon KJ, Dato A, Erni R, Richardson TJ, Frenklach M,
+
+et al. Direct imaging of soft–hard interfaces enabled by
+graphene. Nano Lett 2009;9(9):3365–9.
+
+[45] Bao W, Miao F, Chen Z, Zhang H, Jang W, Dames C, et al.
+
+Controlled ripple texturing of suspended graphene and
+ultrathin graphite membranes. Nat Nanotechnol
+2009;4(9):562–6.
+
+[46] Yuk JM, Park J, Ercius P, Kim K, Hellebusch DJ, Crommie
+
+MF, et al. High-resolution EM of colloidal nanocrystal
+growth using graphene liquid cells. Science
+2012;336(6077):61–4.
+
+[47] Guo F, Silverberg G, Bowers S, Kim SP, Datta D, Shenoy V,
+
+et al. Graphene-based environmental barriers. Environ Sci
+Technol 2012;46(14):7717–24.
+
+[48] Kirkland NT, Schiller T, Medhekar N, Birbilis N. Exploring
+
+graphene as a corrosion protection barrier. Corros Sci
+2012;56:1–4.
+
+[49] Singh Raman RK, Chakraborty Banerjee P, Lobo DE, Gullapalli
+
+H, Sumandasa M, Kumar A, et al. Protecting copper from
+electrochemical degradation by graphene coating. Carbon
+2012;50(11):4040–5.
+
+[50] Prasai D, Tuberquia JC, Harl RR, Jennings GK, Bolotin KI.
+
+Graphene: corrosion-inhibiting coating. Acs Nano
+2012;6(2):1102–8.
+
+[51] Chen Y, Guo F, Jachak A, Kim SP, Datta D, Liu J, et al. Aerosol
+
+synthesis of cargo-ﬁlled graphene nanosacks. Nano Lett
+2012;12(4):1996–2002.
+
+[52] Xu K, Cao P, Heath JR. Graphene visualizes the ﬁrst water
+
+adlayers on mica at ambient conditions. Science
+2010;329(5996):1188–91.
+
+[53] Suk ME, Aluru NR. Water transport through ultrathin
+
+graphene. J Phys Chem Lett 2010;1(10):1590–4.
+
+sieving through porous graphene. Nat Nanotechnol
+2012;7:724–32.
+
+[59] OCC¸ O¨ Hern SC, Stewart CA, Boutilier MSH, Idrobo JC,
+
+Bhaviripudi S, Das SK, et al. Selective molecular transport
+through intrinsic defects in a single layer of CVD graphene.
+Acs Nano 2012;6(11):10130–8.
+
+[60] Zeng Z, Huang X, Yin Z, Li H, Chen Y, Li H, et al. Fabrication of
+
+graphene nanomesh by using an anodic aluminum oxide
+membrane as a template. Adv Mater 2012;24(30):4138–42.
+
+[61] Sears K, Dume L, Schtz J, She M, Huynh C, Hawkins S, et al.
+
+Recent developments in carbon nanotube membranes for
+water puriﬁcation and gas separation. Materials
+2010;3(1):127–49.
+
+[62] Yu M, Funke HH, Falconer JL, Noble RD. High density,
+
+vertically-aligned carbon nanotube membranes. Nano Lett
+2008;9(1):225–9.
+
+[63] Majumder M, Chopra N, Andrews R, Hinds BJ. Nanoscale
+
+hydrodynamics: enhanced ﬂow in carbon nanotubes. Nature
+2005;438(7064):44.
+
+[64] Sun L, Crooks RM. Single carbon nanotube membranes: a
+well-deﬁned model for studying mass transport through
+nanoporous materials. J Am Chem Soc 2000;122(49):12340–5.
+[65] Hinds BJ, Chopra N, Rantell T, Andrews R, Gavalas V, Bachas
+
+LG. Aligned multiwalled carbon nanotube membranes.
+Science 2004;303(5654):62–5.
+
+[66] Majumder M, Chopra N, Hinds BJ. Effect of tip
+
+functionalization on transport through vertically oriented
+carbon nanotube membranes. J Am Chem Soc
+2005;127(25):9062–70.
+
+[67] Kalra A, Garde S, Hummer G. Osmotic water transport
+
+through carbon nanotube membranes. Proc Natl Acad Sci
+USA 2003;100(18):10175–80.
+
+[68] Schneider GF, Kowalczyk SW, Calado VE, Pandraud G,
+
+Zandbergen HW, Vandersypen LM, et al. DNA translocation
+through graphene nanopores. Nano Lett 2010;10(8):3163–7.
+[69] Nelson T, Zhang B, Prezhdo OV. Detection of nucleic acids
+
+with graphene nanopores: ab initio characterization of a
+novel sequencing device. Nano Lett 2010;10:3237–42.
+
+

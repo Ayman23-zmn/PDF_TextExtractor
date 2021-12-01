@@ -1,0 +1,958 @@
+Review
+Recent Advances in Graphene Oxide-Based
+Anticorrosive Coatings: An Overview
+
+Mădălina-Ioana Necolau 1 and Andreea-Mădălina Pandele 1,2,*
+1 Advanced Polymer Materials Group, University Politehnica of Bucharest, Gh. Polizu Street,
+
+011061 Bucharest, Romania; madalina.necolau@upb.ro
+
+2 Department of Analytical Chemistry and Environmental Engineering, Faculty of Applied Chemistry and
+Materials Science, University Politehnica of Bucharest, Gheorghe Polizu 1-7, 011061 Bucharest, Romania
+
+* Correspondence: pandele.m.a@gmail.com; Tel.: +40-0745-266-484
+
+Received: 26 October 2020; Accepted: 23 November 2020; Published: 25 November 2020
+
+Abstract: The present review outlines the most recent advance in the ﬁeld of anticorrosive coatings
+based on graphene oxide nanostructures as active ﬁller. This carbonaceous material was extensively
+used in the last few years due to its remarkable assets and proved to have a signiﬁcant contribution
+to composite materials. Concerning the graphene-based coatings, the synthesis methods, protective
+function, anticorrosion mechanism, feasible problems, and some methods to improve the overall
+properties were highlighted. Regarding the contribution of the nanostructure used to improve the
+capability of the material, several modiﬁcation strategies for graphene oxide along with the synergistic
+eﬀect exhibited when functionalized with other compounds were mainly discussed.
+
+Keywords: graphene oxide composite coating; anticorrosive coatings; surface modiﬁcation; corrosion
+
+1. Introduction
+
+Coatings have become one of the most widespread applications for polymeric materials. They can
+be applied to various substrates in order to conserve and protect the main function of a material [1,2].
+In addition to the protective and decorative purposes, researchers have focused their attention on
+developing functional coatings capable of delivering additional functions such as anticorrosive, super
+hydrophobic, antifouling, self-healing, thermal-resistant, and antimicrobial capability [3–8].
+
+Organic coatings came as an eﬃcient solution to protect the metallic substrates by building a
+physical border between them and the environmental conditions that sustain the deterioration of
+the reactive materials [9]. However, there are still some deﬁciencies such as local defects, pinholes,
+microcracks, or pores, which can allow the small ions to diﬀuse within the polymeric coating and
+induce the corrosion [10,11].
+
+The protection mechanism exhibited by the coating for metal surfaces is related to the adsorption
+between the contact surfaces and the material involved in the process and also to the chemical processes
+that occur when the system is exposed to aggressive conditions and an erosive environment. Another
+important aspect that needs to be considered is the diﬀusion pathway for the corrosive species as well
+as the corrosion rate [12].
+
+Corrosion has been a serious threat to both the economy and society for decades, as it aﬀects some
+of the most used materials in terms of structural applications. It is an electrochemical process that
+mostly aﬀects the metallic materials resulting in oxidation of their surfaces and is recognized as one of
+the most signiﬁcant problems within the ﬁeld of coatings [13]. Many protection approaches have been
+proposed to impede or suppress metal corrosion, and among them, anti-corrosion organic coatings are
+one of the most powerful techniques.
+
+Coatings 2020, 10, 1149; doi:10.3390/coatings10121149
+
+www.mdpi.com/journal/coatings
+
+coatings# &!*-0+/ .Coatings 2020, 10, 1149
+
+2 of 15
+
+Anticorrosive coatings can be classiﬁed based on the mechanism of protection that they possess [14,
+15], and the most known are barrier protection [16,17], anodic passivation [18], cathodic protection [19],
+electrolytic inhibition [20,21], and active corrosion inhibitors [22,23]. The main objective for all
+these approaches is to decelerate or entirely hinder the main electrochemical phenomena that lead
+to corrosion.
+
+The latest research studies demonstrate that the incorporation of functional nanoparticles can
+combat and even prevent the corrosion occurrence and are also capable of enhancing the lifetime of the
+coating. Nanostructures such as silicon dioxide (SiO2) [24,25], carbon nanotubes (CNT) [26,27], zinc
+oxide (ZnO) [28,29], zirconium dioxide (ZrO2) [30], gold nanoparticles [31], silver nanoparticles [32],
+cerium dioxide (CeO2) [33], titanium dioxide (TiO2) [34], montmorillonite nanoparticles (MMT) [35],
+graphene oxide (GO) [36], and cerium oxyhydroxides (Ce-H2O2) [37] are some examples of active
+agents that were investigated for their anti-corrosion properties.
+
+Graphene is a recent discovered allotrope form of carbon that inspired the scientiﬁc world and
+broadened the ﬁeld of application for composite materials due to its distinguished highly speciﬁc
+surface area, mechanical, electrical, and thermal properties [38–44]. The practical use of graphene is
+limited because of the costs generated by the production methods, its poor solubility, and its tendency
+to agglomerate when used in composite formulations [45]. Thus, graphene oxide became a strong
+alternative due to the strength of its structural similarities with graphite. This oxidized form of
+graphene possesses superior mechanical strength, chemical, and thermal stability. Graphene oxide has
+been considered a promising nanomaterial in barrier applications. This molecule does not allow the
+diﬀusion of small atoms or compounds thanks to the high density of the constituent electrons of the
+honeycomb-like structures from the planar sheet [46].
+
+The basis of its outstanding properties resides in its chemical conﬁguration, which consists of a
+two-dimensional sheet of a semi aromatic network made of sp2 carbon atoms organized in an ideal
+hexagonal pattern. A very signiﬁcant particularity for this carbonaceous material is the existence of
+numerous defects on its basal plane such as diﬀerent oxygen-containing functional groups including
+epoxide, carboxyl, and hydroxyl. These oxygenated groups are responsible for many advantages such
+as increased solubility, hydrophilicity, and the ability to form a stable colloidal solution, and they also
+provide the possibility of performing various functionalization reactions on the basal plane [45–48].
+Figure 1 shows the most signiﬁcant features for graphene oxide.
+
+Figure 1. Morphological and structural characterization of graphene oxide (a) Atomic Force Microscopy
+(AFM), (b) Field Emission Scanning Electron Microscopy (FESEM), (c) High-resolution transmission
+electron microscopy (HR-TEM), (d) Raman Spectrometry, (e) X-ray photoelectron spectroscopy (XPS),
+and (f) X-ray diﬀraction (XRD). (Adapted with permission from ref. [48] 2020 Elsevier).
+
+Coatings 2020, 10, x 2 of 15  Anticorrosive coatings can be classified based on the mechanism of protection that they possess [14,15], and the most known are barrier protection [16,17], anodic passivation [18], cathodic protection [19], electrolytic inhibition [20,21], and active corrosion inhibitors [22,23]. The main objective for all these approaches is to decelerate or entirely hinder the main electrochemical phenomena that lead to corrosion. The latest research studies demonstrate that the incorporation of functional nanoparticles can combat and even prevent the corrosion occurrence and are also capable of enhancing the lifetime of the coating. Nanostructures such as silicon dioxide (SiO2) [24,25], carbon nanotubes (CNT) [26,27], zinc oxide (ZnO) [28,29], zirconium dioxide (ZrO2) [30], gold nanoparticles [31], silver nanoparticles [32], cerium dioxide (CeO2) [33], titanium dioxide (TiO2) [34], montmorillonite nanoparticles (MMT) [35], graphene oxide (GO) [36], and cerium oxyhydroxides (Ce-H2O2) [37] are some examples of active agents that were investigated for their anti-corrosion properties. Graphene is a recent discovered allotrope form of carbon that inspired the scientific world and broadened the field of application for composite materials due to its distinguished highly specific surface area, mechanical, electrical, and thermal properties [38–44]. The practical use of graphene is limited because of the costs generated by the production methods, its poor solubility, and its tendency to agglomerate when used in composite formulations [45]. Thus, graphene oxide became a strong alternative due to the strength of its structural similarities with graphite. This oxidized form of graphene possesses superior mechanical strength, chemical, and thermal stability. Graphene oxide has been considered a promising nanomaterial in barrier applications. This molecule does not allow the diffusion of small atoms or compounds thanks to the high density of the constituent electrons of the honeycomb-like structures from the planar sheet [46]. The basis of its outstanding properties resides in its chemical configuration, which consists of a two-dimensional sheet of a semi aromatic network made of sp2 carbon atoms organized in an ideal hexagonal pattern. A very significant particularity for this carbonaceous material is the existence of numerous defects on its basal plane such as different oxygen-containing functional groups including epoxide, carboxyl, and hydroxyl. These oxygenated groups are responsible for many advantages such as increased solubility, hydrophilicity, and the ability to form a stable colloidal solution, and they also provide the possibility of performing various functionalization reactions on the basal plane [45–48]. Figure 1 shows the most significant features for graphene oxide.  Figure 1. Morphological and structural characterization of graphene oxide (a) Atomic Force Microscopy (AFM), (b) Field Emission Scanning Electron Microscopy (FESEM), (c) High-resolution transmission electron microscopy (HR-TEM), (d) Raman Spectrometry, (e) X-ray photoelectron spectroscopy (XPS), and (f) X-ray diffraction (XRD). (Adapted with permission from ref. [48] 2020 Elsevier). Coatings 2020, 10, 1149
+
+3 of 15
+
+When used in a composite, GO often assemble into a three-dimensional layered sheet that
+sustains the integrity of the coating by hindering the exchange of volatile compounds with the external
+environment. In addition to its chemical inertness, electrical conductivity, and intrinsic impermeability,
+the size of the graphene ﬂakes has a considerable inﬂuence over the performance of the coating [49,50].
+Various approaches have been explored in order to use graphene oxide for coatings, which proved
+to be a promising anti-corrosion agent in high-temperature and aqueous environments. The most
+notable ones include electrophoretic deposition (EPD) [49], chemical vapor deposition (CVD) [46],
+solution dip coating [47], spin coating [1], and spray coating [2]. Electrophoretic deposition can be
+used with graphene oxide due to its exceptional thermal and electrical properties, and it is often used
+for anti-corrosion application. Table 1 summarize the main characteristic for the methods used for
+fabrication of GO-based coatings.
+
+Table 1. Pure graphene coatings for corrosion protection.
+
+Method
+
+Substrates
+
+Advantages
+
+Disadvantages
+
+Ref.
+
+Electrophoretic
+deposition (EPD)
+
+Steel
+Copper
+Carbon steel
+
+Chemical vapor
+deposition (CVD)
+
+Copper
+Nickel
+Steel
+
+Solution dip
+coating
+
+Nickel
+Aluminum
+
+-Cost eﬀectiveness
+-Uniform deposition
+-Good control of
+coating thickness
+-Anti-corrosion
+applications
+
+-Anti-corrosion
+applications
+-Increase the
+electrical
+conductivity of Ni
+
+-Cost eﬀectiveness
+-High processability
+without the help of
+any additives
+-Easy to scale-up
+
+-Poor adhesion of GO to
+the substrate
+-The anti-corrosion
+performance may vary
+depending on
+electrodeposition
+parameters, and chemical
+composition of the precursor
+-Poor adhesion strength to
+the substrate
+-High costs
+-Sophisticated equipment
+-High temperature of
+the process
+
+[49,51–53]
+
+[54,55]
+
+-The properties of the ﬁnal
+coating depend on the
+coverage degree
+
+[56–59]
+
+All the methods presented above entail substantial drawbacks, and they can be applied to a
+limited number of substrates. In this regard, a great research interest was attracted by the possibility of
+designing organic composite coatings that can integrate the carbonaceous structure, emphasizing the
+functions of both polymer and nanostructure.
+
+2. Functionalization Agents for Graphene Oxide in Order to Be Used as Anticorrosive Agent
+
+Therefore, on account of the previously mentioned properties, this revolutionary material can be
+used in the synthesis of advanced composite coatings by combining the capability of restricting the
+permeability of water and aggressive species with other extraordinary features of polymeric materials.
+There is a considerable number of published works on GO polymer composites for anticorrosive
+applications, and the recent ones focused on the possibility of tailoring and modifying the surface
+features of graphene oxide in order to obtain advanced materials by various strategies, most of them
+based on both chemical and physical interactions [60–63].
+
+Graphene oxide has the capability of ensuring the coatings when used as ﬁller with hydrophobic
+features and can also diminish the adsorption and migration of corrosive media, which eﬀectively
+improve the corrosion resistance of the composite coating.
+
+Coatings 2020, 10, 1149
+
+4 of 15
+
+2.1. Organic Compounds Modiﬁcation of Graphene Oxide
+
+Due to its nanometric dimensions and remarkable properties, graphene oxide proved to be an ideal
+candidate for nanocomposite formulations based on polymeric materials, as it has been demonstrated
+that better properties are achieved when the nanostructures used do not aggregate and exist within the
+matrix in a well exfoliated manner [64–66].
+
+To ensure that graphene can eﬀectively increase the properties of the polymeric matrix, it needs to
+have a uniform distribution. However, the main diﬃculty in the employment of GO nanosheets as a
+desirable reinforcing material in polymeric matrices arises from the interaction via hydrogen bonding
+between the functional groups existing on the basal plane of the nanosheets, which further generates
+agglomeration. Thus, only by performing a suitable functionalization is it possible to accomplish a
+homogeneous dispersion of the nanostructures.
+
+The oxygen-containing functionalities on the GO surface can act as bonding sites, which provide
+the possibility of performing additional modiﬁcations of the surface. Various functional groups can be
+attached to the graphene oxide from the oxygenated groups to develop versatile characteristics.
+
+The covalent modiﬁcation of the GO surface has numerous advantages such as the formation
+of strong interactions, which will lead to superior thermal and mechanical properties and also to a
+high eﬃciency of load transfer for the material. In this context, the extended π conjugation of the GO
+nanosheets does not undergo any changes during the process [67–70].
+
+The non-covalent surface treatment of graphene oxide can modify the hybridization of the carbon
+structure from sp2 to sp3, which increases the number of defects on the basal plane and aﬀects the
+mechanical properties of GO nanosheets [71–73].
+
+The chemical modiﬁcation of graphene oxide with dodecylamine (GO-DDA) [74] led to an increase
+of 12.39% for the percentage protection eﬃciency when used in a composite formulation for aircraft
+anticorrosive applications. Even 1.2% of GO-DDA is capable of impeding the growth of cracks and
+reducing the pathway of corrosion media to the metal surface. A very important parameter that need
+to be taken into consideration when designing an anticorrosive coating is the hydrophilicity of the
+material used. The high content of polar groups (hydroxyl, epoxy, and carboxyl) on the graphene
+oxide surface can facilitate the absorption and diﬀusion of water, and this aspect has an unfavorable
+eﬀect over the barrier property. The eﬃciency of this system was evaluated by potentiodynamic
+polarization and electrochemical impedance spectroscopy (EIS) techniques after immersion in 3.5
+wt.% NaCl. The results showed that both nanostructures act as a barrier to impede the permeation of
+corrosive electrolytes.
+
+Sodium tripolyphosphate, a water-soluble linear polyphosphate, was chemically attached by
+graphene oxide to accomplish a novel anti-corrosive pigment (STG) with uniform dispersion in
+water-borne epoxy (EP) [75]. The corrosion resistance of the STG/EP coating on carbon steel substrates
+was investigated via electrochemical measurements and a salt spray test for diﬀerent concentrations
+of STG pigment. The particularity of the mechanism for this system resides in the capability of
+the tripolyphosphate to form a passive ﬁlm through the chelation with the metallic ions from the
+substrate [76]. The salt spray test results demonstrate that 0.7% STG added in an epoxy matrix had
+superior corrosion resistance in comparison with 0.7% graphene oxide/epoxy nanocomposite.
+
+Reduced graphene oxide was successfully modiﬁed with polyamidoamine dendrimer
+(GO-PAMAM) and was used as the active ﬁller in an epoxy matrix to obtain a high-performance
+anti-corrosion system [77]. The results of electrochemical impedance spectroscopy (EIS) and salt spray
+test demonstrated that using 0.2 wt.% GO-PAMAM enhanced the corrosion protection properties of
+the epoxy coating. As it can be seen in Figure 2, the incorporation of GO-PAMAM into the epoxy
+matrix signiﬁcantly reduced the corrosion products and diminished the coating delamination.
+
+Coatings 2020, 10, 1149
+
+5 of 15
+
+Salt spray test results for the (A1–A3) blank epoxy,
+
+Figure 2.
+(B1–B3) graphene oxide
+(GO)/epoxy and (C1–C3) graphene oxide was successfully modiﬁed with polyamidoamine dendrimer
+(GO-PAMAM)/epoxy composites after (A1,B1,C1) 7 days, (A2,B2,C2) 14 days, and (A3,B3,C3) 21 days
+exposure to the salt spray test (Adapted with permission from ref. [77] 2020 Elsevier).
+
+PAMAM contributes to the improvement of the dispersion quality of graphene oxide ﬂakes
+and enhances the interfacial interactions. Due to the high speciﬁc surface area and good dispersion,
+GO-PAMAM sheets might considerably increase the diﬀusion pathway length for various electrolytes,
+which promote corrosion and also obstruct the defects and pores present in the coating network.
+In addition to the above-mentioned advantages of PAMAM, the polar amino groups of this molecule
+can chemically interact with epoxide groups of the resin, increasing in this way the cross-linking
+density of the coating. This aspect leads to the enhancement of the barrier properties of the coating.
+
+2.2. Macromolecular Compounds Modiﬁcation of Graphene Oxide
+
+There is a signiﬁcant interest in the development of high-performance anticorrosive coatings
+that are capable of combining the properties of the nanostructure and the polymeric matrix. Such
+composite systems based on graphene oxide have been studied and they include polymers such
+as benzoxazine, polyaniline, polyurea, polyurethane, and epoxy resin, which is the most used and
+eﬀective polymeric material in the coatings industry [78–82]. Polymeric materials tend to form a high
+adhesive barrier due to the fact that they can chemically interact by covalent bonding to diﬀerent
+substrates. Graphene–epoxy nanocomposites have been the major point of interest for many studies
+because of their superior actions. The epoxy resin is popular among other polymeric materials for its
+coating function, excellent adhesion to a large number of substrates, high tensile strength, superior
+mechanical properties, high chemical stability, and good corrosion resistance.
+
+Polymers-grafted GO sheets have attracted the extensive interest of researchers based on their
+outstanding advantages. By this method, one can incorporate the properties of GO nanostructures and
+polymers, obtaining a homogeneous distribution of the reinforcing agent within the polymeric matrix
+and one also can tailor and design the features of the desired material.
+
+Coatings 2020, 10, x 5 of 15   Figure 2. Salt spray test results for the (A1–A3) blank epoxy, (B1–B3) graphene oxide (GO)/epoxy and (C1–C3) graphene oxide was successfully modified with polyamidoamine dendrimer (GO-PAMAM)/epoxy composites after (A1,B1,C1) 7 days, (A2,B2,C2) 14 days, and (A3,B3,C3) 21 days exposure to the salt spray test (Adapted with permission from ref. [77] 2020 Elsevier). PAMAM contributes to the improvement of the dispersion quality of graphene oxide flakes and enhances the interfacial interactions. Due to the high specific surface area and good dispersion, GO-PAMAM sheets might considerably increase the diffusion pathway length for various electrolytes, which promote corrosion and also obstruct the defects and pores present in the coating network. In addition to the above-mentioned advantages of PAMAM, the polar amino groups of this molecule can chemically interact with epoxide groups of the resin, increasing in this way the cross-linking density of the coating. This aspect leads to the enhancement of the barrier properties of the coating. 2.2. Macromolecular Compounds Modification of Graphene Oxide There is a significant interest in the development of high-performance anticorrosive coatings that are capable of combining the properties of the nanostructure and the polymeric matrix. Such composite systems based on graphene oxide have been studied and they include polymers such as benzoxazine, polyaniline, polyurea, polyurethane, and epoxy resin, which is the most used and effective polymeric material in the coatings industry [78–82]. Polymeric materials tend to form a high adhesive barrier due to the fact that they can chemically interact by covalent bonding to different substrates. Graphene–epoxy nanocomposites have been the major point of interest for many studies because of their superior actions. The epoxy resin is popular among other polymeric materials for its coating function, excellent adhesion to a large number of substrates, high tensile strength, superior mechanical properties, high chemical stability, and good corrosion resistance. Polymers-grafted GO sheets have attracted the extensive interest of researchers based on their outstanding advantages. By this method, one can incorporate the properties of GO nanostructures and polymers, obtaining a homogeneous distribution of the reinforcing agent within the polymeric matrix and one also can tailor and design the features of the desired material. Polyacrylate functionalized GO (PA-GO) was successfully synthesized by free-radical copolymerization technology and used as active filler for corrosion in an epoxy resin matrix [83]. The Coatings 2020, 10, 1149
+
+6 of 15
+
+Polyacrylate functionalized GO (PA-GO) was successfully synthesized by free-radical
+copolymerization technology and used as active ﬁller for corrosion in an epoxy resin matrix [83].
+The electrochemical tests conﬁrm that the corrosion resistance of epoxy coating containing PA-GO was
+signiﬁcantly increased in comparison with neat epoxy. The corrosion rate of the epoxy nanocomposite
+coating was almost three times lower, suggesting that the incorporation of PA-GO consolidates the
+corrosion protection capacity of the epoxy coating. Figure 3 presents the anticorrosion mechanism
+exhibited by the PA-GO system.
+
+Figure 3. The corrosion mechanism of epoxy resin reinforced with PA-GO (Reprinted with permission
+from ref. [83] 2020 Elsevier).
+
+In this aspect, Zhu et al. [84] synthesized graphene oxide/polyaniline (GO/PANI) by the in situ
+polymerization of aniline on the graphene oxide surface in order to increase the hydrophobicity. Along
+with that, an increased anticorrosive capability and electrical conductivity was achieved when 1.5%
+GO/PANI was integrated in an epoxy coating and electrochemical analysis was performed on the
+sample immersed in a 5 wt.% NaCl. Polyaniline nanoﬁbers (PANI) were intercalated with cationic
+reduced graphene oxide (RGO+) and used as an anticorrosive agent in water-borne polyurethane
+coatings [85]. The results of electrochemical analysis revealed that the lowest value for the corrosion
+current density was obtained when a 50:50 wt.% ratio of PANI:RGO+ was used.
+
+Polypyrrole (PPy) is another example of a polymer that was used for the graphene oxide
+functionalization and showed a signiﬁcant synergistic eﬀect toward the anti-corrosion mechanism
+when it was used as ﬁller in a 0.5% epoxy resin [86].
+
+The protective mechanism of the GO-PPy is illustrated in Figure 4. In the case of a neat epoxy
+coating, the diﬀusion of corrosive species occurs along the thickness of the material (Figure 4a).
+The oxidative reactions that take place at the interface induced the delamination of the coatings from
+the metal, which will further cause the loss of the protective ability.
+
+While GO embedded within the coating matrix show only a reduced hinderance eﬀect (Figure 4b),
+in the case of a GO-PPy nanocomposite, the perpendicular arrangement of the nanosheets to the layer
+of coating provides a devious pathway for corrosive species that impedes the advent of the corrosion.
+The amino functional groups from the PPy backbone generate an additional crosslinking eﬀect toward
+the epoxy coating. By increasing the crosslinking density of the polymeric network, the occurrence of
+micro-pores along the coating decreases, thus increasing the barrier properties (Figure 4c).
+
+Ramezanzadeh et al. [87] developed a nanoplatform with superior anti-corrosive action built up
+through a one-pot synthesis method of zeolitic imidazolate framework-8 (ZIF-8) on the graphene oxide
+sheets. The particles applied on a steel sample showed a corrosion inhibition eﬃciency of about 79%
+when immersed in a NaCl solution by polarization tests.
+
+Coatings 2020, 10, x 6 of 15  electrochemical tests confirm that the corrosion resistance of epoxy coating containing PA-GO was significantly increased in comparison with neat epoxy. The corrosion rate of the epoxy nanocomposite coating was almost three times lower, suggesting that the incorporation of PA-GO consolidates the corrosion protection capacity of the epoxy coating. Figure 3 presents the anticorrosion mechanism exhibited by the PA-GO system.  Figure 3. The corrosion mechanism of epoxy resin reinforced with PA-GO (Reprinted with permission from ref. [83] 2020 Elsevier). In this aspect, Zhu et al. [84] synthesized graphene oxide/polyaniline (GO/PANI) by the in situ polymerization of aniline on the graphene oxide surface in order to increase the hydrophobicity. Along with that, an increased anticorrosive capability and electrical conductivity was achieved when 1.5% GO/PANI was integrated in an epoxy coating and electrochemical analysis was performed on the sample immersed in a 5 wt.% NaCl. Polyaniline nanofibers (PANI) were intercalated with cationic reduced graphene oxide (RGO+) and used as an anticorrosive agent in water-borne polyurethane coatings [85]. The results of electrochemical analysis revealed that the lowest value for the corrosion current density was obtained when a 50:50 wt.% ratio of PANI:RGO+ was used. Polypyrrole (PPy) is another example of a polymer that was used for the graphene oxide functionalization and showed a significant synergistic effect toward the anti-corrosion mechanism when it was used as filler in a 0.5% epoxy resin [86]. The protective mechanism of the GO-PPy is illustrated in Figure 4. In the case of a neat epoxy coating, the diffusion of corrosive species occurs along the thickness of the material (Figure 4a). The oxidative reactions that take place at the interface induced the delamination of the coatings from the metal, which will further cause the loss of the protective ability.  Figure 4. The protective mechanism of GO-PPy (polypyrrole) in anticorrosive formulations (Reprinted with permission from ref. [86] 2020 Elsevier). Coatings 2020, 10, 1149
+
+7 of 15
+
+Figure 4. The protective mechanism of GO-PPy (polypyrrole) in anticorrosive formulations (Reprinted
+with permission from ref. [86] 2020 Elsevier).
+
+Recent studies in the design of coatings focus on the strategy of combining diﬀerent corrosion
+inhibition mechanisms in a synergetic way through a single coating system aiming to increase
+the lifetime of the structural components and to oﬀer protection against corrosive environments.
+The association of graphene with proper nanomaterials can be a productive way to adjust and
+strengthen the adsorption and anti-corrosion assets of graphene in order to work as an excellent
+corrosion inhibitor.
+
+Hyper-branched polymers represent a class of three-dimension macromolecular compounds that
+possesses a generous number of end-functional groups and ﬁnds applicability in anticorrosive coating.
+In comparison with linear polymers, dendritic macromolecules exhibit superior physical and chemical
+properties [88,89]. Their speciﬁc spheroid-like conﬁguration, compact conﬁguration, and high density
+of the functional group makes them suitable to interact with the oxygen functionalities that exist on the
+basal plane of graphene oxide nanoﬂakes [90].
+
+Hydroxyl-terminated hyper-branched polyamide was used to functionalize graphene oxide
+(HB/GO) by non-covalent interaction and was used as anticorrosive active ﬁller for epoxy ﬁlm [91].
+The authors concluded that the hyper-branched polyamide had a prominent role in the improvement
+of the dispersion of graphene oxide sheets within the polymeric coating and also contributes to the
+increase of the adhesion properties. All these features along with electrochemical tests and salt spray
+experiment support the corrosion protection enhancement exhibited by this nanostructure.
+
+2.3. Inorganic Compounds Modiﬁcation of Graphene Oxide
+
+In addition to the above-mentioned functionalization agents, there is another class of compounds
+capable of enhancing the mechanical properties of the nanocomposite materials. Inorganic compounds
+attached onto the graphene oxide surface are able to improve the barrier eﬀect and the resistance to
+external factors [92].
+
+Ye et al. [93] studied the anticorrosive eﬀect of covalently modiﬁed polyhedral oligomeric
+silsesquioxane–graphene oxide (POSS-GO) when used in epoxy composite coatings in a marine
+environment. When they compared the neat epoxy system with the GO-POSS/epoxy nanocomposite,
+they concluded that by adding only 0.5% of nanostructure, the barrier eﬀect and long-term anti-corrosion
+capability was signiﬁcant increased. The particularity of this system resides in the capability of ﬁlling
+the morphological defects present in the coating and also to hamper the diﬀusion path for the corrosive
+species. Figure 5 depicts the morphology of the epoxy coatings after explosion to corrosion.
+
+Coatings 2020, 10, x 6 of 15  electrochemical tests confirm that the corrosion resistance of epoxy coating containing PA-GO was significantly increased in comparison with neat epoxy. The corrosion rate of the epoxy nanocomposite coating was almost three times lower, suggesting that the incorporation of PA-GO consolidates the corrosion protection capacity of the epoxy coating. Figure 3 presents the anticorrosion mechanism exhibited by the PA-GO system.  Figure 3. The corrosion mechanism of epoxy resin reinforced with PA-GO (Reprinted with permission from ref. [83] 2020 Elsevier). In this aspect, Zhu et al. [84] synthesized graphene oxide/polyaniline (GO/PANI) by the in situ polymerization of aniline on the graphene oxide surface in order to increase the hydrophobicity. Along with that, an increased anticorrosive capability and electrical conductivity was achieved when 1.5% GO/PANI was integrated in an epoxy coating and electrochemical analysis was performed on the sample immersed in a 5 wt.% NaCl. Polyaniline nanofibers (PANI) were intercalated with cationic reduced graphene oxide (RGO+) and used as an anticorrosive agent in water-borne polyurethane coatings [85]. The results of electrochemical analysis revealed that the lowest value for the corrosion current density was obtained when a 50:50 wt.% ratio of PANI:RGO+ was used. Polypyrrole (PPy) is another example of a polymer that was used for the graphene oxide functionalization and showed a significant synergistic effect toward the anti-corrosion mechanism when it was used as filler in a 0.5% epoxy resin [86]. The protective mechanism of the GO-PPy is illustrated in Figure 4. In the case of a neat epoxy coating, the diffusion of corrosive species occurs along the thickness of the material (Figure 4a). The oxidative reactions that take place at the interface induced the delamination of the coatings from the metal, which will further cause the loss of the protective ability.  Figure 4. The protective mechanism of GO-PPy (polypyrrole) in anticorrosive formulations (Reprinted with permission from ref. [86] 2020 Elsevier). Coatings 2020, 10, 1149
+
+8 of 15
+
+Figure 5. The morphology of the coatings after a corrosion test (a) Epoxy coating (EP); (b) 0.5% Graphene
+oxide/Epoxy coating (GO/EP); (c) 0.5% POSS-GO/Epoxy coating (PG/EP); (d) 1% POSS-GO/Epoxy
+coating (PG/EP). (Reprinted with permission from ref. [93] 2020 Elsevier).
+
+Graphene oxide decoration proved to be an eﬀective approach to improve various characteristics
+due to the synergistic eﬀects that occur when diﬀerent nanoparticles are used. Lv et al. [94] used ZrO2
+to cover both sides of reduced graphene oxide (rGO) and proved by electrochemical analysis performed
+in a 3.5% NaCl medium that the incorporation of only 0.5 wt.% of this nanostructure ZrO2-rGO in
+an epoxy matrix generates a uniform and defect-free anticorrosive coating with a resistance value of
+81.8 GΩ\bulletcm2.
+
+A novel anticorrosive material with a stable structure was developed by Xue [95] by in situ bonding
+technology between graphene oxide and hydroxyapatite (GO/HAP). This advanced nanostructure
+is capable of obstructing the charge transfer and hindering the permeating path of the aggressive
+species. The anticorrosive mechanism of this formulations resides in the synergistic eﬀect between its
+components. Graphene oxide has the ability to collect the electrons generated during the corrosion
+process, while HAP is capable of immobilizing the militant Cl
+ions and generating stable chlorapatite.
+Thus, by adding 0.6% GO/HAP into an epoxy matrix, the impedance value increased by 754.4% as
+compared with the neat epoxy sample.
+
+−
+
+Aiming to develop advanced nanostructures, Nguyen [96] used molybdate intercalated
+hydrotalcite (HT-MoO4) to functionalize the surface of graphene oxide (GO) in order to obtain
+an anticorrosive eﬀect for the carbon steel substrate. The eﬃciency of this system is given by
+the capability of molybdate to act as an inhibitor when released from the graphene oxide surface.
+Electrochemical tests were performed in a NaCl solution, and the results showed that the incorporation
+of 1 wt.% HT-MoO4/GO in an epoxy matrix granted anodic and cathodic hinderance eﬀects for carbon
+steel with an eﬃciency of 96%. The mechanism of this system relies on the particularity of molybdate,
+which can form an insoluble layer of ferrous-ferric molybdates at the steel surface. GO improved the
+barrier properties by preserving the protective tint formed by HT-MoO4/GO structures.
+
+Another approach proposed by Shariﬁ et al. [48] studies the anti-corrosive eﬀect of graphene
+oxide modiﬁed with nitrogen, sulfur, and phosphorous atoms (NPS-GO) incorporated in melamine
+formaldehyde and urea formaldehyde, which are water-soluble polymeric compounds.
+
+The mechanism of this system is based on the capability of the heteroatoms attached to the
+graphene surface to be absorbed by the surface of the covered substrate when dispersed in an aqueous
+medium. Due to the presence of these corrosion inhibitor nanoparticles, both graphene oxide and
+the active nanostructures adsorb on the surface concomitantly. In this case, graphene oxide acts as a
+supplementary coating for corrosion inhibitor moieties and entraps them on the metallic substrate;
+subsequently, the protective layer becomes thicker and more resistant (Figure 6) [48].
+
+Coatings 2020, 10, x 8 of 15   Figure 5. The morphology of the coatings after a corrosion test (a) Epoxy coating (EP) ; (b) 0.5% Graphene oxide/Epoxy coating (GO/EP); (c) 0.5% POSS-GO/Epoxy coating (PG/EP); (d) 1% POSS-GO/Epoxy coating (PG/EP). (Reprinted with permission from ref. [93] 2020 Elsevier). Graphene oxide decoration proved to be an effective approach to improve various characteristics due to the synergistic effects that occur when different nanoparticles are used. Lv et al. [94] used ZrO2 to cover both sides of reduced graphene oxide (rGO) and proved by electrochemical analysis performed in a 3.5% NaCl medium that the incorporation of only 0.5 wt.% of this nanostructure ZrO2-rGO in an epoxy matrix generates a uniform and defect-free anticorrosive coating with a resistance value of 81.8 GΩ\bulletcm2. A novel anticorrosive material with a stable structure was developed by Xue [95] by in situ bonding technology between graphene oxide and hydroxyapatite (GO/HAP). This advanced nanostructure is capable of obstructing the charge transfer and hindering the permeating path of the aggressive species. The anticorrosive mechanism of this formulations resides in the synergistic effect between its components. Graphene oxide has the ability to collect the electrons generated during the corrosion process, while HAP is capable of immobilizing the militant Cl− ions and generating stable chlorapatite. Thus, by adding 0.6% GO/HAP into an epoxy matrix, the impedance value increased by 754.4% as compared with the neat epoxy sample. Aiming to develop advanced nanostructures, Nguyen [96] used molybdate intercalated hydrotalcite (HT-MoO4) to functionalize the surface of graphene oxide (GO) in order to obtain an anticorrosive effect for the carbon steel substrate. The efficiency of this system is given by the capability of molybdate to act as an inhibitor when released from the graphene oxide surface. Electrochemical tests were performed in a NaCl solution, and the results showed that the incorporation of 1 wt.% HT-MoO4/GO in an epoxy matrix granted anodic and cathodic hinderance effects for carbon steel with an efficiency of 96%. The mechanism of this system relies on the particularity of molybdate, which can form an insoluble layer of ferrous-ferric molybdates at the steel surface. GO improved the barrier properties by preserving the protective tint formed by HT-MoO4/GO structures. Another approach proposed by Sharifi et al. [48] studies the anti-corrosive effect of graphene oxide modified with nitrogen, sulfur, and phosphorous atoms (NPS-GO) incorporated in melamine formaldehyde and urea formaldehyde, which are water-soluble polymeric compounds. The mechanism of this system is based on the capability of the heteroatoms attached to the graphene surface to be absorbed by the surface of the covered substrate when dispersed in an aqueous medium. Due to the presence of these corrosion inhibitor nanoparticles, both graphene oxide and the active nanostructures adsorb on the surface concomitantly. In this case, graphene oxide acts as a supplementary coating for corrosion inhibitor moieties and entraps them on the metallic substrate; subsequently, the protective layer becomes thicker and more resistant (Figure 6) [48]. Coatings 2020, 10, 1149
+
+9 of 15
+
+Figure 6. The decoration of GO sheets with heteroatoms (Reprinted with permission from ref. [48] 2020
+Elsevier).
+
+Aluminum GO composite coatings were studied by Kumar et al. [97] in terms of the anticorrosive
+action on the copper substrate. The integration of GO into the Al matrix signiﬁcantly improves the
+morphology of the surface by reducing the structural defects of the coating and ensuring it with a
+compact nature. In addition to the action of the graphene oxide toward the morphology of the coating,
+it also aﬀects the desired orientation of Al crystallites. The GO-embedded Al coating demonstrated a
+60% reduction in corrosion [97].
+
+Zinc coatings on steel substrate are considered one of the most eﬀective ways to combat corrosion
+action. However, the main drawback of this sacriﬁcial coating is represented by its reduced lifetime;
+thus, an alternative method would be the formulation of a composite material with a Zn matrix. Starting
+from this hypothesis, Zn-GO composite coatings were obtained by Azaret et al. [98] and evaluated
+regarding the microstructure and corrosion behavior.
+In addition, a supplementary brightening
+additive was added in order to improve the surface morphology of the coating and to create a glossy
+aspect. Both graphene oxide and the brightening additive led to an increase of the adhesion strength of
+the Zn-GO nanocomposite coating, which was two times higher than that of the pure Zn coating.
+
+The anti-corrosion action of the Zn-GO composite coating was assessed by potentiodynamic
+polarization, electrochemical impedance spectroscopy (EIS), potentiometric and salt spray tests in air
+saturated 3.5 wt.% NaCl solution. Polarization measurements revealed that the inclusion of graphene
+changed the coating morphology and resulted in a ﬁner structure, which improves the resistance of the
+−
+coating to the diﬀusion of corrosive ions such as Cl
+
+[99].
+
+3. Conclusions
+
+The present review depicts the most recent advance in the ﬁeld of anticorrosive coatings with
+graphene oxide nanostructures from both perspectives—formulation and activity. An important
+parameter that needs to be taken into consideration when synthesizing an anticorrosive coating is the
+hydrophilicity. The presence of oxygen-containing functionalities on the graphene oxide basal plane
+can promote the absorption and diﬀusion of water molecules, leading to an unfavorable aspect over
+the barrier properties. For that, various functionalization approaches including several organic and
+inorganic agents such as dodecilamine, polypyrrole, polyacrylate, polyaniline, benzoxazine, polyurea,
+polyamidoamine dendrimer, sodium tripolyphosphate, POSS, hydroxyapatite, molibdate, aluminium,
+and zinc were used to overcome the previously mentioned drawback.
+
+The modiﬁed graphene oxide with hydrophobic features has the ability to diminish the
+absorption and migration of corrosive species and also can improve the corrosion resistance of
+the composite materials.
+
+All types of synthesis methods for graphene oxide-based coatings were presented, and also, a large
+number of speciﬁcally applications, involving nanocomposite coatings, were detailed and discussed.
+Each system was analyzed from the perspective of anticorrosive capacity in various conditions and the
+
+Coatings 2020, 10, x 9 of 15   Figure 6. The decoration of GO sheets with heteroatoms (Reprinted with permission from ref. [48] 2020 Elsevier). Aluminum GO composite coatings were studied by Kumar et al. [97] in terms of the anticorrosive action on the copper substrate. The integration of GO into the Al matrix significantly improves the morphology of the surface by reducing the structural defects of the coating and ensuring it with a compact nature. In addition to the action of the graphene oxide toward the morphology of the coating, it also affects the desired orientation of Al crystallites. The GO-embedded Al coating demonstrated a 60% reduction in corrosion [97]. Zinc coatings on steel substrate are considered one of the most effective ways to combat corrosion action. However, the main drawback of this sacrificial coating is represented by its reduced lifetime; thus, an alternative method would be the formulation of a composite material with a Zn matrix. Starting from this hypothesis, Zn-GO composite coatings were obtained by Azaret et al. [98] and evaluated regarding the microstructure and corrosion behavior. In addition, a supplementary brightening additive was added in order to improve the surface morphology of the coating and to create a glossy aspect. Both graphene oxide and the brightening additive led to an increase of the adhesion strength of the Zn-GO nanocomposite coating, which was two times higher than that of the pure Zn coating. The anti-corrosion action of the Zn-GO composite coating was assessed by potentiodynamic polarization, electrochemical impedance spectroscopy (EIS), potentiometric and salt spray tests in air saturated 3.5 wt.% NaCl solution. Polarization measurements revealed that the inclusion of graphene changed the coating morphology and resulted in a finer structure, which improves the resistance of the coating to the diffusion of corrosive ions such as Cl− [99]. 3. Conclusions The present review depicts the most recent advance in the field of anticorrosive coatings with graphene oxide nanostructures from both perspectives—formulation and activity. An important parameter that needs to be taken into consideration when synthesizing an anticorrosive coating is the hydrophilicity. The presence of oxygen-containing functionalities on the graphene oxide basal plane can promote the absorption and diffusion of water molecules, leading to an unfavorable aspect over the barrier properties. For that, various functionalization approaches including several organic and inorganic agents such as dodecilamine, polypyrrole, polyacrylate, polyaniline, benzoxazine, polyurea, polyamidoamine dendrimer, sodium tripolyphosphate, POSS, hydroxyapatite, molibdate, aluminium, and zinc were used to overcome the previously mentioned drawback. The modified graphene oxide with hydrophobic features has the ability to diminish the absorption and migration of corrosive species and also can improve the corrosion resistance of the composite materials. All types of synthesis methods for graphene oxide-based coatings were presented, and also, a large number of specifically applications, involving nanocomposite coatings, were detailed and discussed. Each system was analyzed from the perspective of anticorrosive capacity in various Coatings 2020, 10, 1149
+
+10 of 15
+
+protective mechanism exhibited by the reinforcing agents within the polymer or inorganic matrix used
+in each case.
+
+The main mechanism involved in corrosion protective composite coatings containing graphene
+oxide depends on the matrix used. Thus, for polymeric materials, the processing and curing might
+generate local defects in the structure which can promote the penetration of corrosive agents within
+the material structure. The diﬀusion pathway for electrolytes can be hindered by using functionalized
+graphene oxide, which can also act as a barrier at the material surface.
+
+Author Contributions: Conceptualization, M.-I.N. and A.-M.P.; resources, M.-I.N. and A.-M.P.; data curation,
+M.-I.N. and A.-M.P.; writing original draft preparation, M.-I.N.; project administration, A.-M.P.; funding acquisition,
+A.-M.P. All authors have read and agreed to the published version of the manuscript.
+Funding: The researchers acknowledge funding by the Romanian Research Project 40PCCDI/2018 NAPOLI19,
+subproject no. 1–“Innovative process for obtaining titanium nitride ceramics via composite polymer hybrids for
+biomedical applications-BIOTiN” and the project number PN-III-P1-1.1-PD-2016-0761, PN-III-PD 59/2018.
+Conﬂicts of Interest: The authors declare no conﬂict of interest.
+
+References
+
+1.
+
+2.
+
+3.
+
+Lan, P.; Nunez, E.E.; Polycarpou, A.A. Advanced polymeric coatings and their applications: Green tribology.
+Encycl. Renew. Sustain. Mater. 2020, 345–358. [CrossRef]
+Jones, F.N.; Nichols, M.E.; Pappas, S.P. Organic Coatings: Science and Technology, 4th ed.; John Wiley & Sons:
+Hoboken, NJ, USA, 2017; pp. 480–487.
+Sun, M.; Ma, Z.; Li, A.; Zhu, G.; Zhang, Y. Anticorrosive performance of polyaniline/waterborne
+epoxy/poly(methylhydrosiloxane) composite coatings. Prog. Org. Coat. 2020, 139, 105462. [CrossRef]
+
+4. Hooda, A.; Goyat, M.S.; Pandey, J.K.; Kumara, A.; Gupta, R. A review on fundamentals, constraints and
+
+5.
+
+6.
+
+7.
+
+fabrication techniques of superhydrophobic coatings. Prog. Org. Coat. 2020, 142, 105557. [CrossRef]
+Kavouras, P.; Trompeta, A.F.; Larroze, S.; Maranhão, M.; Teixeira, T.; Beltri, M.; Koumoulos, E.P.;
+Charitidis, C.A. Correlation of mechanical properties with antifouling eﬃcacy of coatings containing
+loaded microcapsules. Prog. Org. Coat. 2019, 136, 105249. [CrossRef]
+Sun, J.; Wang, Y.; Li, N.; Tian, L. Tribological and anticorrosion behavior of self-healing coating containing
+nanocapsules. Tribol. Int. 2019, 136, 332–341. [CrossRef]
+Zhao, Y.; Wen, J.; Peyraut, F.; Planche, M.-P.; Misra, S.; Lenoir, B.; Ilavskyd, J.; Liao, H.; Montavon, G. Porous
+architecture and thermal properties of thermal barrier coatings deposited by suspension plasma spray.
+Surf. Coat. Technol. 2020, 386, 125462. [CrossRef]
+
+8. Hung, Y.-T.; McLandsborough, L.A.; Goddard, J.M.; Bastarrachea, L.J. Antimicrobial polymer coatings with
+
+9.
+
+eﬃcacy against pathogenic and spoilage microorganisms. LWT 2018, 97, 546–554. [CrossRef]
+Ramezanzadeh, B.; Niroumandrad, S.; Ahmadi, A.; Mahdavian, M.; Moghadam, M.H.M. Enhancement
+of barrier and corrosion protection performance of an epoxy coating through wet transfer of amino
+functionalized graphene oxide. Corros. Sci. 2016, 103, 283–304. [CrossRef]
+
+10. Hegde, M.B.; Mohana, K.N. A sustainable and eco-friendly polymer based graphene oxide nanocomposite
+
+anti-corrosion coating on mild steel. Chem. Sel. 2020, 5, 1506–1515. [CrossRef]
+
+11. Tokita, S.; Kadoi, K.; Aoki, S.; Inoue, H. Relationship between the microstructure and local corrosion
+
+properties of weld metal in austenitic stainless steels. Corros. Sci. 2020, 175, 108867. [CrossRef]
+
+12. Chang, W.; Wang, P.; Zhao, Y.; Ren, C.; Popov, B.N.; Li, C. Characterizing corrosion properties of graphene
+
+barrier layers deposited on polycrystalline metals. Surf. Coat. Technol. 2020, 398, 126077. [CrossRef]
+
+13. Rahimi, S.K.; Potrekar, R.; Dutta, N.K.; Choudhury, N.R. Anticorrosive interfacial coatings for metallic
+
+substrates. Surf. Innov. 2013, 1, 112–137. [CrossRef]
+
+14. Rodrigues, R.; Gaboreau, S.; Gance, J.; Ignatiadis, I.; Betelu, S. Reinforced concrete structures: A review of
+corrosion mechanisms and advances in electrical methods for corrosion monitoring. Constr. Build. Mater.
+2020, 121240. [CrossRef]
+
+15. Razaghi, Z.; Rezaei, M. Corrosion mechanism of sulfate, chloride, and tetraﬂuoroborate ions interacted with
+Ni-19 wt.% Cr coating: A combined experimental study and molecular dynamics simulation. J. Mol. Liq.
+2020, 319, 114243. [CrossRef]
+
+Coatings 2020, 10, 1149
+
+11 of 15
+
+16. Yao, W.; Liang, W.; Huang, G.; Jiang, B.; Atrens, A.; Pan, F. Superhydrophobic coatings for corrosion
+
+protection of magnesium alloys. J. Mater. Sci. Technol. 2020, 52, 100–118. [CrossRef]
+
+17. Yao, Y.;
+
+Sun, H.; Zhang, Y.; Yin, Z. Corrosion protection of epoxy coatings containing
+2-hydroxyphosphonocarboxylic acid doped polyaniline nanoﬁbers. Prog. Org. Coat. 2020, 139, 105470.
+[CrossRef]
+
+18. Cao, X.; Huang, F.; Huang, C.; Liu, J.; Cheng, Y.F. Preparation of graphene nanoplate added zinc-rich epoxy
+coatings for enhanced sacriﬁcial anode-based corrosion protection. Corros. Sci. 2019, 159, 108120. [CrossRef]
+19. Park, I.-C.; Kim, S.-J. Determination of corrosion protection current density requirement of zinc sacriﬁcial
+anode for corrosion protection of AA5083-H321 in seawater. Appl. Surf. Sci. 2020, 509, 145346. [CrossRef]
+20. Ahangar, M.; Izadi, M.; Shahrabi, T.; Mohammadi, I. The synergistic eﬀect of zinc acetate on the protective
+behavior of sodium lignosulfonate for corrosion prevention of mild steel in 3.5 wt.% NaCl electrolyte: Surface
+and electrochemical studies. J. Mol. Liq. 2020, 314, 113617. [CrossRef]
+
+21. Loto, R.T. Corrosion inhibition study of beta-dimethylaminoethyl alcohol on low carbon steel in 0.5 M HCl
+
+electrolyte. J. Mater. Res. Technol. 2020, 9, 8787–8795. [CrossRef]
+
+22. Yan, D.; Wang, Y.; Liu, J.; Song, D.; Zhang, T.; Liu, J.; He, F.; Zhang, M.; Wang, J. Self-healing system adapted
+to diﬀerent pH environments for active corrosion protection of magnesium alloy. J. Alloy. Compd. 2020, 824,
+153918. [CrossRef]
+
+23. Chen, Y.; Lu, X.; Lamaka, S.V.; Ju, P.; Blawert, C.; Zhang, T.; Wang, F.; Zheludkevich, M.L. Active protection
+of Mg alloy by composite PEO coating loaded with corrosion inhibitors. Appl. Surf. Sci. 2020, 504, 144462.
+[CrossRef]
+
+24. Zhang, X.-F.; Jiang, F.; Chen, R.-J.; Chen, Y.-Q.; Hu, J.-M. Robust superhydrophobic coatings prepared by
+cathodic electrophoresis of hydrophobic silica nanoparticles with the cationic resin as the adhesive for
+corrosion protection. Corros. Sci. 2020, 173, 108797. [CrossRef]
+
+25. Damian, C.M.; Necolau, M.I.; Neblea, I.; Vasile, E.; Iovu, H. Synergistic eﬀect of graphene oxide functionalized
+
+with SiO2 nanostructures in the epoxy nanocomposites. Appl. Surf. Sci. 2020, 507, 145046. [CrossRef]
+
+26. Kanninen, P.; Eriksson, B.; Davodi, F.; Buan, M.; Sorsa, O.; Kallio, T.; Lindström, R.W. Carbon
+corrosion properties and performance of multi-walled carbon nanotube support withand without
+nitrogen-functionalization in fuel cell electrodes. Electrochim. Acta 2020, 332, 135384. [CrossRef]
+
+27. Hong, M.-S.; Park, Y.; Kim, T.; Kim, K.; Kim, J.-G. Polydopamine/carbon nanotube nanocomposite coating
+
+for corrosion resistance. J. Mater. 2020, 6, 158–166. [CrossRef]
+
+28. Potdar, S.B.; Praveen, B.V.S.; Sonawane, S.H. Sonochemical approach for synthesis of zinc oxide-poly methyl
+methacrylate hybrid nanoparticles and its application in corrosion inhibition. Ultrason. Sonochem. 2020, 68,
+105200. [CrossRef]
+
+29. Aboorvakani, R.; KennadyVethanathan, S.J.; Madhu, K.U. Inﬂuence of Zn concentration on zinc oxide
+
+nanoparticles and their anti-corrosion property. J. Alloy. Compd. 2020, 834, 155078. [CrossRef]
+
+30. Elbasuney, S.; Gobara, M.; Zoriany, M.; Maraden, A.; Naeem, I. The signiﬁcant role of stabilized colloidal
+ZrO2 nanoparticles for corrosion protection of AA2024. Environ. Nanotechnol. Monit. Manag. 2019, 12,
+100242. [CrossRef]
+
+31. Odusote, J.K.; Asafa, T.B.; Oseni, J.G.; Adeleke, A.A.; Adediran, A.A.; Yahya, R.A.; Abdul, J.M.; Adedayo, S.A.
+Inhibition eﬃciency of gold nanoparticles on corrosion of mild steel, stainless steel and aluminium in 1 M
+HCl solution. Mater. Today Proc. 2020. [CrossRef]
+
+32. Badr, E.; Hefni, H.H.H.; Shafek, S.H.; Shaban, S.M. Synthesis of anionic chitosan surfactant and application
+in silver nanoparticles preparation and corrosion inhibition of steel. Int. J. Biol. Macromol. 2020, 157, 187–201.
+[CrossRef] [PubMed]
+
+33. Zhao, Y.; Zhang, Z.; Shi, L.; Zhang, F.; Li, S.; Zeng, R. Corrosion resistance of a self-healing multilayer ﬁlm
+based on SiO2 and CeO2 nanoparticles layer-by-layer assembly on Mg alloys. Mater. Lett. 2019, 237, 14–18.
+[CrossRef]
+
+34. Ashraf, M.A.; Liu, Z.; Peng, W.; Yoyseﬁ, N. Amino acid and TiO2 nanoparticles mixture inserted into sol-gel
+coatings: An eﬃcient corrosion protection system for AZ91 magnesium alloy. Prog. Org. Coat. 2019, 136,
+105296. [CrossRef]
+
+35. Ashassi-Sorkhabi, H.; Moradi-Alavian, S.; Jafari, R.; Kazempour, A.; Asghari, E. Eﬀect of amino acids and
+montmorillonite nanoparticles on improving the corrosion protectioncharacteristics of hybrid sol-gel coating
+applied on AZ91 Mg alloy. Mater. Chem. Phys. 2019, 225, 298–308. [CrossRef]
+
+Coatings 2020, 10, 1149
+
+12 of 15
+
+36. Chauhan, D.S.; Quraishi, M.A.; Ansari, K.R.; Saleh, T.A. Graphene and graphene oxide as new class of
+materials for corrosion control and protection: Present status and future scenario. Prog. Org. Coat. 2020, 147,
+105741. [CrossRef]
+
+37. Ramireza, O.M.P.; Quieroz, F.M.; Tunesc, M.A.; Antunesd, R.A.; Rodrigues, C.L.; Lanzuttif, A.; Pogatscher, S.;
+Olivierg, M.-G.; De Melo, H.G. Tartaric-sulphuric acid anodized clad AA2024-T3 post-treated in Ce-containing
+solutions at diﬀerent temperatures: Corrosion behaviour and Ce ions distribution. Appl. Surf. Sci. 2020, 534,
+147634. [CrossRef]
+
+38. Liu, L.; Zhang, J.; Zhao, J.; Liu, F. Mechanical properties of graphene oxides. Nanoscale 2012, 4, 5910–5916.
+
+[CrossRef]
+
+39. Zhu, Y.; Murali, S.; Cai, W.; Li, X.; Suk, J.W.; Potts, J.R.; Ruoﬀ, R.S. Graphene and graphene oxide: Synthesis,
+
+40.
+
+properties, and applications. Adv. Mater. 2010, 22, 3906–3924. [CrossRef]
+Smith, A.T.; LaChance, A.M.; Zeng, S.; Liu, B.; Sun, L. Synthesis, properties, and applications of graphene
+oxide/reduced graphene oxide and their nanocomposites. Nano Mater. Sci. 2019, 1, 31–47. [CrossRef]
+
+41. Khoei, A.R.; Khorrami, M.S. Mechanical properties of graphene oxide: A molecular dynamics study. Fuller.
+
+42.
+
+43.
+
+44.
+
+Nanotub. Carbon Nanostruct. 2016, 24, 594–603. [CrossRef]
+Sabzevari, M.; Cree, D.E.; Wilson, L.D. Mechanical properties of graphene oxide-based composite
+layered-materials. Mater. Chem. Phys. 2019, 234, 81–89. [CrossRef]
+Singh, R.K.; Kumar, R.; Singh, D.P. Graphene oxide: Strategies for synthesis, reduction and frontier
+applications. Rsc. Adv. 2016, 6, 64993–65011. [CrossRef]
+Sharon, M.; Sharon, M. Graphene: An Introduction to the Fundamentals and Industrial Applications; Structure
+and Properties of Graphene; John Wiley & Sons: Hoboken, NJ, USA, 2015; pp. 17–37. ISBN 9781118842577.
+[CrossRef]
+
+45. De Lima, L.R.M.; Martins, F.P.; Lagarinhos, J.N.; Santos, L.; Lima, P.; Torcato, R.; Marques, P.A.A.P.;
+Rodriguez, D.L.; Melo, S.; Grilo, J.; et al. Characterization of commercial graphene-based materials for
+application in thermoplastic nanocomposites. Mater. Today Proc. 2020, 20, 383–390. [CrossRef]
+
+46. Yoo, B.M.; Shin, H.J.; Yoon, H.W.; Park, H.B. Graphene and graphene oxide and their uses in barrier polymers.
+
+J. Appl. Polym. Sci. 2014, 131. [CrossRef]
+
+47. Zhang, Y.; Zhang, Q.; Hou, D.; Zhang, J. Tuning interfacial structure and mechanical properties of graphene
+oxide sheets/polymer nanocomposites by controlling functional groups of polymers. Appl. Surf. Sci. 2020,
+504, 144152. [CrossRef]
+Shariﬁ, Z.; Pakshir, M.; Amini, A.; Raﬁei, R. Hybrid graphene oxide decoration and water-based polymers
+for mildsteel surface protection in saline environment. J. Ind. Eng. Chem. 2019, 74, 41–54. [CrossRef]
+
+48.
+
+49. Mandal, P.; Kiran, U.N.; Pati, S.; Roy, S. Investigation of the eﬀects of electrophoretic deposition parameters
+on 304SS steel coated with graphene oxide for PEMFC application. Mater. Today Proc. 2020, 26, 654–659.
+[CrossRef]
+
+50. Bakar, N.H.A.; Ali, G.A.M.; Ismail, J.; Algarni, H.; Chong, K.F. Size-dependent corrosion behavior of graphene
+
+oxide coating. Prog. Org. Coat. 2019, 134, 272–280. [CrossRef]
+
+51. Zhang, K.; Zhang, H.; Liu, P.; Zhang, C.; Li, W.; Chen, X.; Ma, F. Electrophoretic deposition of graphene oxide
+
+on NiTi alloy for corrosion prevention. Vacuum 2019, 161, 276–282. [CrossRef]
+
+52. Yeo, L.P.; Nguyen, T.D.; Ling, H.; Lee, Y.; Mandler, D.; Magdassi, S.; Tok, A.I.Y. Electrophoretic deposition of
+reduced graphene oxide thin ﬁlms for reduction of cross-sectional heat diﬀusion in glass windows. J. Sci.
+Adv. Mater. Devices 2019, 4, 252–259. [CrossRef]
+
+53. Quezada-Rentería, J.A.; Cházaro-Ruiz, L.F.; Rangel-Mendez, J.R. Synthesis of reduced graphene oxide (rGO)
+ﬁlms onto carbon steel by cathodic electrophoretic deposition: Anticorrosive coating. Carbon 2017, 122,
+266–275. [CrossRef]
+
+54. Raman, R.K.S.; Banerjee, P.C.; Lobo, D.E.; Gullapalli, H.; Sumandasa, M.; Kumar, A.; Choudhary, L.; Tkacz, R.;
+Ajayan, P.M.; Majumder, M. Protecting copper from electrochemical degradation by graphene coating. Carbon
+2012, 50, 4040–4045. [CrossRef]
+Sarawutanukul, S.; Phattharasupakun, N.; Sawangphruk, M. 3D CVD graphene oxide-coated Ni foam as
+carbo- and electro-catalyst towards hydrogen evolution reaction in acidic solution: In situ electrochemical
+gas chromatography. Carbon 2019, 151, 109–119. [CrossRef]
+
+55.
+
+Coatings 2020, 10, 1149
+
+13 of 15
+
+56. Park, S.-K.; Seong, C.-Y.; Piao, Y. A simple dip-coating approach for preparation of three-dimensional
+multilayered graphene-metal oxides hybrid nanostructures as high performance lithium-ion battery
+electrodes. Electrochim. Acta 2015, 176, 1182–1190. [CrossRef]
+
+57. Liu, J.; Hua, L.; Li, S.; Yu, M. Graphene dip coatings: An eﬀective anticorrosion barrier on aluminum.
+
+58.
+
+Appl. Surf. Sci. 2015, 327, 241–245. [CrossRef]
+Fang, M.; Xiong, X.; Hao, Y.; Zhang, T.; Wang, H.; Cheng, H.-M.; Zeng, Y. Preparation of highly conductive
+graphene-coated glass ﬁbers by sol-gel and dip-coating method. J. Mater. Sci. Technol. 2019, 35, 1989–1995.
+[CrossRef]
+
+59. Mehrabani, S.A.N.; Ahmadzadeh, R.; Abdian, N.; Tabrizi, A.T.; Aghajani, H. Synthesis the Ni-GO
+
+nanocomposite coatings: Corrosion evaluation. Surf. Interfaces 2020, 20, 1005465. [CrossRef]
+
+60. Calovi, M.; Rossi, S.; Deﬂorian, F.; Dirè, S.; Ceccato, R. Eﬀect of functionalized graphene oxide concentration
+on the corrosion resistance properties provided by cataphoretic acrylic coatings. Mater. Chem. Phys. 2020,
+239, 121984. [CrossRef]
+
+61. Nayak, S.R.; Hegde, M.B.; Mohana, K.N. Anticorrosion performance of 4-ﬂuoro phenol functionalized
+
+graphene oxide nanocomposite coating on mild steel. J. Fluor. Chem. 2019, 228, 109392. [CrossRef]
+
+62. Zhang, F.; Liu, W.; Liang, L.; Wang, S.; Shi, H.; Xie, Y.; Yang, M.; Pi, K. The eﬀect of functional graphene oxide
+nanoparticles on corrosion resistance of waterborne polyurethane. Colloids Surf. A Physicochem. Eng. Asp.
+2020, 591, 124565. [CrossRef]
+
+63. Zhao, Z.; Guo, L.; Feng, L.; Lu, H.; Xu, Y.; Wang, J.; Xiang, B.; Zou, X. Polydopamine functionalized
+graphene oxide nanocomposites reinforced the corrosion protection and adhesion properties of waterborne
+polyurethane coatings. Eur. Polym. J. 2019, 120, 109249. [CrossRef]
+
+64. Mittal, V. Functional polymer nanocomposites with graphene: A review. Macromol. Mater. Eng. 2014, 299,
+
+906–931. [CrossRef]
+
+65. Hou, W.; Gao, Y.; Wang, J.; Blackwood, D.J.; Teo, S. Recent advances and future perspectives for graphene
+
+oxide reinforced epoxy resins. Mater. Today Commun. 2020, 23, 100883. [CrossRef]
+
+66. Abdullah, S.I.; Ansari, M.N.M. Mechanical properties of graphene oxide (GO)/epoxy composites. HBRC J.
+
+67.
+
+68.
+
+2015, 11, 151–156. [CrossRef]
+Jin, M.; He, W.; Wang, C.; Yu, F.; Yang, W. Covalent modiﬁcation of graphene oxide and applications in
+polystyrene composites. React. Funct. Polym. 2020, 146, 104437. [CrossRef]
+Ionita, M.;
+Pandele, A.M.; Crica, L.E.; Obreja, A.C. Preparation and characterization of
+polysulfone/ammonia-functionalized graphene oxide composite membrane material. High Perform. Polym.
+2015, 28, 181–188. [CrossRef]
+
+70.
+
+69. Vasile, E.; Pandele, A.M.; Andronescu, C.; Selaru, A.; Dinescu, S.; Costache, M.; Hanganu, A.;
+Raicopol, M.D.; Teodorescu, M. Hema-functionalized graphene oxide: A versatile nanoﬁller for
+poly(propylene fumarate)-based hybrid materials. Sci. Rep. 2019, 9, 1–15. [CrossRef]
+Ionita, M.; Crica, L.E.; Vasile, E.; Dinescu, S.; Pandele, M.A.; Costache, M.; Haugen, H.J.; Iovu, H. Eﬀect of
+carboxylic acid functionalized graphene on physical-chemical and biological performances of polysulfone
+porous ﬁlms. Polymer 2016, 92, 1–12. [CrossRef]
+Javidparvar, A.A.; Naderi, R.; Ramezanzadeh, B. Non-covalently surface modiﬁcation of graphene oxide
+(cid:48)
+physical properties. Colloids Surf. A
+nanosheets and its role in the enhancement of the epoxy-based coatings
+Physicochem. Eng. Asp. 2020, 602, 125061. [CrossRef]
+
+71.
+
+72. Pandele, A.M.; Andronescu, C.; Vasile, E.; Radu, I.C.; Stanescu, P.; Iovu, H. Non-covalent functionalization of
+GO for improved mechanical performances of pectin composite ﬁlms. Compos. Part A Appl. Sci. Manuf. 2017,
+103, 188–195. [CrossRef]
+
+73. Phuangburee, T.; Solonenko, D.; Plainpan, N.; Thamyongkit, P.; Zahn, D.R.; Unarunotai, S.; Tuntulani, T.;
+Leeladee, P. Surface modiﬁcation of graphene oxide via noncovalent functionalization with porphyrins for
+selective photocatalytic oxidation of alcohols. New J. Chem. 2020. [CrossRef]
+
+74. Zhang, H.; Zhou, H.; Yang, J.; Song, Y.; Zhao, L. Synergism of modiﬁed graphene oxide to aircraft structural
+
+corrosion inhibiting compounds coatings. Prog. Org. Coat. 2019, 132, 490–498. [CrossRef]
+
+75. Wang, N.; Yin, X.; Zhang, J.; Gao, H.; Diao, X.; Yao, H. Preparation and anti-corrosive properties of waterborne
+epoxy composite coating containing graphene oxide grafted with sodium tripolyphosphate. Coatings 2020,
+10, 307. [CrossRef]
+
+Coatings 2020, 10, 1149
+
+14 of 15
+
+76. Ding, Z.; Li, Y.-Y.; Xu, M.-R.; Hong, X.; Hong, S.-X.; Dong, B. Electrochemical properties of aluminum
+tripolyphosphate modiﬁed chemically bonded phosphate ceramic anticorrosion coating. Constr. Build. Mater.
+2020, 251, 118874. [CrossRef]
+
+77. Ramezanzadeh, M.; Ramezanzadeh, B.; Sari, M.G.; Saeb, M.R. Corrosion resistance of epoxy coating on mild
+steel through polyamidoamine dendrimer-covalently functionalized graphene oxide nanosheets. J. Ind. Eng.
+Chem. 2020, 82, 290–302. [CrossRef]
+
+78. Zachariah, S.; Chuo, T.-W.; Liu, Y.-L. Crosslinked polybenzoxazine coatings with hierarchical surface
+structures from a biomimicking process exhibiting high robustness and anticorrosion performance. Polymer
+2018, 155, 168–176. [CrossRef]
+
+79. Huang, W.F.; Xiao, Y.L.; Huang, Z.J.; Tsui, G.C.P.; Yeung, K.W.; Tang, C.Y.; Liu, Q. Super-hydrophobic
+polyaniline-TiO2 hierarchical nanocomposite as anticorrosion coating. Mater. Lett. 2020, 258, 126822.
+[CrossRef]
+
+80. Chen, K.-Y.; Lai, Y.-S.; You, J.-K.; Santiago, K.S.; Yeh, J.-M. Eﬀective anticorrosion coatings prepared from
+
+sulfonated electroactive polyurea. Polymer 2019, 166, 98–107. [CrossRef]
+
+81. Li, J.; Feng, Q.; Cui, J.; Yuan, Q.; Qiu, H.; Gao, S.; Yang, J. Self-assembled graphene oxide microcapsules in
+Pickering emulsions for self-healing waterborne polyurethane coatings. Compos. Sci. Technol. 2017, 151,
+282–290. [CrossRef]
+
+82. Pulikkalparambil, H.; Siengchin, S.; Parameswaranpillai, J. Corrosion protective self-healing epoxy resin
+coatings based on inhibitor and polymeric healing agents encapsulated in organic and inorganic micro and
+nanocontainers. Nano-Struct. Nano-Objects 2018, 16, 381–395. [CrossRef]
+
+83. Xie, Y.; Liu, C.; Liu, W.; Liang, L.; Wang, S.; Zhang, F.; Shi, H.; Yang, M. A novel approach to fabricate
+polyacrylate modiﬁed graphene oxide for improving the corrosion resistance of epoxy coatings. Colloids Surf.
+A Physicochem. Eng. Asp. 2020, 593, 124627. [CrossRef]
+
+84. Zhu, X.; Ni, Z.; Dong, L.; Yang, Z.; Cheng, L.; Zhou, X.; Xing, Y.; When, J.; Chen, M. In-situ modulation
+of interactions between polyaniline and graphene oxide ﬁlms to develop waterborne epoxy anticorrosion
+coatings. Prog. Org. Coat. 2019, 133, 106–116. [CrossRef]
+
+85. Mirmohseni, A.; Azizi, M.; Dorraji, M.S.S. Cationic graphene oxide nanosheets intercalated with polyaniline
+nanoﬁbers: A promising candidate for simultaneous anticorrosion, antistatic, and antibacterial applications.
+Prog. Org. Coat. 2020, 139, 105419. [CrossRef]
+
+86. Zhu, Q.; Li, E.; Liu, X.; Song, W.; Li, Y.; Wang, X.; Liu, C. Epoxy coating with in-situ synthesis of polypyrrole
+functionalized graphene oxide for enhanced anticorrosive performance. Prog. Org. Coat. 2020, 140, 105488.
+[CrossRef]
+
+87. Ramezanzadeh, M.; Ramezanzadeh, B.; Mahdavian, M.; Bahlakeh, G. Development of metal-organic
+framework (MOF) decorated graphene oxide nanoplatforms for anti-corrosion epoxy coatings. Carbon 2020,
+161, 231–251. [CrossRef]
+
+88. Wang, G.; Wen, S.; Qian, S.; Wang, J.; Wang, C.; Chen, Y. Synthesis of novel nano hyperbranched polymer
+
+resin and its corrosion resistance in coatings. Prog. Org. Coat. 2020, 140, 105496. [CrossRef]
+
+89. Moradi, L.G.; Sari, M.G.; Ramezanzadeh, B. Polyester-amide hyperbranched polymer as an interfacial
+modiﬁer for graphene oxide nanosheets: Mechanistic approach in an epoxy nanocomposite coating.
+Prog. Org. Coat. 2020, 142, 105573. [CrossRef]
+
+90. Kong, Q.; Wei, J.; Hu, Y.; Wei, C. Fabrication of terminal amino hyperbranched polymer modiﬁed graphene
+oxide and its prominent adsorption performance towards Cr(VI). J. Hazard. Mater. 2019, 363, 161–169.
+[CrossRef]
+Sari, M.G.; Ramezanzadeh, B. Epoxy composite coating corrosion protection properties reinforcement
+through the addition of hydroxyl-terminated hyperbranched polyamide non-covalently assembled graphene
+oxide platforms. Constr. Build. Mater. 2020, 234, 117421. [CrossRef]
+
+91.
+
+92. Ye, Y.; Chen, H.; Zou, Y.; Ye, Y.; Zhao, H. Corrosion protective mechanism of smart graphene-based
+
+self-healing coating on carbon steel. Corros. Sci. 2020, 174, 108825. [CrossRef]
+
+93. Ye, Y.; Zhang, D.; Liu, T.; Liu, Z.; Liu, W.; Pu, J.; Chen, H.; Zhao, H.; Li, X. Improvement of anticorrosion ability
+of epoxy matrix in simulate marine environment by ﬁlled with superhydrophobic POSS-GO nanosheets.
+J. Hazard. Mater. 2019, 364, 244–255. [CrossRef]
+
+Coatings 2020, 10, 1149
+
+15 of 15
+
+94. Lv, X.; Li, X.; Li, N.; Zhang, H.; Zheng, Y.; Wu, J.; Tao, X. ZrO2 nanoparticle encapsulation of graphene
+microsheets for enhancing anticorrosion performance of epoxy coatings. Surf. Coat. Technol. 2019, 358,
+443–451. [CrossRef]
+
+95. Xue, X.-Z.; Zhang, J.-Y.; Zhou, D.; Liu, J.-K. In-situ bonding technology and excellent anticorrosion activity of
+
+graphene oxide/hydroxyapatite nanocomposite pigment. Dyes Pigments 2019, 160, 109–118. [CrossRef]
+
+96. Nguyen, T.D.; Nguyen, A.S.; Tran, B.A.; Vu, K.O.; Tran, D.L.; Phan, T.T.; Scharnagld, N.; Zheludkevich, M.L.;
+To, T.X.H. Molybdate intercalated hydrotalcite/graphene oxide composite as corrosion inhibitor for carbon
+steel. Surf. Coat. Technol. 2020, 399, 126165. [CrossRef]
+
+97. Kumar, M.K.P.; Laxmeesha, P.M.; Ray, S.; Srivastava, C. Enhancement in the corrosion resistance of
+nanocrystalline aluminium coatings by incorporation of graphene oxide. Appl. Surf. Sci. 2020, 533, 147512.
+[CrossRef]
+
+98. Azar, M.M.K.; Gugtapeh, H.S.; Rezaei, M. Evaluation of corrosion protection performance of electroplated
+zinc and zinc-graphene oxide nanocomposite coatings in air saturated 3.5 wt.% NaCl solution. Colloids Surf.
+A Physicochem. Eng. Asp. 2020, 601, 125051. [CrossRef]
+
+99. Quezada-Renteria, J.A.; Chazaro-Ruiz, L.F.; Rangel-Mendez, J.R. Poorly conductive electrochemically reduced
+graphene oxide ﬁlms modiﬁed with alkyne chains to avoid the corrosion-promoting eﬀect of graphene-based
+materials on carbon steel. Carbon 2020, 167, 512–522. [CrossRef]
+
+Publisher’s Note: MDPI stays neutral with regard to jurisdictional claims in published maps and institutional
+aﬃliations.
+
+© 2020 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access
+article distributed under the terms and conditions of the Creative Commons Attribution
+(CC BY) license (http://creativecommons.org/licenses/by/4.0/).
+
+

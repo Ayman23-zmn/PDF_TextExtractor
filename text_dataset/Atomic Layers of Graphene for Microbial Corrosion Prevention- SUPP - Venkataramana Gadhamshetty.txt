@@ -1,0 +1,710 @@
+Supporting Information  
+ 
+Atomic Layers of Graphene for Microbial Corrosion Prevention 
+                                  
+Govind  Chilkoor†§,  Namita  Shrestha‡,  Alex  Kutana∇,  Manoj  Tripathi+,  Francisco  C  Robles 
+Hernández∥,  Boris  I. Yakobson∇,  Meyya  Meyyappan⊥, Alan  B.  Dalton+,  Pulickel  M. Ajayan∇*, 
+Muhammad M. Rahman∇*, Venkataramana Gadhamshetty†§* 
+ 
+
+†Department  Civil  and  Environmental  Engineering,  South  Dakota  School  of  Mines  and 
+Technology, Rapid City, SD 57701, USA 
+§2Dimensional  Materials  for  Biofilm  Engineering  Science  and  Technology  (2DBEST)  Center, 
+South Dakota School of Mines and Technology, Rapid City, SD 57701, USA 
+‡Department  of  Civil  and  Environmental  Engineering,  Rose-Hulman  Institute  of  Technology, 
+Terre Haute, IN  47803, USA 
+∇Department of Materials Science and NanoEngineering, Rice University, TX 77005, USA 
++Department of Physics and Astronomy, University of Sussex, Brighton BN1 9RH, U.K. 
+∥Department of Mechanical Engineering Technology, University of Houston, TX 770204, USA 
+⊥Center for Nanotechnology, NASA Ames Research Center, Moffett Field, CA 94035, USA 
+ 
+ 
+
+Contents 
+
+Optical, SEM, TEM, Raman, and contact angle analysis of SLG- Cu and MLG-Cu .................... 2 
+
+Preparation of Sulfate-reducing bacterial (SRB) strain and its culture........................................... 2 
+
+Microbial corrosion experiments .................................................................................................... 3 
+
+Electrochemical measurements ....................................................................................................... 3 
+
+Characterization of biofilm and corrosion deposits ........................................................................ 4 
+
+EEC circuit ...................................................................................................................................... 5 
+
+Density functional theory (DFT) calculations ................................................................................ 5 
+
+Results and discussion .................................................................................................................... 7 
+
+Additional Figures .........................................................................................................................11 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+1 
+
+Optical, SEM, TEM, Raman, and contact angle analysis of SLG- Cu and MLG-Cu  
+
+To analyze the graphene samples by optical and Raman spectroscopy, we transferred the 
+
+films to a SiO2/Si substrate using the PMMA procedure detailed in previous literature.1 The optical 
+
+images  were  obtained  using  a  Carl  Zeiss Axio vision  microscope  in  bright  field  mode  using  a 
+
+10X HD-DIC objective lens. The images were captured using a Zeiss Axio Cam MRC 5 camera 
+
+and  later  processed  using  Axiovision  SE64  software. A  Zeiss  Supra40  scanning  electron 
+
+microscope (SEM) equipped with X-ray microanalysis was used to get the images of the graphene 
+
+films on copper foil. For TEM analysis, the films were transferred onto a Holey carbon support 
+
+film on a Cu 400 mesh grid. JEM-2100 LaB6 Transmission Electron Microscope (TEM) (JEOL, 
+
+USA)  was  used  to  obtain  high-resolution  TEM  (HRTEM)  images  and  selected  area  electron 
+
+diffraction (SAED) patterns. Raman spectrometer equipped with a microscope (Foster + Freeman 
+
+Ltd,  Evesham,  UK)  was  used  to obtain the  peaks  for  SLG  and  MLG  films  transferred  on  to  a 
+
+SiO2/Si wafer. The measurements were carried at an incident power of 10 mW, a laser excitation 
+
+wavelength of 532 nm, and using a 100-objective lens. The wettability of the graphene coatings 
+
+was evaluated by a contact angle goniometer (Model 500, ramé-hart Instrument Co.). The obtained 
+
+water droplets  were  analyzed  by  DROP-image  Advanced  v  2.4  software  to  estimate  the  water 
+
+contact angle (WCA).  
+
+Preparation of Sulfate-reducing bacterial (SRB) strain and its culture  
+
+The Desulfovibrio alaskensis strain G20 (DA-G20) was anaerobically grown in the Lactate 
+
+C (L-C) medium containing the following constituents (g/L): sodium lactate, 6.8; sodium sulfate, 
+
+4.5; sodium citrate, 0.3; dehydrated calcium chloride, 0.06; ammonium chloride, 1.0; magnesium 
+
+sulfate, 2.0; potassium phosphate monobasic, 0.5 and yeast extract, 1.0.2 The listed L-C medium 
+
+components were mixed thoroughly using type III ASTM Standards for Laboratory Reagent Water 
+
+ 
+
+2 
+
+(ASTM D1193-91). The pH of the medium was adjusted to 7.2 and then sterilized by autoclaving 
+
+at 121 OC for 30 min. The DA-G20 cultures were grown in 150 mL serum bottles containing 100 
+
+mL  of  L-C having  a headspace  of  N2-H2 (95%  N2  v/v  and  5%  H2 v/v). DA-G20 cultures  were 
+
+incubated at 30 °C using modest agitation (125 rpm) on an orbital platform shaker for 48 h.  
+
+Microbial corrosion experiments  
+
+MIC experiments were carried out in a 400 mL single compartment corrosion Cell (Gamry 
+
+Instruments)  consisting  of  a  graphite  plate  as  a  counter  electrode,  an  Ag/AgCl  as  a  reference 
+
+electrode  (RE),  and  the  sample  of  interest  as  a  working  electrode  (WE). The  graphene-coated 
+
+copper  samples were  mounted laterally on  a  stainless-steel  sample  bracket  (Gamry  part  #  990-
+
+00254) facing the L-C growth medium. An electroplating tape was used to limit the exposure area 
+
+to 1 cm2  of coated copper samples. Before inoculating with DA-G20, the corrosion cell having the 
+
+L-C growth medium was purged with sterile nitrogen gas (15 psi) for 30 min to obtain an anaerobic 
+
+condition. The MIC experiments were performed at 30 °C and with an initial inoculum of 10% 
+
+(v/v), a pH of 7.2, and a cell count = 105 cells/mL.   
+
+ Electrochemical measurements  
+
+Linear  polarization  resistance  (LPR)  tests  were  run  in  triplicate  using  the  following 
+
+parameters: potential = ±10 mV (vs. open-circuit potential (OCP)), scan rate = 0.125 mV/s, initial 
+
+delay  = 1200 s,  and stability = 0.1 mV/s. Corrosion rates from  the LPR tests  were determined 
+
+using the Tafel constant values for the anodic and cathodic slopes from the Tafel experiment. The 
+
+cyclic  voltammetry  (CV)  tests  were  carried  out  consecutively  for  four  different  cycles  under  a 
+
+potential  range  of  -700  mV  to  +500  mV  (vs.  Ag/AgCl)  and  a  scan  rate  of  0.1  mV/s.  The 
+
+Potentiodynamic polarization (PDP) tests were carried out in the potential range of - 300 mV to 
+
+1000 mV (vs. OCP) with a scan rate of 0.2 mV/s. Electrochemical impedance spectroscopy (EIS) 
+
+ 
+
+3 
+
+tests  were  performed  at  the  OCP  using  an  AC  signal  with  an  amplitude  of  ±10  mV,  and  the 
+
+corresponding EIS spectra were obtained in the 10000 to 0.01 Hz range. Gamry Echem Analyst 
+
+was used to fit the EIS results to an electrical equivalent circuit (EEC).  
+
+Corrosion rates (mils per year (mpy)) were determined by substituting Rp and Icorr values 
+
+obtained from equation (1) in equation (2).  
+
+ 
+
+ 
+
+ 
+
+𝑖𝑐𝑜𝑟𝑟 =  
+
+𝛽𝑎𝛽𝑐
+
+(𝛽𝑎 + 𝛽𝑐)
+
+  ×
+
+1
+
+2.3 𝑅𝑝
+
+=  
+
+𝐵
+𝑅𝑝
+
+ 
+
+(1) 
+
+where βa and βc are the anodic and cathodic Tafel constants, respectively, Rp is the polarization 
+
+resistance,  and  B  is  the  Stern-Geary  coefficient.  The Tafel  constants  were  obtained  from  Tafel 
+
+analysis that was carried out with a scan rate of 1 mV/s.in the potential range of ± 250 mV (vs. 
+
+OCP).   
+
+ 
+
+𝐶𝑜𝑟𝑟𝑜𝑠𝑖𝑜𝑛 𝑟𝑎𝑡𝑒 (𝑚𝑝𝑦) =  
+
+𝐾 𝑖𝑐𝑜𝑟𝑟( 𝐸. 𝑊)
+ 
+
+ 𝜌𝐴
+
+(2) 
+
+where the constant K = 1.288 x 105 milli-inches as used to obtain corrosion rates in mpy. E.W, ρ, 
+
+and A are the equivalent weight (31.7 g), density (8.94 g/cm3), and area (1 cm2) of the Cu specimen, 
+
+respectively. The protection efficiency was calculated by substituting the values of current density 
+
+obtained from Tafel analysis in the equation.  
+
+ 
+
+Characterization of biofilm and corrosion deposits  
+
+A Zeiss Supra40 variable pressure field emission SEM fitted with an advanced system for 
+
+X-ray  microanalysis  (Oxford  Aztec  Energy)  was  used  to obtain  the  surface  morphology  and 
+
+elemental composition of the biofilm and the corrosion products. The SEM was operated using an 
+
+accelerated voltage of 5 kV for imaging and 15 kV to determine the elemental composition of the 
+
+corrosion products.  
+
+ 
+
+4 
+
+EEC circuit  
+
+The EEC circuit includes a solution resistance (Rs) in series with single time constants one 
+
+representing the metal/ electrolyte interface for Faradaic charge transfer resistance (Rct) and the 
+
+capacitance due to the double layer (Qdl) (Figure S3a). The value of the constant phase element 
+
+capacitance (Q) was converted into capacitance (C) by using its corresponding resistance (R) value 
+
+using equation (3).3 
+
+ 
+
+ 
+
+𝐶 = 𝑅(
+
+1−𝑛
+
+𝑛
+
+)  𝑄
+
+1
+𝑛    
+
+(3) 
+
+where n is the exponent in the constant phase element  
+
+Density functional theory (DFT) calculations 
+
+Work  functions  were  calculated  from  density  functional  theory  using  local  density 
+
+approximation (LDA) functional, as implemented in the Quantum Espresso.4  Scalar relativistic 
+
+ultrasoft pseudopotentials were used to represent ionic cores, as implemented in the pslibrary,5 and 
+
+50 Ry kinetic energy cutoff was used. A k-grid of 21×21×1 was used for Brillouin zone sampling, 
+
+with Gaussian smearing. Cu(111) and Ni(111) surfaces were represented by 6-layer slabs, Bernal 
+
+(AB) stacking was used for multi-layer graphene, and a vacuum space of 15 Å between the periodic 
+
+images was added in the normal direction in all calculations. Dipole correction was used in the 
+
+normal direction. The graphene-metal distance (d) was defined as the distance between the nearest 
+
+graphene layer and a top layer of metal atoms, and the Z coordinate of the nearest graphene plane 
+
+and the top metal layer was held fixed during geometry optimization. All other coordinates were 
+
+relaxed using the Broyden–Fletcher–Goldfarb–Shanno (BFGS) algorithm until all unconstrained 
+
+force components were less than 2.6 meV/Å. In calculating the work function, dipole correction 
+
+ 
+
+5 
+
+was  applied  in  the  direction  normal  to  the  surface,  and  the  work  function  was  defined  as  the 
+
+difference between the vacuum potential outside of the graphene and Fermi level (Figure S4). 
+
+The Raman measurements were carried out with a 532 nm laser line, 1800 grating line/mm 
+
+using  the  Renishaw  inVia™  100X  optical  lens.   The  laser  power  was  limited  to  5%  (<  1mW) 
+
+throughout the duration. The Raman peaks were fitted using the Lorentzian function to measure 
+
+the  peak  positions  for  G  and  2D  peak.  For  evaluating  the  strain  and  doping  characteristics  of 
+
+graphene using a correlation plot, the strain (ε) and the charge carrier concentration (n) of graphene 
+
+were related to Raman shift (G, 2D) as presented in equation (4).6 
+
+(
+
+𝐺
+2𝐷
+
+) = 𝑇 (
+
+𝜀
+𝑛
+
+)                       (4) 
+
+𝑇 = (
+
+−2𝛾𝐺𝐺0
+−2𝛾2𝐷2𝐷0
+
+𝑘𝐺
+𝑘2𝐷
+
+)       (5) 
+
+where 
+
+ 
+
+γ is the Grüneisen parameter, k is the doping shift rate, and Go and 2Do are values of no-strain and 
+
+no-doping  peak position. In graphene,  γG =1.95,  γ2D = 3.15,  𝑘𝐺 = −1.407 × 10−12 𝑐𝑚−1 and 
+
+𝑘2𝐷 = −0.285 × 10−12 𝑐𝑚−1.6,  7  It  is  worthy  to  note  that  (n)  mostly  considers  the  effects  of 
+
+coupling with the substrate, however local environmental conditions (e.g., relative humidity) and 
+
+stimulating conditions (e.g. potential bias, corrodent, airborne impurities, ion doping) may further 
+
+influence n and ε. 
+
+The  Kelvin  probe  force  microscopy  (KPFM)  investigation  was  performed  using  atomic 
+
+force microscopy (AFM)-Bruker Dimension Icon. Peak-force KPFM through two pass modes has 
+
+been  used  in  the  characterization;  in  the  first  pass,  a  topography  image  was  collected,  and  the 
+
+second pass for the potential map (contact potential difference, CPD). Conductive tip from Bruker 
+
+ 
+
+6 
+
+(Model: PFQNE-Al, stiffness  0.8±0.2 N/m, diameter  5 nm, resonance frequency = 300 KHz) 
+
+has been used for the measurements. The calculation of the tip work function (WF) was carried 
+
+out using freshly cleaved HOPG using the relation, WFsample = WFtip – eVdc. The same relation 
+
+was used to measure the local WF of the pristine and exposed samples.      
+
+Results and discussion 
+
+Protection  ability  of  atomic  graphene  layers  on  Nickel  (Ni)  substrates:  We  further 
+
+explored the protective ability of atomic graphene layers on nickel (Ni) substrates. First, we carried 
+
+out density functional theory (DFT) simulations to study the WF behavior of Ni (111) modified 
+
+with SLG and MLG, for graphene-Ni interlayer distance (d) ranging up to 6 Å. Next, KPFM was 
+
+conducted to experimentally study the WF behavior of SLG-Ni and MLG-Ni substrates exposed 
+
+to a corrosive environment (2 h, 1M H2SO4). Finally, we carried out Raman analyses to study the 
+
+doping and strain behavior of the SLG-Ni in comparison to those of SLG-Cu, both exposed to the 
+
+H2SO4 corrodent. 
+
+Upon adsorption of graphene layers, Ni (111) showed a significant drop in the WF values 
+
+as a function of graphene-Ni interlayer distance (d) (Figure S5). At d < 3 Å, the WF of SLG-Ni 
+
+(~3.5 eV) and MLG-Ni (~4.7 eV) was significantly lower than bare Ni (~5.4 eV). The SLG-Ni 
+
+and  MLG-Ni  displayed  lower  WF  even  for  3  Å<d  <6  Å  (Figure  S5).  Interestingly,  SLG-Ni 
+
+experienced the highest drop in the WF (ΔWF = -1.9 eV) compared to MLG-Ni (ΔWF = -0.7 eV) 
+
+at d < 3 Å. Even, the WF of SLG-Ni (~3.5 eV) is found to be lower than free-standing graphene 
+
+(~4.6 eV). The lower the WF the greater is the activity of the electrons that participate in relevant 
+
+electrochemical  processes,  lower  (more  negative)  is  the  corrosion  potential  and  weaker  is  the 
+
+protective ability of atomic graphene layers. Thus, MLG-Ni is expected to offer superior corrosion 
+
+ 
+
+7 
+
+protection compared to SLG-Ni, similarly aligned with the findings from the Cu test case (Figure 
+
+4). 
+
+Next, we conducted KPFM tests to assess experimentally the WF behavior of SLG-Ni and 
+
+MLG-Ni exposed to 1M H2SO4, a corrodent typical to MIC conditions (Figure S6). An epitaxially 
+
+grown SLG film on polycrystalline Ni substrates was used for the KPFM study. The report from 
+
+the KPFM study corroborate the findings from DFT analysis: (1) WF of the both MLG-Ni (~4.95 
+
+eV) and  SLG-Ni (~4.75 eV) are lower than Ni (~4.98 eV); (2) Upon exposure to the corrodent, 
+
+WF of both SLG-Ni and MLG-Ni experienced a significant drop in WF. The ΔWF for SLG-Ni 
+
+(~200 meV) and MLG-Ni (~50 meV) was two-fold and four-fold lower than bare Ni, respectively. 
+
+However,  ΔWF  for  MLG-Ni  was  four-fold  lower  than  SLG-Ni,  corroborating  that  MLG  offers 
+
+better corrosion protection to Ni.          
+
+Convoluted  strain  and  doping  effect  behavior  of  graphene  layers  exposed  to  1M 
+
+H2SO4:  Our  Raman  studies  confirmed  that  the  atomic  graphene  layers  on  both  Cu  and  Ni 
+
+substrates stayed intact even after the prolonged exposure to the 1M H2SO4 corrodent (Figure S7a, 
+
+S7b). However, upon the exposure, both SLG-Cu and SLG-Ni displayed a convoluted strain and 
+
+doping  effect,  shown  by  the  systematic  shift  in  G  and  2D  peaks,  respectively  (Figure  S7). We 
+
+report  that  SLG-Ni  displays  a  distinct  doping  behavior  compared  to  SLG-Cu,  as  shown  in  the 
+
+correlation  plot  (Figure  S7c).  While  SLG-Ni  experienced  a  compressive  strain  with  minimal 
+
+change  in  the  carrier  concentration  (n),  SLG-Cu  experienced  a  notable  increase  in  the  carrier 
+
+concentration (n) with an incremental change to the tensile strain. These results suggest that SLG-
+
+Cu  is  more  prone  to  corrosion  compared  to  SLG-Ni,  aligning  with  the  results  of  the  DFT 
+
+simulations. For example, Ni (111) experienced a decrease in WF only when modified with SLG 
+
+ 
+
+8 
+
+(Figure S5); whereas, Cu (111) experienced a decrease in WF when modified with SLG as well 
+
+as with MLG (2 and 3 layers, respectively) (Figure 4).  
+
+The  pristine  SLG-Ni  and  SLG-Cu  samples  also  displayed  a  varying  degree  of  the 
+
+deconvoluted strain and doping effect. The differences can be attributed to the differences in the 
+
+nature of the coupling between atomic graphene layers with their respective substrates. The pristine 
+
+forms of SLG-Ni and SLG-Cu lie at a different location of the doping axis (brown line), suggesting 
+
+a varying extent of doping of the two substrates. The distribution of Raman data for pristine SLG-
+
+Cu illustrates the lower carrier concentration as compared to SLG-Ni. This variation is attributed 
+
+to  the  differences  in  the  metallic  characteristics  of  the  two  substrates,  resulting  in  a  different 
+
+electron-phonon coupling. The SLG-Ni exposed to the corrodent displayed a higher compressive 
+
+strain with minimal change in doping concentration compared to the pristine SLG-Ni (shaded by 
+
+yellow color). However, upon the exposure, the SLG-Cu experienced a significant increase in the 
+
+tensile strain as well as carrier concentration (fewer negative values of n as shaded by green color) 
+
+compared to the pristine region. A considerable distribution of peaks of graphene over Cu is due 
+
+to a change in the physical texture of the Cu surface after exposure to the corrodent, which was 
+
+mitigated over Ni. This finding indicates that SLG-Cu is more vulnerable to 1M H2SO4 corrodent 
+
+compared to SLG Ni, agreeing with the findings of the KPFM studies.  
+
+Effects of surface roughness on corrosion behavior. We discuss the effect of the different 
+
+copper surfaces as shown in Figure 2 on the corrosion behavior. The water contact angle values 
+
+(Figure 1h-j) or the wetting characteristics of bare Cu surface are related to its higher roughness 
+
+due to highly oxidized surfaces especially at the striation's steps produced during foil’s processing 
+
+(Figure 2b). These oxidized steps at striation are active sites (i.e. with more ledges and kinks) to 
+
+interact with corrodents. Such surface corrugation fluctuates the electron work function which is 
+
+ 
+
+9 
+
+predicted to promote corrosion.8 It has been reported that electrons in the vicinity of the peak of a 
+
+protrusion are easier to escape than those in trough sites, thus peak region would be a preferential 
+
+corrosion site.9 The annealing of the Cu surface in the CVD chamber minimizes the striation and 
+
+flatten  the  surface.  Subsequently,  the  epitaxially  grown  graphene  over  Cu  surface  induces 
+
+hydrophobic characteristics with an elevation of nearly 10 degrees in contact angle.  
+
+ 
+
+ 
+
+ 
+
+10 
+
+Additional Figures 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+Figure S1. XRD data shows prominent peaks of chalcolite (Cu2S) for bare Cu and SLG-Cu 
+compared to MLG-Cu. 
+ 
+
+11 
+
+ 
+ 
+
+Figure S2. Polarization resistance (Rp) values for bare Cu, SLG-Cu, and MLG-Cu obtained from 
+linear polarization test  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+12 
+
+  
+
+a 
+
+b 
+
+c 
+
+d 
+
+ 
+                                                        
+ 
+Figure S3. (a) Electrical equivalent circuit used to fit Bode magnitude data for (b) bare Cu (c) 
+SLG-Cu and (d) MLG-Cu on day 0 and 8. The EEC models fit are in solid black lines.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+13 
+
+RSRctW.EQdlFigure S4: Calculated electrostatic potential at different monolayer graphene-Cu separations 
+with dipole correction applied. The size of the supercell in the z-direction is 30.4 Å, with the 
+vacuum region being in the middle of the figure, at z between ~8 and 17 Å.  
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+Figure  S5.  Work  function  (WF)  of  Ni  (111)  adsorbed  with  1  to  6  layers  of  graphene  as  a 
+function of the graphene-Ni interlayer distance (d). Symbols show calculated WF values for 
+SLG-Ni, MLG-Ni, and dashed blue line of Ni (111). 
+
+ 
+
+ 
+
+14 
+
+ 
+
+Figure  S6.  Morphology  and  surface  potential  map  of  the  graphene  layers  covered  Ni 
+substrates.  (a-c)  topography  of  pristine  SLG-Ni,  exposed  SLG-Ni  and  MLG-Ni  substrates. 
+The white dashed rectangle represents the salts resulting from exposure to 1M sulfuric acid 
+corrodent. (d-f) show the corresponding WF map (obtained from the surface potential) for the 
+three samples. The dark regions in (d) depict the grain boundaries characterized by lower WF, 
+both in the pristine and exposed regions. (g-i) shows the superimposed topographic profiles 
+and WF map to illustrate the WF of grain and GB in the three samples. Orange dashed lines 
+in (d-f) indicate the location of the local topography and its corresponding surface potential 
+values that were converted into WF (eV).     
+
+ 
+
+15 
+
+ 
+
+Figure S7. Deconvolution and doping behavior of SLG-Cu and SLG-Ni exposed to the 1M 
+H2SO4 corrodent. (a) Raman spectra of pristine SLG over Cu at the pre and post-exposure. The 
+G and 2D peak of the graphene shows redshift in the Raman modes in SLG over Cu  at the 
+exposed  region.  Inset  shows  the  resolved  peak  shifting  of  G  and  2D  peak.  (b)  The  Raman 
+spectra of SLG over Ni shows a blue shift in the corroded region, which is resolved in the inset. 
+(c)  Correlation  plot  of  ~500  spectra  for  SLG  over  Cu  and  Ni  at  the  pre- and  post-exposure 
+conditions. The pink and brown lines represent strain () and doping (n) axis, respectively; the 
+intersection region is considered as minimal doping and strain regions. The deviation from the 
+intersection  coordinates  is  evaluated  as  an  effect  of  corrodent  on  graphene  over  the  two 
+different metals. 
+ 
+
+ 
+
+ 
+
+ 
+
+16 
+
+ 
+
+ 
+ 
+
+ 
+
+References 
+ 
+(1) Chilkoor, G.; Karanam, S. P.; Star, S.; Shrestha, N.; Sani, R. K.; Upadhyayula, V. K.; Ghoshal, 
+D.; Koratkar, N. A.; Meyyappan, M.; Gadhamshetty, V., Hexagonal Boron Nitride: The Thinnest 
+Insulating Barrier to Microbial Corrosion. ACS Nano 2018, 12, 2242-2252. 
+(2)  Sani,  R.  K.;  Geesey,  G.;  Peyton,  B.  M.  Assessment  of  Lead  Toxicity  to  Desulfovibrio 
+Desulfuricans G20: Influence of Components of Lactate C Medium. Adv. Environ. Res. 2001, 5, 
+269-276. 
+(3) Hirschorn, B.; Orazem, M. E.; Tribollet, B.; Vivier, V.; Frateur, I.; Musiani, M., Determination 
+of  Effective  Capacitance  and  Film  Thickness  from  Constant-Phase-Element  Parameters. 
+Electrochim. Acta  2010, 55, 6218-6227.   
+(4) Giannozzi, P.; Andreussi, O.; Brumme, T.; Bunau, O.; Nardelli, M. B.; Calandra, M.; Car, R.; 
+Cavazzoni, C.; Ceresoli, D.; Cococcioni, M. Advanced Capabilities for Materials Modelling with 
+Quantum ESPRESSO. J. Phys.: Condens. Matter  2017, 29, 465901. 
+(5) Dal Corso, A., Pseudopotentials Periodic Table: From H to Pu. Comput. Mater. Sci. 2014, 95, 
+337-350. 
+(6) Lee, J. E.; Ahn, G.; Shim, J.; Lee, Y. S.; Ryu, S., Optical Separation of Mechanical Strain from 
+Charge Doping in Graphene. Nat. Commun. 2012, 3, 1-8. 
+(7)  Jiang,  T.;  Wang,  Z.;  Ruan,  X.;  Zhu,  Y.,  Equi-Biaxial  Compressive  Strain  in  Graphene: 
+Grüneisen Parameter and Buckling Ridges. 2D Mater. 2018, 6, 015026. 
+(8) Li, W.; Li, D. Y. Influence of Surface Morphology on Corrosion and Electronic Behavior. 
+Acta Mater.  2006, 54 (2), 445–452.  
+(9) Hu, M.; Zhang, W.; Shang, X.; Wen, J.; Zhao, Z.; Qiao, B.; Kong, D.; Dong, C. Effect of 
+Surface Roughness on Copper Corrosion in Simulated Beishan Groundwater, China. Int. J. 
+Electrochem. Sci., 2020, 15, 2961- 2972 
+ 
+ 
+ 
+
+ 
+
+17 
+
+

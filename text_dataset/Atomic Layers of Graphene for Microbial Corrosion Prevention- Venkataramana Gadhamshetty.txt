@@ -1,0 +1,946 @@
+A
+r
+t
+c
+l
+e
+
+i
+
+www.acsnano.org
+
+Atomic Layers of Graphene for Microbial
+Corrosion Prevention
+Govind Chilkoor, Namita Shrestha, Alex Kutana, Manoj Tripathi, Francisco C. Robles Hernández,
+Boris I. Yakobson, Meyya Meyyappan, Alan B. Dalton, Pulickel M. Ajayan,* Muhammad M. Rahman,*
+and Venkataramana Gadhamshetty*
+
+Cite This: ACS Nano 2021, 15, 447−454
+
+Read Online
+
+ACCESS
+
+Metrics & More
+
+Article Recommendations
+
+*sı Supporting Information
+
+ABSTRACT: Graphene is a promising material
+for many
+biointerface applications in engineering, medical, and life-
+science domains. Here, we explore the protection ability of
+graphene atomic layers to metals exposed to aggressive sulfate-
+reducing bacteria implicated in corrosion. Although the
+graphene layers on copper (Cu) surfaces did not prevent the
+bacterial attachment and bioﬁlm growth,
+they eﬀectively
+restricted the biogenic sulﬁde attack. Interestingly, single-
+layered graphene (SLG) worsened the biogenic sulﬁde attack by
+5-fold compared to bare Cu. In contrast, multilayered graphene
+(MLG) on Cu restricted the attack by 10-fold and 1.4-fold
+compared to SLG-Cu and bare Cu, respectively. We combined
+experimental and computational studies to discern the anomalous behavior of SLG-Cu compared to MLG-Cu. We also report
+that MLG on Ni oﬀers superior protection ability compared to SLG. Finally, we demonstrate the eﬀect of defects, including
+double vacancy defects and grain boundaries on the protection ability of atomic graphene layers.
+KEYWORDS: bioﬁlms, defects, graphene, microbial corrosion, density-functional theory, sulfate-reducing bacteria
+
+M icroorganisms cause nearly 20% of corrosion
+
+failures, resulting in ∼$2.5 billion of the global
+corrosion costs annually.1 For instance, biofouling,
+biogenic sulﬁde attack, or microbiologically inﬂuenced
+corrosion (MIC)2 issues caused by sulfate-reducing bacteria
+(SRB) require the US Navy to spend ∼$1 billion every year.
+SRB is a major bacterial group that directly or indirectly
+challenges the structural
+integrity of metals by producing
+highly reactive and corrosive agents including sulﬁde species.
+Compared to planktonic (ﬂoating) cells, their sessile counter-
+parts (bioﬁlms) are 1000 times more resistant to biocides and
+induce 100-fold greater corrosion. Although polymer coatings
+based on polyurethane, epoxy, and polyamides can protect
+metals from abiotic corrosion,3 they are susceptible to
+biodegradation under aqueous conditions.
+
+Owing to the quantum conﬁnement eﬀects at the nanoscale,
+atomic graphene layers have been found to display many
+outstanding properties that may be useful in protecting metals
+exposed to aggressive biological environments. Graphene oﬀers
+high mechanical strength (1100 GPa), impermeability,4,5 and
+hydrophobicity.1 It has shown oxidation resistance to metals6
+in ambient conditions7 as well as to aggressive chlorides,8
+boiling seawater,9 acids,10 oxidizers,11 and humidity.12 Also,
+atomic layers of graphene can protect nanostructured metals
+
+from oxidation.13,14 For instance, transparent electrodes based
+on a copper nanowire−graphene core−shell nanostructure
+showed better thermal oxidation and chemical stability due to
+the tight encapsulation of
+the copper nanowire within
+graphene shells. Another study showed that the direct 3D
+coating of the graphene layer on interlacing copper nanosilks
+network electrodes achieved high transparency and robust
+antioxidant ability.15 Graphene can be combined with
+functional groups as well as other 2D materials to create
+heterostructures that are more resistant in biological environ-
+ments. Thus, graphene has been considered to control in vitro/
+in vivo behavior of many biological systems.16,17
+
+Despite many pending challenges, chemical vapor deposition
+(CVD) remains the most eﬀective method for manufacturing
+large-area graphene.18,19 Here, we prepared
+high-quality,
+atomic graphene layers by CVD and explored them as
+
+Received: May 13, 2020
+Accepted: December 22, 2020
+Published: December 31, 2020
+
+© 2020 American Chemical Society
+
+447
+
+https://dx.doi.org/10.1021/acsnano.0c03987
+ACS Nano 2021, 15, 447−454
+
+Downloaded via GEORGIA INST OF TECHNOLOGY on October 6, 2021 at 01:23:53 (UTC).See https://pubs.acs.org/sharingguidelines for options on how to legitimately share published articles.ACS Nano
+
+www.acsnano.org
+
+Article
+
+protective coatings on copper (Cu) exposed to anoxic sulfate-
+rich biological environment simulated by a genetically tractable
+Desulfovibrio alaskensis G20 (DA-G20) strain. We studied MIC
+of Cu corrosion as it
+is a prevalent problem in many
+engineering applications (e.g., corrosion of canisters used to
+store nuclear wastes). Although Cu is stable under abiotic
+conditions,20 SRB renders it susceptible to corrosion even
+under ambient conditions.21 We assessed the quality of as-
+grown single-layered graphene (SLG) and multilayered
+graphene (MLG) coatings using microscopy and spectroscopy
+techniques. We then used electrochemical methods to quantify
+the degree of biogenic sulﬁde attack and biotic corrosion. We
+found that atomic graphene layers neither restrict the growth
+of DA-G20 cells nor the bioﬁlm. However, SLG on Cu
+worsens the biogenic sulﬁde attack by 5-fold compared to bare
+Cu. In contrast, the MLG forms an impermeable barrier to
+protect the Cu surface from aggressive metabolites released by
+the bioﬁlm. The MLG-Cu restricts the biogenic sulﬁde attack
+by 10-fold and 1.4-fold compared to SLG and bare Cu,
+respectively. We combined experimental and computational
+studies to explain the eﬀect of structural properties of atomic
+graphene layers on the biogenic sulﬁde attack. We also studied
+the graphene layers on nickel substrates to discern their
+protection behavior on other metals. Finally, we studied the
+eﬀect of double vacancy defects and grain boundaries on the
+protection ability of atomic graphene layers.
+
+RESULTS AND DISCUSSION
+We synthesized SLG (∼1 layer) and MLG (∼8 layers) on 25
+μm thick Cu substrates using low-pressure CVD techniques, as
+described in our previous studies.22 In typical experiments,
+methane (35 sccm) was delivered to the CVD chamber at
+1000 °C and 500 mTorr. MLG was grown using a CH4/H2
+mixture (10:30 sccm) at atmospheric pressure and 940 °C for
+20 min. The graphene ﬁlms on Cu formed continuous sheets
+in both SLG and MLG samples, as shown in Figure 1a,c,
+respectively. The wrinkles across the Cu grain boundaries
+corroborate the continuity of graphene ﬁlms. For further
+characterization by optical imaging, Raman, and TEM analysis,
+we transferred the ﬁlms from Cu foil onto SiO2/Si substrates
+using a poly(methyl methacrylate) (PMMA)-assisted meth-
+od.23 The SLG sample reﬂected a consistent spread of light
+blue tint on the light pink background of SiO2/Si (Figure 1b);
+the MLG sample displayed a varying ﬁlm thickness, evident
+from patches of
+light blue within the large bright blue
+background (Figure 1d). The Raman spectra for both samples
+exhibited a G band and 2D band corresponding to the E2g
+vibration mode at 1590 and 2665 cm−1, respectively (Figure
+1e,f). The G/2D ratio for SLG and MLG was in the range of
+0.5−0.6 and 1.7−1.9,
+indicating single-layered and multi-
+layered graphene, respectively. The D band in SLG and MLG
+indicates the presence of defects and disorders.24,25 The TEM
+images conﬁrmed one and eight atomic layers in SLG and
+MLG, respectively (Figure 1g). Finally, the water contact angle
+values for Cu, SLG-Cu, and MLG-Cu were 82.3° ± 2.0°, 92.2°
+± 2.0°, and 94.2° ± 3.0°, respectively (Figure 1h−j), which
+agree with previous studies.26
+
+An immediate application of as-grown graphene atomic
+layers is their use as a coating to protect underlying Cu surfaces
+from an aggressive biogenic sulﬁde attack. We found that the
+atomic graphene layers neither restricted the cell attachment
+nor bioﬁlm growth, as shown in the SEM images (Figure 2a).
+Upon a prolonged exposure for 8 days, the cells grew into a
+
+Figure 1. (a,c) SEM images of single-layered graphene (SLG) and
+multilayer graphene (MLG) on Cu substrate. (b,d) Corresponding
+optical images of the transferred SLG and MLG ﬁlms on SiO2/Si
+substrates, respectively (background color). (e,f) Corresponding
+Raman spectra of SLG and MLG, respectively. SLG and MLG
+display a sharp G band (∼1590 cm−1) and 2D band (∼2660 cm−1),
+respectively. The G/2D ratio was 0.6 and 1.6, respectively. (g)
+TEM image of folded edge shows SLG (top) and MLG (∼8 layers)
+(bottom). (h−j) Static water contact angle values for bare Cu,
+SLG-Cu, and MLG-Cu, respectively.
+
+Figure 2. (a) SEM images of SRB DA-G20 bioﬁlm growth on bare
+Cu, SLG-Cu, and MLG-Cu. (b) Optical images of bare Cu, SLG-
+Cu, and MLG-Cu before the exposure. (c) Optical images of bare
+Cu, SLG-Cu, and MLG-Cu after 8 days of exposure. SLG-Cu
+developed intense pitting corrosion (pits shown as red arrows) and
+bare Cu inherited signatures of the uniform corrosion (copper
+sulﬁde corrosion products displaced in black color). MLG-Cu
+stayed intact.
+
+matured bioﬁlm containing typical rod-shaped cells of DA-G20
+on both the layered surfaces. This ﬁnding comes as a surprise
+in light of the recent studies on antimicrobial properties of
+CVD-graphene/Cu, speciﬁcally to Escherichia coli (E. coli) and
+Staphylococcus aureus (S. aureus).27 In a subsequent study,
+Novoselov and co-workers conﬁrmed that graphene materials
+
+448
+
+https://dx.doi.org/10.1021/acsnano.0c03987
+ACS Nano 2021, 15, 447−454
+
+ACS Nano
+
+www.acsnano.org
+
+Article
+compared to Cu (−760 mV vs Ag/AgCl) as well as SLG-Cu
+(−776 mV vs Ag/AgCl). The Rp value for MLG-Cu on day 3
+was 7 times and 36 times higher compared to those of bare Cu
+and SLG-Cu, respectively (Figure S2). The MLG-Cu sup-
+pressed the Cu dissolution by 95% when compared to bare Cu.
+We used a computational study based on density functional
+theory to understand the worsened biotic corrosion behavior
+of SLG-Cu compared to bare Cu and MLG-Cu. The inherent
+structural defects in graphene29 layers (depicted as one- to six-
+atom vacancies, V1 to V6 in Figure 4a) constitute potential
+
+neither stimulate nor inhibit the growth of E. coli and S.
+aureus.28 The artifact on the antimicrobial properties of
+graphene is due to the presence of impurities in graphene.28
+As expected, bare Cu experienced a signiﬁcant biogenic
+sulﬁde attack, as conﬁrmed by the XRD peaks of copper
+sulﬁdes (Cu2S) (Figure S1, Supporting Information). Surpris-
+ingly, SLG-Cu experienced a higher degree of microbial attack,
+conﬁrmed by more intense sulﬁde peaks (Figure S1). We used
+ASTM-G1 protocols to remove the corrosion deposits and
+microbial debris from the Cu surfaces to visualize the degree of
+attack on the actual Cu surface with optical image analysis. As
+shown in Figure 2c,
+the SLG-Cu developed a rough
+topography, darker shades of corrosion products, and the
+localized pitting (black colored pits shown by red arrows).
+SLG-Cu inherited a pronounced signature of MIC compared
+to bare Cu (Figure 2c). In contrast, the MLG-Cu surface
+remained intact with visible Cu grain boundaries (Figures
+2b,c). These results suggest
+that SLG-Cu aggravated the
+microbial attack while MLG-Cu oﬀers outstanding protection
+in biological environments.
+
+Next, we used electrochemical methods to quantify the
+biotic corrosion behavior of bare and coated Cu surfaces
+(Figure 3). SLG-Cu experienced an accelerated degree of Cu
+
+Figure 4. (a) Schematic of the defects in graphene that adsorb
+corrosive metabolites and enable their access to the underlying Cu
+surface. Inside the circle shows corrosive metabolic species of DA-
+G20. (b) Work function of Cu(111) surface with adsorbed few-
+layer (one to six layers) graphene as a function of graphene−Cu
+distance. Symbols show calculated values of W and a dashed blue
+line indicates the work function of bare Cu(111). (c) Double-layer
+capacitance of bare Cu, SLG-Cu, and MLG-Cu surface obtained
+from EIS analysis. (d) Charge-transfer resistance of bare Cu, SLG-
+Cu, and MLG-Cu surface obtained from EIS analysis.
+
+pathways for the corrosive species (HS−, H+, OH−, O2, and
+H2O) to permeate onto the underlying Cu surfaces. We used
+Cu (111) (6 layers of Cu atoms) modiﬁed with perfect
+graphene (1−6 layers) in the simulations. We evaluated the
+work function (WF) of SLG-Cu and MLG-Cu as a function of
+Cu−graphene distance (d), as depicted in Figure 4b. The
+computed value of WF (eV) for graphene-Cu (∼4.5 eV) is
+lower than that of bare Cu(111) (∼5.1 eV), and these values
+agree well with that of the previous report.30
+
+Adsorbed graphene on Cu results in the formation of an
+the Cu−graphene interface. Our
+electric double layer at
+experimental results based on the electrochemical impedance
+spectroscopy (EIS) analysis suggest that SLG displays 100-fold
+higher double-layer capacitance (Cdl) compared to MLG
+(Figure 4c). As shown in Figure 4b, Cu−graphene displays the
+least value of WF when the number of graphene layers ranges
+from 1 to 3. Although the WF for SLG reduced only slightly
+from ∼5.1 to ∼4.9 eV at larger separation distances (d = 6 Å),
+
+449
+
+https://dx.doi.org/10.1021/acsnano.0c03987
+ACS Nano 2021, 15, 447−454
+
+Figure 3. Temporal variation of (a) open-circuit voltage and (b)
+corrosion rates for 8 days of exposure period to DA-G20. Nyquist
+plots on (c) day 0 (planktonic, t < 2 h) and (d) day 8 using a
+sinusoidal AC potential of 10 mV in the frequency range of 0.01−
+105 Hz.
+
+dissolution, as evident
+from the downward trend (more
+negative values) of the open-circuit potential (OCP) compared
+to bare Cu (Figure 3a); this downward trend was sustained for
+the entire exposure period. The lower polarization resistance
+(Rp) values of SLG-Cu corroborate its worsened corrosion
+behavior (Figure S2). For instance, the Rp for SLG-Cu on day
+3 was 80% lower than bare Cu. Finally, the corrosion rates of
+SLG-Cu on day 0 and day 8 were ∼22-fold and 5-fold higher
+than bare Cu, respectively (Figure 3b). In contrast, MLG
+layers on Cu oﬀered biotic corrosion resistance, as evident
+from their positive OCP values (−715 mV vs Ag/AgCl)
+
+ACS Nano
+
+www.acsnano.org
+
+Article
+
+Figure 5. Electrostatic potential distribution near a point defect in graphene: (a) double vacancy in graphene; (b) potential for electrons
+along dashed horizontal line in (a) at a distance of 3 Å from the graphene plane; (c) potential for electrons along dashed vertical line in (a)
+at a distance of 3 Å from the graphene plane.
+it dropped to ∼4.6 eV at d = ∼ 3.3 Å and to ∼4.2 eV at d < 3.3
+Å. For smaller values of d, WF decreases rapidly due to
+graphene−Cu chemical interactions as well as Pauli repulsion
+between the occupied graphene and Cu orbitals, pushing the
+electronic cloud into Cu, making Cu prone to corrosion. These
+interaction eﬀects are largest for SLG-Cu, and such eﬀects
+diminish with the increasing number of graphene layers,
+becoming negligible for MLG-Cu (>4 L). Thus, the fewer the
+number of graphene layers the higher the electrical double
+layer strength, lower the WF,31,32 more electropositive the Cu,
+and higher the biotic corrosion.20
+
+terminal electron acceptors to participate in the reduction
+reaction at the cathodic sites (eq 4).
+
++
+2H S
+2
++
++
+
+→
+→
+
+−
+2HS
+
+2e
+−
+
+(3)
+
++
+
+H
+
+2
+
+−
+
+2e
+
+H2
+
+2H
+(4)
+As seen in eqs 1−4, the lower the charge transfer resistance
+(Rct) of HS− on to the Cu surface, the higher will be the
+galvanic corrosion rates. The Rct for SLG-Cu was at minimum
+19-fold and 10-fold lower than for MLG-Cu and bare Cu,
+respectively, based on the EEC analysis (Figure S3) of the
+lower Rct to Cu
+Nyquist data (Figure 4d). The eﬀect of
+oxidation for SLG-Cu compared to bare Cu and MLG-Cu can
+be qualitatively observed in the Nyquist plots for day 0 (Figure
+3c) and day 8 (Figure 3d), as indicated by the lowest
+semicircle diameter. Our results agree well with those from
+previous reports on the 10-fold higher electron mobility in
+SLG (23.3 × 104 cm2/V·s) vs MLG (2.0 × 104 cm2/V·s).37,38
+Moreover, the metabolites (HS−, H+) that increase over time
+to dope the defects in graphene, as reﬂected in the
+act
+increase of values of Cdl and the corresponding
+temporal
+decrease in Rct to corrosion for both of the protective layer
+cases (Figure 4c,d), while according to density functional
+theory (DFT) calculations, the WF of Cu is lowered for any
+number of graphene layers making Cu more electropositive,
+electron tunneling between Cu and corrosive metabolites
+adsorbed on the outermost layer may be hindered for MLG-
+Cu. This would eﬀectively slow down the reactions in eqs 1
+and 2 and diminish the corrosion in MLG-Cu.
+
+Next, we investigated the eﬀect of atomic-scale vacancy
+defects and grain boundaries in graphene layers on their
+protection ability to underlying metals. We studied the eﬀect of
+
+450
+
+https://dx.doi.org/10.1021/acsnano.0c03987
+ACS Nano 2021, 15, 447−454
+
+After establishing that SLG-Cu displays higher Cdl and lower
+WF, we describe that SLG-Cu donates electrons from the Cu
+oxidation and shifts the balance in eq 1 below toward the
+chemisorption of HS− at the cathodic sites (defects).20 Biotic
+corrosion begins with the attachment of DA-G20 cells on the
+Cu surfaces and subsequent growth into bioﬁlm, as established
+in prior sections (Figure 2a). This bioﬁlm releases corrosive
+metabolites that are strongly adsorbed onto inherent defects
+(Figure 4a),33−35 which serve as cathodic sites for the galvanic
+corrosion of the underlying Cu surface. The excessive ﬂow of
+biogenic HS− to the cathodic sites is compensated by a rapid
+supply of electrons from the Cu oxidation.36 The chemisorbed
+species further attack Cu to form Cu2S deposits (Figure S1),
+promoting a biogenic sulﬁde attack (eq 2).
+
+−
+Cu HS
+
+→
+
+Cu(HS)
+
+−
+
+e
+
+(1)
+
+Cu Cu(HS)
+
+ads
+
+(2)
+The H2S from eq 2 is sorbed onto the edges of the nanoscale
+defects33−35 to consume electrons from the Cu oxidation (eq
+3).34 Protons from the SRB metabolism also serve as the
+
+Cu S H S
+2
+
+2
+
++
+
++
+
+−
+
+e
+
++
++
+
+ads
+−
+HS
+
++
+
++
+→
+
+ACS Nano
+
+www.acsnano.org
+
+Article
+
+Figure 6. Eﬀect of the grain boundaries in SLG-Cu. (a−c) Topography, WF, and adhesion force map of a pristine SLG-Cu. (d−f)
+Topography, WF map, and WF proﬁle map for the exposed SLG-Cu (1 M H2SO4, 2h). (a) Diﬀerent grain sizes oriented in random
+directions and the dashed rectangle shows a grain boundary (GB) region between two diﬀerent grains. (b) Surface potential map and its
+associated WF of the GB are diﬀerent from the surrounding grain, indicating diﬀerent carrier concentrations at GB compared to grains. (c)
+Adhesion force between the metallic tip apex and the GB region is higher compared to the grain region. (d) AFM topography of an exposed-
+SLG/Cu (marked by a rectangle) and its corresponding WF map. (e) Presence of the corrodent particles decreases the WF at the GB
+compared to the grain region, in both the pristine (outside the rectangle) and exposed regions. (f) WF proﬁle of the pristine grains and its
+GB, which is merged with partially corroded grains and its GB. The eﬀect of corrosion is seen to be higher in the GB regions.
+
+double-vacancy defects on the WF behavior of Cu(111)
+substrates modiﬁed with the atomic graphene layer (Figure 5).
+Typically, such defects locally change the WF of SLG-Cu,
+which in turn could aﬀect
+the local corrosion rate. We
+calculated the electrostatic potential distribution near the
+double vacancy along the horizontal and vertical cuts at 3 Å
+above the graphene plane (Figure 5a) to quantify the change.
+We obtained a local perturbation of the potential, created by
+charge redistribution due to the formation of the defects and
+the perturbed ﬁeld extends over distances of the order of
+vacancy size and has an amplitude of ∼80 meV at 3 Å above
+the plane. The larger potential energy for electrons near the
+defect means a larger change in the local WF, which would
+slow down the rate of electron removal during the oxidation
+step (Figure 5). A similar change in the WF behavior can also
+be expected for MLG-Cu structures, speciﬁcally near the
+defects in a top graphene layer of MLG-Cu.
+
+After assessing the inﬂuence of vacancy defects, we studied
+the eﬀect of grain boundaries (GB) on the corrosion resistance
+of SLG over Cu by Kelvin probe force microscopy (KPFM)
+analyses. The GB is indicated by a dashed white rectangle
+(Figure 6a) as marked between the two grains. Figure 6a−f
+shows the KPFM topography and WF distribution proﬁle of a
+pristine region of the SLG-Cu sample as well as the region
+exposed to 1 M H2SO4 corrodent, speciﬁcally around the GB
+region. We chose H2SO4 as a model for aggressive corrodent as
+it prevails in anoxic microbial environments. Such acid
+metabolites
+from oxidation of hydrogen sulﬁde
+(generated in eq 2) by SRB-mediated reactions:
+
+result
+
+2H S
+2
+
++
+
+2O
+2
+
+→
+
+H SO
+4
+
+2
+
+(5)
+
+451
+
+As shown in the WF proﬁle (Figures 6f), the WF values in
+the GB region are signiﬁcantly lower compared to its
+surrounding grains for both the pristine and exposed samples.
+The lower the WF the higher the tendency to donate the
+electrons and lower the corrosion resistance. However, such a
+drop in WF is higher for the exposed GB regions (∼4.68 eV)
+compared to their pristine counterparts (∼4.82 eV).
+
+The adhesion force map or the work done by the metallic tip
+apex moving away from the surface is also higher at the GB
+regions (depicted by the bright regions in Figure 6c). This
+force map indicates the preferential surface chemistry of the
+GB toward the corrodent and the region of the exposed SLG-
+Cu (a solid line rectangle in Figure 6d) displays the presence of
+the salt impurities. To conclude, the GB in atomic graphene
+layers promote the higher charge injection tendency in SLG-
+Cu and a greater accumulation of the corrodent particles,
+suggesting the enhanced adhesive characteristics of GBs
+compared to the grains. Thus, grain boundaries can reduce
+the overall corrosion resistance of SLG on Cu.
+
+Furthermore, we explored the protection ability of atomic
+graphene layers on other metals such as nickel (Ni) substrates
+(details are provided in Figures S5 and S6). We have carried
+out the DFT calculations to understand the WF behavior of
+SLG-Ni and MLG-Ni as a function of Ni-graphene distance
+(d). Also, we conducted a KPFM study to determine the WF
+of SLG-Ni and MLG-Ni substrates exposed to 1 M H2SO4
+corrodent. Then, we conducted a comparative analysis by
+Raman Spectroscopy to study the doping and strain behavior
+of the SLG-Ni and SLG-Cu, for both pre- and postcorrosion
+conditions. The DFT analysis and KPFM study depicted lower
+WF of SLG-Ni compared to MLG-Ni, suggesting the greater
+
+https://dx.doi.org/10.1021/acsnano.0c03987
+ACS Nano 2021, 15, 447−454
+
+ACS Nano
+
+www.acsnano.org
+
+Article
+
+activity of the electrons that participate in relevant electro-
+chemical processes and lower (more negative) corrosion
+potential. Hence, MLG-Ni oﬀers superior corrosion protection
+compared to SLG-Ni, similarly aligned with the ﬁndings from
+the Cu case (Figure 4). Raman studies conﬁrmed that the
+atomic graphene layers on both Cu and Ni substrates stayed
+intact even after the prolonged exposure to the 1 M H2SO4
+corrodent (Figure S7a,b). However, SLG-Ni displays a distinct
+deconvoluted strain and doping behavior compared to SLG-Cu
+at the pre- and postexposure conditions (Figure S7c) and
+suggests that SLG-Cu is more prone to corrosion compared to
+SLG-Ni, aligning with the results of the DFT simulations
+(Figure S5 and Figure 4, details
+in the Supporting
+Information).
+
+inhibit cell attachment and bioﬁlm growth,
+
+CONCLUSIONS
+In conclusion, metals used in biointerface applications are
+susceptible to microbial attack, a problem costing billions of
+dollars across the world. Although atomic graphene layers do
+not
+they can
+eﬀectively restrict the diﬀusion of aggressive metabolites to the
+underlying Cu surfaces and prevent biogenic sulﬁde attack.
+Owing to the small density of states, single-layered graphene
+displays distinct quantum capacitance eﬀect and increases the
+electrical double layer capacitance and copper dissolution at
+the copper
+interfaces. This quantum capacitance eﬀect
+decreases with the increase in the number of atomic graphene
+layers.31 Thus, graphene coating should be designed rationally
+to minimize the impact of the capacitance eﬀect, while taking
+into account the interplay between the inherent defects and the
+dynamics of
+inevitable bioﬁlm growth and associated
+phenotypical and genotypic responses, all of which impact
+biogenic sulﬁde attack.
+
+METHODS
+A comprehensive description of the experimental procedures has been
+provided in the Supporting Information, and only a brief account is
+given below. Single-layer graphene (SLG) was grown on copper foil
+(25 μm thick) using a low-pressure chemical vapor deposition
+(LPCVD) at 1000 °C and 500 mTorr with a methane gas ﬂow of 35
+sccm. Multilayer graphene (MLG) was synthesized on copper foil (25
+μm thick) by CVD at 940 °C under a pressure of 1.01 × 105 Pa and
+CH4:H2 ﬂow ratio 10:30 (sccm) as described previously.1 The CVD-
+grown SLG and MLG on copper foil (Bare Cu) are designated as
+SLG- Cu and MLG-Cu, respectively.
+
+All electrochemical tests were carried out using a Gamry Reference
+600 potentiostat. All of the tests were carried out using samples (bare
+Cu, SLG-Cu, and MLG-Cu) with an exposure area of 1 cm2. The
+measurements were obtained after achieving steady-state OCP
+conditions. Microbial corrosion experiments were carried out in a
+400 mL single compartment corrosion Cell Kit (Gamry Instruments)
+consisting of a graphite plate as a counter electrode, an Ag/AgCl as a
+reference electrode (RE), and the sample of interest as a working
+electrode (WE). The D. alaskensis strain G20 (DA-G20) that was
+anaerobically grown in the Lactate C (L-C) medium was used in all of
+the MIC experiments.
+
+DFT calculations were performed using local density approx-
+imation (LDA) density functional, as implemented in the Quantum
+Espresso package.39 Bernal (AB) stacking was used to model
+multilayer structures. In multilayer graphene, the z coordinate of
+the graphene layer nearest to the Cu surface was ﬁxed, and all other
+coordinates were fully relaxed. Similarly, the z coordinate of the top
+layer of the Cu(111) slab was ﬁxed, while other coordinates were fully
+relaxed. The equilibrium interlayer distance after
+the geometry
+optimization was 3.36 Å.
+
+Kelvin probe force microscopy (KPFM): The KPFM investigations
+were performed using atomic force microscopy (AFM)-Bruker
+Dimension Icon. Peak-force KPFM through two pass modes has
+been used in the characterization; in the ﬁrst pass, a topography image
+was collected, and the second pass for the potential map (contact
+potential diﬀerence, CPD). Conductive tip from Bruker (Model:
+PFQNE-Al, stiﬀness ≈ 0.8 ± 0.2 N/m, diameter ≈ 5 nm, resonance
+frequency = 300 kHz) has been used for the measurements. The
+calculation of the tip work function (WF) was carried out using
+− eVdc.
+freshly cleaved HOPG using the relation, WFsample = WFtip
+The same relation is used to measure local WF of unaﬀected and
+corroded graphene.
+
+The Raman spectroscopy was carried out with a 532 nm laser line,
+1800 grating line/mm using the Renishaw inVia 100X optical lens.
+The laser power was limited to 5% (<1 mW) throughout the duration.
+The Raman peaks were ﬁtted using the Lorentzian function to
+measure the peak positions for G and 2D peak.
+
+ASSOCIATED CONTENT
+*sı Supporting Information
+The Supporting Information is available free of charge at
+https://pubs.acs.org/doi/10.1021/acsnano.0c03987.
+
+Optical, SEM, TEM, Raman, and contact angle analysis
+of SLG-Cu and MLG-Cu; preparation of
+sulfate-
+reducing bacterial (SRB) strain and its culture; microbial
+corrosion; electrochemical measurement; characteriza-
+tion of bioﬁlms and corrosion deposits; EEC circuits;
+DFT calculations; protection ability of atomic graphene
+layers on Ni substrates; convoluted strain and doping
+eﬀect behavior of graphene layers exposed to 1 M
+H2SO4; eﬀects of
+surface roughness on corrosion
+behavior (PDF)
+
+AUTHOR INFORMATION
+Corresponding Authors
+
+Pulickel M. Ajayan − Department of Materials Science and
+NanoEngineering, Rice University, Houston, Texas 77005,
+United States;
+Email: ajayan@rice.edu
+
+orcid.org/0000-0001-8323-7860;
+
+Muhammad M. Rahman − Department of Materials Science
+
+and NanoEngineering, Rice University, Houston, Texas
+77005, United States;
+Email: mr64@rice.edu
+
+orcid.org/0000-0003-1374-0561;
+
+Venkataramana Gadhamshetty − Department Civil and
+
+Environmental Engineering, South Dakota School of Mines
+and Technology, Rapid City, South Dakota 57701, United
+States; 2Dimensional Materials for Bioﬁlm Engineering
+Science and Technology (2DBEST) Center, South Dakota
+School of Mines and Technology, Rapid City, South Dakota
+57701, United States;
+orcid.org/0000-0002-8418-3515;
+Email: venkata.gadhamshetty@sdsmt.edu
+
+Authors
+
+Govind Chilkoor − Department Civil and Environmental
+
+Engineering, South Dakota School of Mines and Technology,
+Rapid City, South Dakota 57701, United States;
+2Dimensional Materials for Bioﬁlm Engineering Science and
+Technology (2DBEST) Center, South Dakota School of
+Mines and Technology, Rapid City, South Dakota 57701,
+United States
+Namita Shrestha − Department of Civil and Environmental
+
+Engineering, Rose-Hulman Institute of Technology, Terre
+Haute, Indiana 47803, United States
+
+452
+
+https://dx.doi.org/10.1021/acsnano.0c03987
+ACS Nano 2021, 15, 447−454
+
+ACS Nano
+
+www.acsnano.org
+
+Article
+
+Alex Kutana − Department of Materials Science and
+
+NanoEngineering, Rice University, Houston, Texas 77005,
+United States;
+Manoj Tripathi − Department of Physics and Astronomy,
+
+orcid.org/0000-0001-6405-6466
+
+University of Sussex, Brighton BN1 9RH, U.K.;
+orcid.org/
+0000-0002-8052-428X
+Francisco C. Robles Hernández − Department of Materials
+Science and NanoEngineering, Rice University, Houston,
+Texas 77005, United States; Department of Mechanical
+Engineering Technology, University of Houston, Houston,
+Texas 770204, United States
+Boris I. Yakobson − Department of Materials Science and
+NanoEngineering, Rice University, Houston, Texas 77005,
+United States;
+Meyya Meyyappan − Center for Nanotechnology, NASA Ames
+Research Center, Mountain View, California 94035, United
+States
+
+orcid.org/0000-0001-8369-3567
+
+Alan B. Dalton − Department of Physics and Astronomy,
+
+University of Sussex, Brighton BN1 9RH, U.K.;
+0000-0001-8043-1377
+
+orcid.org/
+
+Complete contact information is available at:
+https://pubs.acs.org/10.1021/acsnano.0c03987
+
+Notes
+The authors declare no competing ﬁnancial interest.
+
+ACKNOWLEDGMENTS
+V.G. acknowledges funding support from the National Science
+Foundation CAREER award (No. 1454102), NSF RII T-1
+FEC Award No. 1849206, NSF RII T-2 FEC Award No.
+1920954, and NASA (No. NNX16AQ98A) for funding this
+research. P.M.A. acknowledges support from the Air Force
+Oﬃce of Scientiﬁc Research under Award No. FA9550-18-1-
+0072. Computational analysis (A.K. and B.I.Y.) was funded by
+the Department of Energy, Fossil Energy Program, UT-Battelle
+contract DE-AC05-00OR22725 via grant 4000174979, and by
+the R. Welch Foundation (C-1590).
+
+REFERENCES
+(1) Böhm, S. Graphene against Corrosion. Nat. Nanotechnol. 2014,
+9, 741.
+(2) Callow, M. E.; Callow, J. A. Marine Biofouling: A Sticky
+Problem. Biologist 2002, 49, 1−5.
+(3) Kopteva, Z. P.; Zanina, V.; Kozlova, I. Microbial Corrosion of
+Protective Coatings. Surf. Eng. 2004, 20, 275−280.
+(4) Bunch, J. S.; Verbridge, S. S.; Alden, J. S.; Van Der Zande, A. M.;
+Parpia, J. M.; Craighead, H. G.; McEuen, P. L. Impermeable Atomic
+Membranes from Graphene Sheets. Nano Lett. 2008, 8, 2458−2462.
+(5) Liu, L.; Ryu, S.; Tomasik, M. R.; Stolyarova, E.; Jung, N.;
+Hybertsen, M. S.; Steigerwald, M. L.; Brus, L. E.; Flynn, G. W.
+Graphene Oxidation: Thickness-Dependent Etching and Strong
+Chemical Doping. Nano Lett. 2008, 8, 1965−1970.
+(6) Prasai, D.; Tuberquia, J. C.; Harl, R. R.; Jennings, G. K.; Bolotin,
+K. I. Graphene: Corrosion-Inhibiting Coating. ACS Nano 2012, 6,
+1102−1108.
+(7) Xu, Y.; Qu, J.; Shen, Y.; Feng, W. Different Graphene Layers to
+Enhance or Prevent Corrosion of Polycrystalline Copper. RSC Adv.
+2018, 8, 15181−15187.
+(8) Tiwari, A.; Singh Raman, R. Long-Term Corrosion Protection of
+a Cupro-Nickel Alloy Due to Graphene Coating. Coatings 2017, 7,
+210.
+(9) Stoot, A. C.; Camilli, L.; Spiegelhauer, S.-A.; Yu, F.; Bøggild, P.
+Multilayer Graphene for Long-Term Corrosion Protection of
+Stainless Steel Bipolar Plates for Polymer Electrolyte Membrane
+Fuel Cell. J. Power Sources 2015, 293, 846−851.
+
+(10) Su, Y.; Kravets, V.; Wong, S.; Waters, J.; Geim, A.; Nair, R.
+Impermeable Barrier Films and Protective Coatings Based on
+Reduced Graphene Oxide. Nat. Commun. 2014, 5, 4843.
+(11) Chen, S.; Brown, L.; Levendorf, M.; Cai, W.; Ju, S.-Y.;
+Edgeworth, J.; Li, X.; Magnuson, C. W.; Velamakanni, A.; Piner, R. D.
+Oxidation Resistance Of Graphene-Coated Cu and Cu/Ni Alloy. ACS
+Nano 2011, 5, 1321−1327.
+(12) Galbiati, M.; Stoot, A. C.; Mackenzie, D.; Bøggild, P.; Camilli,
+L. Real-Time Oxide Evolution of Copper Protected by Graphene and
+Boron Nitride Barriers. Sci. Rep. 2017, 7, 39770.
+(13) Ahn, Y.; Jeong, Y.; Lee, D.; Lee, Y. Copper Nanowire−
+Graphene Core−Shell Nanostructure for Highly Stable Transparent
+Conducting Electrodes. ACS Nano 2015, 9, 3125−3133.
+(14) Huang, Y.; Huang, Z.; Zhong, Z.; Yang, X.; Hong, Q.; Wang,
+H.; Huang, S.; Gao, N.; Chen, X.; Cai, D. Highly Transparent Light
+Emitting Diodes on Graphene Encapsulated Cu Nanowires Network.
+Sci. Rep. 2018, 8, 1−11.
+(15) Xu, H.; Wang, H.; Wu, C.; Lin, N.; Soomro, A. M.; Guo, H.;
+Liu, C.; Yang, X.; Wu, Y.; Cai, D. Direct Synthesis of Graphene 3D-
+Coated Cu Nanosilks Network for Antioxidant Transparent
+Conducting Electrode. Nanoscale 2015, 7, 10613−10621.
+(16) Yang, K.; Li, Y.; Tan, X.; Peng, R.; Liu, Z. Behavior and
+Toxicity of Graphene and Its Functionalized Derivatives in Biological
+Systems. Small 2013, 9, 1492−1503.
+(17) Sanchez, V. C.; Jachak, A.; Hurt, R. H.; Kane, A. B. Biological
+Interactions of Graphene-Family Nanomaterials: An Interdisciplinary
+Review. Chem. Res. Toxicol. 2012, 25, 15−34.
+(18) Xiao, X.; Li, Y.; Liu, Z. Graphene Commercialization. Nat.
+Mater. 2016, 15, 697−698.
+(19) Li, X.; Cai, W.; An, J.; Kim, S.; Nah, J.; Yang, D.; Piner, R.;
+Velamakanni, A.; Jung, I.; Tutuc, E. Large-Area Synthesis of High-
+Quality and Uniform Graphene Films on Copper Foils. Science 2009,
+324, 1312−1314.
+(20) Huttunen-Saarivirta, E.; Rajala, P.; Carpén, L. Corrosion
+Behaviour of Copper under Biotic and Abiotic Conditions in Anoxic
+Ground Water: Electrochemical Study. Electrochim. Acta 2016, 203,
+350−365.
+(21) Jacobs, S.; Reiber, S.; Edwards, M. Sulfide-Induced Copper
+Corrosion. J. - Am. Water Works Assoc. 1998, 90, 62−73.
+(22) Srivastava, A.; Galande, C.; Ci, L.; Song, L.; Rai, C.; Jariwala,
+D.; Kelly, K. F.; Ajayan, P. M. Novel Liquid Precursor-Based Facile
+Synthesis of Large-Area Continuous, Single, and Few-Layer Graphene
+Films. Chem. Mater. 2010, 22, 3457−3461.
+(23) Kim, K. K.; Hsu, A.; Jia, X.; Kim, S. M.; Shi, Y.; Dresselhaus,
+M.; Palacios, T.; Kong, J. Synthesis and Characterization of Hexagonal
+Boron Nitride Film as a Dielectric Layer for Graphene Devices. ACS
+Nano 2012, 6, 8583−8590.
+(24) Hsieh, Y.-P.; Hofmann, M.; Chang, K.-W.; Jhu, J. G.; Li, Y.-Y.;
+Chen, K. Y.; Yang, C. C.; Chang, W.-S.; Chen, L.-C. Complete
+Corrosion Inhibition through Graphene Defect Passivation. ACS
+Nano 2014, 8, 443−448.
+(25) Kirkland, N.; Schiller, T.; Medhekar, N.; Birbilis, N. Exploring
+Graphene as a Corrosion Protection Barrier. Corros. Sci. 2012, 56, 1−
+4.
+(26) Rafiee, J.; Mi, X.; Gullapalli, H.; Thomas, A. V.; Yavari, F.; Shi,
+Y.; Ajayan, P. M.; Koratkar, N. A. Wetting Transparency of Graphene.
+Nat. Mater. 2012, 11, 217.
+(27) Li, J.; Wang, G.; Zhu, H.; Zhang, M.; Zheng, X.; Di, Z.; Liu, X.;
+Wang, X. Antibacterial Activity of Large-Area Monolayer Graphene
+Film Manipulated by Charge Transfer. Sci. Rep. 2015, 4, 1−8.
+(28) Barbolina,
+I.; Woods, C.; Lozano, N.; Kostarelos, K.;
+Novoselov, K.; Roberts, I. Purity of Graphene Oxide Determines its
+Antibacterial Activity. 2D Mater. 2016, 3, 025025.
+(29) Banhart, F.; Kotakoski, J.; Krasheninnikov, A. V. Structural
+Defects in Graphene. ACS Nano 2011, 5, 26−41.
+(30) Giovannetti, G.; Khomyakov, P.; Brocks, G.; Karpan, V. v.; Van
+den Brink, J.; Kelly, P. J. Doping Graphene with Metal Contacts. Phys.
+Rev. Lett. 2008, 101, 026803.
+
+453
+
+https://dx.doi.org/10.1021/acsnano.0c03987
+ACS Nano 2021, 15, 447−454
+
+ACS Nano
+
+www.acsnano.org
+
+Article
+
+(31) Zhan, C.; Neal, J.; Wu, J.; Jiang, D.-e. Quantum Effects on the
+Capacitance of Graphene-Based Electrodes. J. Phys. Chem. C 2015,
+119, 22297−22303.
+(32) Naghdi, S.; Sanchez-Arriaga, G.; Rhee, K. Y. Tuning the Work
+Function of Graphene toward Application as Anode and Cathode. J.
+Alloys Compd. 2019, 805, 1117−1134.
+(33) Reshak, A.; Auluck, S. Adsorbing H2S onto a Single Graphene
+Sheet: A Possible Gas Sensor. J. Appl. Phys. 2014, 116, 103702.
+(34) Faye, O.; Raj, A.; Mittal, V.; Beye, A. C. H2S Adsorption on
+Graphene in the Presence of Sulfur: A Density Functional Theory
+Study. Comput. Mater. Sci. 2016, 117, 110−119.
+(35) Borisova, D.; Antonov, V.; Proykova, A. Hydrogen Sulfide
+Adsorption on a Defective Graphene. Int. J. Quantum Chem. 2013,
+113, 786−791.
+(36) Cui, C.; Lim, A. T. O.; Huang, J. A Cautionary Note on
+Graphene Anti-Corrosion Coatings. Nat. Nanotechnol. 2017, 12, 834.
+(37) Fang, X.-Y.; Yu, X.-X.; Zheng, H.-M.; Jin, H.-B.; Wang, L.; Cao,
+M.-S. Temperature-and Thickness-Dependent Electrical Conductivity
+of Few-Layer Graphene and Graphene Nanosheets. Phys. Lett. A
+2015, 379, 2245−2251.
+(38) Nagashio, K.; Nishimura, T.; Kita, K.; Toriumi, A. Mobility
+Variations in Mono-and Multi-Layer Graphene Films. Appl. Phys.
+Express 2009, 2, 025003.
+(39) Giannozzi, P; Andreussi, O; Brumme, T; Bunau, O;
+Buongiorno Nardelli, M; Calandra, M; Car, R; Cavazzoni, C;
+Ceresoli, D; Cococcioni, M; Colonna, N; Carnimeo, I; Dal Corso,
+A; de Gironcoli, S; Delugas, P; DiStasio, R A; Ferretti, A; Floris, A;
+Fratesi, G; Fugallo, G; Gebauer, R; Gerstmann, U; Giustino, F; Gorni,
+T; Jia, J; Kawamura, M; Ko, H-Y; Kokalj, A; Kucukbenli, E; Lazzeri,
+M; Marsili, M; Marzari, N; Mauri, F; Nguyen, N L; Nguyen, H-V;
+Otero-de-la-Roza, A; Paulatto, L; Ponce, S; Rocca, D; Sabatini, R;
+Santra, B; Schlipf, M; Seitsonen, A P; Smogunov, A; Timrov, I;
+Thonhauser, T; Umari, P; Vast, N; Wu, X; Baroni, S Advanced
+Capabilities for Materials Modelling with Quantum ESPRESSO. J.
+Phys.: Condens. Matter 2017, 29, 465901.
+
+454
+
+https://dx.doi.org/10.1021/acsnano.0c03987
+ACS Nano 2021, 15, 447−454
+
+

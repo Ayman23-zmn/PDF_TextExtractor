@@ -1,0 +1,1298 @@
+Article
+Study on the Corrosion Resistance of Graphene Oxide-Based
+Epoxy Zinc-Rich Coatings
+
+Yong Tian 1
+
+, Zhenxiao Bi 2 and Gan Cui 2,*
+
+School of Science, Qingdao University of Technology, Qingdao 266525, China; 20160015@upc.edu.cn
+
+1
+2 College of Pipeline and Civil Engineering, China University of Petroleum (East China), No. 66,
+
+West Changjiang Road, Huangdao District, Qingdao 266580, China; 18954831115@163.com
+
+* Correspondence: chennacuigan@163.com
+
+Abstract: In order to improve the corrosion resistance of zinc-rich epoxy coatings and reduce the
+amount of zinc used, ﬁrst, graphene oxide (GO) was modiﬁed by sulfonated multiwall carbon
+nanotubes (SMWCNTs) to obtain the modiﬁed graphene oxide (SM-GO). The samples were char-
+acterized by Fourier transform infrared spectroscopy (FT-IR), X-ray diffraction (XRD) and Raman
+spectroscopy. Then, four kinds of coatings were prepared, namely pure zinc-rich coating (0-ZRC),
+graphene oxide-based zinc-rich coating (GO-ZRC), sulfonated multiwall carbon nanotube-based
+zinc-rich coating (SM-ZRC) and SM-GO-based zinc-rich coating (SG-ZRC). The corrosion resistance
+of the above coatings was studied by open circuit potential (OCP), electrochemical impedance spec-
+troscopy (EIS), a salt spray test, 3D confocal microscope, and electron scanning electron microscope
+(SEM). The results indicate that GO is successfully non-covalently modiﬁed by SMWCNTs, of which
+the interlayer spacing increases and dispersion is improved. The order of the corrosion resistance is
+GO-ZRC > SG-ZRC > SM-ZRC > 0-ZRC. The addition of GO, SMWCNTs, and SM-GO increases the
+shielding effect and increases the electrical connection between Zn particles and metal substrates,
+which improves the corrosion resistance. However, SMWCNTs and SM-GO also strengthen the
+galvanic corrosion, which decreases the corrosion resistance to some extent.
+
+Keywords: sulfonated; multiwall carbon nanotubes; graphene oxide; epoxy zinc-rich coating; corro-
+sion resistance
+
+Citation: Tian, Y.; Bi, Z.; Cui, G.
+Study on the Corrosion Resistance of
+Graphene Oxide-Based Epoxy
+Zinc-Rich Coatings. Polymers 2021, 13,
+1657. https://doi.org/10.3390/
+polym13101657
+
+Academic Editor: Ilaria Armentano
+
+1. Introduction
+
+Received: 23 April 2021
+Accepted: 13 May 2021
+Published: 19 May 2021
+
+Publisher’s Note: MDPI stays neutral
+with regard to jurisdictional claims in
+published maps and institutional afﬁl-
+iations.
+
+Copyright: © 2021 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed under
+the terms and
+conditions of the Creative Commons
+Attribution (CC BY) license (https://
+creativecommons.org/licenses/by/
+4.0/).
+
+In the ﬁeld operation, coatings are often used to protect metals to reduce the risk of
+corrosion. Among anticorrosive coatings, the epoxy zinc-rich coating occupies a certain
+proportion. The protection of zinc-rich epoxy coating for the metal substrate can be divided
+into two stages. First, a large number of zinc particles in the zinc-rich coating are used
+as anodes to provide cathodic protection for the metal substrate. Second, the insoluble
+corrosion products produced by the reaction of zinc particles ﬁll the defects in the coating
+and act as a physical shield against corrosive substances [1–4]. If the zinc-rich coating
+plays a functional role in cathodic protection, it is necessary to establish an effective/active
+electronic channel between zinc particles and metal substrate. However, the adhesive and
+the corrosion products of zinc in the coating are often non-conductive, which leads to
+the emergence of a lot of isolated zinc particles in the coating. Therefore, it is difﬁcult to
+provide sufﬁcient protection for the metal substrate [5]. The addition of graphene to the
+coating promotes the formation of the electron conduction path between zinc particles
+and metal substrate. The content of zinc in isolation is reduced, and the effect of cathodic
+protection is enhanced. As an impermeable substance, graphene hinders the corrosive
+substances to pass through. Therefore, the service life of the coating is prolonged [6–12].
+Owing to the high aspect ratio and van der Waals force, graphene needs to be modiﬁed
+to improve its dispersibility in the coating [13]. Oxidizing graphene to graphene oxide (GO)
+is the simplest modiﬁcation method [14]. GO has good dispersion in both aqueous solution
+
+Polymers 2021, 13, 1657. https://doi.org/10.3390/polym13101657
+
+https://www.mdpi.com/journal/polymers
+
+polymers# &!*-0+/ .Polymers 2021, 13, 1657
+
+2 of 20
+
+and polymer matrix. Many experts have tried to modify graphene in other ways to further
+improve the dispersion of graphene in the coating. Yang et al. modiﬁed the graphene
+sheet (MGP) using one-dimensional multi-walled carbon nanotubes (MWCNTs). The
+modiﬁed product MWCNTs/MGP was dispersed in epoxy resin, and the scanning electron
+microscope (SEM) result indicated that the long and zigzag MWCNTs could bridge adjacent
+graphene sheets and inhibit the stacking of graphene [15]. As a result, MWCNTs/MGP had
+higher solubility and better compatibility than MGP. Hu et al. studied the effect of carbon
+nanotubes (CNTs) and GO on the anti-corrosion performance of epoxy coatings. First, GO
+and CNTs were chemically modiﬁed by 3-aminophenoxyphthalonitrile to obtain the nitrile
+functionalized graphene oxides (GO-CN) and carbon nanotubes (CNTs-CN), respectively.
+Second, GO-CN was further modiﬁed using CNTs-CN to obtain GO-CN&CNTs-CN hybrid,
+which was added to the epoxy coating. Due to the better dispersion and synergistic effect
+of GO-CN&CNTs, the epoxy coating showed high corrosion resistance [16]. In addition,
+we show in Table 1 that other modiﬁcation methods are used to improve the corrosion
+resistance of the coating.
+
+Additives
+
+Polyaniline/
+graphene oxide
+
+(GO-PANI)
+
+Table 1. Summary of the modiﬁcation methods of graphene.
+
+Coating
+
+Descriptions
+
+Epoxy zinc-rich coating
+
+Both the cathodic protection properties and
+barrier performance of the ZRC are improved
+after addition of 0.1 wt.% GO and GO-PANI
+
+nanosheets to the ZRC sample.
+
+Fluorinated reduced
+
+graphene oxide (FrGO-IL)
+
+Waterborne epoxy coating
+
+It improves the corrosion resistance performance
+of the coating by exerting the superior shielding
+
+effect and inhibiting the ability for
+
+micro-galvanic corrosion.
+
+Silanized graphene oxide (SGO)
+
+Silane coating
+
+The composite coatings exhibit the highest
+protective properties with the addition of
+
+0.2 wt.% of SGO.
+
+Polydopamine-coated graphene
+
+oxide (GO-PDA)
+
+water-borne epoxy coating
+
+Graphene oxide/multi-walled
+
+carbon nanotubes (GO-MWCNTs)
+
+Urushiol formaldehyde
+
+polymer coating
+
+Acidiﬁed multi-walled carbon
+
+nanotubes and gallic acid
+modiﬁed graphene oxide
+ﬂakes (FMWCNT-FGO)
+
+Polyurethane coating
+
+The results demonstrate that the inclusion of
+well-dispersed GO-PDA nanosheets leads to a
+
+remarkable improvement in the corrosion
+protection performance of water-borne
+
+EP coating.
+
+The resulting GO/MWCNTs/UFP ﬁlms exhibit
+
+outstanding properties in terms of
+
+electrochemical corrosion, alkali-resistance,
+
+hardness and adhesion.
+
+The composite coatings simultaneously
+
+underwent no corrosion after immersion for 96 h,
+and the corrosion resistance was better than that
+
+of the other coatings.
+
+Ref.
+
+[9]
+
+[17]
+
+[18]
+
+[19]
+
+[20]
+
+[21]
+
+The above examples prove that the modiﬁcation of GO with carbon nanotubes is
+an effective way to improve the dispersion of GO and enhance the corrosion resistance
+of the coating. Moreover, carbon nanotubes and graphene are conductive materials that
+enhance the electrical conductivity between zinc powders. The novelty of our paper is to
+add graphene modiﬁed by carbon nanotubes to zinc-rich coatings. Presently, no relevant
+research has been reported.
+
+However, there are some controversial ﬁndings. Turhan et al. prepared the MWC-
+NTs/Mg composites by adding MWCNTs to pure magnesium, and its corrosion resistance
+was studied. The results showed that the corrosion rate of MWCNTs/Mg composites was
+much higher than that of pure Mg [22]. Gergely et al. found that MWCNTs had galvanic
+corrosion in the epoxy zinc-rich coating, which decreased the anti-corrosion ability [23,24].
+
+Polymers 2021, 13, 1657
+
+3 of 20
+
+Therefore, we want to know what effect the graphene modiﬁed by carbon nanotubes will
+have on the anti-corrosion performance of the epoxy zinc-rich coating.
+
+In order to prove our conjecture, in this paper, MWCNTs were sulfonated ﬁrst to form
+sulfonated multiwall carbon nanotubes (SMWCNTs). Subsequently, graphene oxide (GO)
+was modiﬁed by SMWCNTs to improve its dispersion in the solvent [25]. For comparison,
+four kinds of coatings were prepared, namely pure zinc-rich coating (0-ZRC), graphene
+oxide-based zinc-rich coating (GO-ZRC), sulfonated multiwall carbon nanotube-based zinc-
+rich coating (SM-ZRC) and SM-GO-based zinc-rich coating (SG-ZRC). Last, the corrosion
+resistance and anti-corrosion mechanism of the above coatings were studied.
+
+2. Experimental
+2.1. Materials
+
+Graphite powder (325mesh, 99.95%) and MWCNTs (inner diameter: 3–5 nm, outer di-
+ameter: 8–15 nm, length about 50 µm) were purchased from Shanghai Aladdin Biochemical
+Technology Co., Ltd., Shanghai, ChinaPotassium permanganate (KMnO4, 99.5%), concen-
+trated sulfuric acid (H2SO4, 98 wt.%), sodium nitrate (NaNO3, analytical purity), hydrogen
+peroxide (H2O2), hydrochloric acid (HCl, 36%), concentrated nitric acid (HNO3,70%), ace-
+tone (99%) and anhydrous ethanol (75%) were purchased from Sinopharmaceutical Group
+Chemical Reagent Co., Ltd., Beijing, China.The epoxy zinc-rich coating with 80 wt.% zinc
+was provided by Shanghai Qimeng Chemical Co., Ltd. (Shanghai, China). EP002 curing
+agent was provided by Kunshan North Asia Chemical Co., Ltd, Jiangsu, China.
+
+2.2. Preparation of SMWCNTs, GO and SM-GO
+2.2.1. Preparation of SMWCNTs
+
+A total of 1 g of MWCNTs were added to 200 mL of mixed acid (VH2SO4/VHNO3 = 3:1).
+After the mixed solution was sonicated in a water bath for 4 h at room temperature, 200 mL
+of deionized water was added. Then, the mixed solution was heated to 100 ◦C and stirred
+for 4 h. After standing for 12 h, delamination occurred in the mixed solution. The sediment
+was washed to remove surface impurities. Finally, SMWCNTs was obtained by drying for
+24 h in a vacuum drying box at 80 ◦C.
+
+2.2.2. Preparation of GO and SM-GO
+
+GO was prepared by the improved Hummers method. First, 2 g graphite powder and
+1 g NaNO3 were added to 80 mL H2SO4 solution. The mixture was placed in an ice bath
+with a temperature below 15 ◦C and was stirred continuously for two hours. A total of 12 g
+of KMnO4 was gradually added during the stirring process. Thereafter, the temperature of
+the mixture was raised to 35 ◦C, and the mixture was stirred for another 30 min. Second,
+the mixture was diluted with 160 mL deionized water and stirred in a room temperature
+water bath for 15 min. Third, 500 mL deionized water (75 ◦C) and 30 mL H2O2 were added
+to the mixed solution and stirred in a constant-temperature water bath at 75 ◦C for 4 h.
+Finally, the mixed solution was pickled and washed until the pH value of the solution was
+neutral. GO solution was obtained by ultrasonic and centrifugal treatment, and brown GO
+powder was obtained after freeze-drying for 48 h. SM-GO was synthesized by non-covalent
+interaction between GO and SMWCNTs. SMWCNTs and GO powders of the same mass
+were added to deionized water and sonicated for 12 h to prepare a brown solution. SM-GO
+powder was obtained after freeze-drying for 48 h. The above preparation process is shown
+in Figure 1.
+
+Polymers 2021, 13, 1657
+
+4 of 20
+
+Figure 1. Schematic illustration of the preparation of GO and SM-GO.
+
+2.3. Preparation of the Coating Samples
+
+First, the 20 carbon steel samples were washed successively with acetone, alcohol,
+and deionized water. Then, they were polished using 400, 800, and 50 grit silicon carbide
+waterproof abrasive papers in turn. After polishing, the samples were ultrasonically
+cleaned in ethanol and water, and dried for reserve. Second, three types of coatings were
+obtained by adding SMWCNTs, GO, and SM-GO powder (0.3 wt.%) into epoxy zinc-rich
+coatings and ultrasonically treated for 60 min. Subsequently, the curing agent (10 wt.%)
+was added to the coating and slowly stirred for 15 min to reduce the formation of bubbles.
+Finally, the coating was applied to the surface of the carbon steel sample with the brush and
+cured at room temperature for one week. The thickness of the dry coating was 100 ± 10 µm.
+In addition, for comparison, the pure epoxy zinc-rich coatings were prepared using the
+same method.
+
+2.4. Characterization Methods
+
+The change of chemical functional groups on the surface of the sample was charac-
+terized by Vertex Fourier transform infrared spectrometer. The scan range was 400 to
+4000 cm−1, and the number of scans was 21. The D8 Advance X-ray diffraction analyzer
+was used to characterize the molecular structure of the sample, and the lamellar spacing
+was calculated. Cu target radiation (λ = 0.154 nm) was used, with a tube pressure of 45 kV
+and tube ﬂow of 50 mA, at a scanning rate of 8 cm/s in the range of 4◦ to 90◦. The Raman
+spectrum was measured by Horiba Lab-RAM HR Evolution with the focal length of 800 nm,
+which was used to characterize the molecular structure of the sample.
+
+The OCP and EIS of the coatings were measured using a PARSTAT 2273 electro-
+chemical workstation. A three-electrode system was constructed with a saturated calomel
+electrode (SCE) as the reference electrode, platinum electrode as the auxiliary electrode,
+and 3.5 wt.% NaCl as the solution. The frequency range and amplitude voltage of the
+EIS test were 10 kHz to 0.01 Hz and 10 mV, respectively. The salt spray test of the sample
+(2 × 25 × 50 mm) was carried out in the salt spray testing chamber, according to the ISO
+
+Polymers 2021, 13, x  4 of 22    Figure 1. Schematic illustration of the preparation of GO and SM-GO. 2.3. Preparation of the Coating Samples First, the 20 carbon steel samples were washed successively with acetone, alcohol, and deionized water. Then, they were polished using 400, 800, and 50 grit silicon carbide waterproof abrasive papers in turn. After polishing, the samples were ultrasonically cleaned in ethanol and water, and dried for reserve. Second, three types of coatings were obtained by adding SMWCNTs, GO, and SM-GO powder (0.3 wt.%) into epoxy zinc-rich coatings and ultrasonically treated for 60 min. Subsequently, the curing agent (10 wt.%) was added to the coating and slowly stirred for 15 min to reduce the formation of bubbles. Finally, the coating was applied to the surface of the carbon steel sample with the brush and cured at room temperature for one week. The thickness of the dry coating was 100 ± 10 μm. In addition, for comparison, the pure epoxy zinc-rich coatings were prepared us-ing the same method. 2.4. Characterization Methods The change of chemical functional groups on the surface of the sample was charac-terized by Vertex Fourier transform infrared spectrometer. The scan range was 400 to 4000 cm−1, and the number of scans was 21. The D8 Advance X-ray diffraction analyzer was used to characterize the molecular structure of the sample, and the lamellar spacing was calculated. Cu target radiation (λ = 0.154 nm) was used, with a tube pressure of 45 kV and tube flow of 50 mA, at a scanning rate of 8 cm/s in the range of 4° to 90°. The Raman spectrum was measured by Horiba Lab-RAM HR Evolution with the focal length of 800 nm, which was used to characterize the molecular structure of the sample. The OCP and EIS of the coatings were measured using a PARSTAT 2273 electrochem-ical workstation. A three-electrode system was constructed with a saturated calomel elec-trode (SCE) as the reference electrode, platinum electrode as the auxiliary electrode, and 3.5 wt.% NaCl as the solution. The frequency range and amplitude voltage of the EIS test were 10 kHz to 0.01 Hz and 10 mV, respectively. The salt spray test of the sample (2 × 25 × 50 mm) was carried out in the salt spray testing chamber, according to the ISO 4628–Polymers 2021, 13, 1657
+
+5 of 20
+
+4628–2005 standard. The surface of the coating sample was forked, and the cut was as
+deep as the metal substrate. Then, the sample was exposed to 5 wt.% NaCl salt spray. The
+temperature was kept at 35 ◦C, and the pH value was 6.5 to 7.2.
+
+The micro-surface morphology of the coating after the salt spray test was observed
+using the FEI quanta FEG 250 ﬁeld emission scanning electron microscope (FESEM). Before
+the test, it was necessary to spray gold on the surface of the sample to ensure electrical
+conductivity. After 70 days of salt spray test, the coating was peeled off, and the metal
+substrate was exposed. When the coating was heated at 50 ◦C for 5 min, the coating became
+soft. We used tweezers to remove the coating and were careful not to damage the metal
+substrate. The rust on the metal surface was removed using a descaling solution, and the
+surface morphology of metal substrate was observed using the German Zeiss Axio Imager
+A2m 3D confocal microscope.
+
+3. Results and Discussion
+3.1. Characterization Results of GO, SMWCNTs and SM-GO
+
+The speciﬁc functional groups of the samples were observed from the FT-IR spec-
+trum, reﬂecting the chemical structure characteristics, as shown in Figure 2. Besides
+the absorption peaks caused by the unoxidized domain and aromatic ring structure at
+1627 cm−1 and 611.4 cm−1, the GO samples also have absorption peaks at 1055 cm−1,
+3438 cm−1, 1224 cm−1, and 1728 cm−1, corresponding to the stretching vibrations of the
+C–O–C bond, O–H bond, C–O bond, and C=O bond, respectively. It shows that there are
+oxygen-containing groups of the epoxy group, hydroxyl group, and carboxyl group in the
+sample, which proves that GO is successfully synthesized in this experiment. SMWCNTs
+also have diffraction peaks caused by the unoxidized domain and aromatic ring structure
+at 1633 cm−1 and 611 cm−1. In addition, there are absorption peaks caused by the of the
+C–O bond and O–H bond at 1384 cm−1 and 3435 cm−1, and absorption peaks caused by the
+sulfonic group at 1116 cm−1 and 1168 cm−1, which proves that MWCNTs are successfully
+sulfonated. For the SM-GO samples, the absorption peak positions are roughly the same as
+that of GO. The difference is that the absorption peak at 1114 cm−1 becomes a single peak,
+and the position shifts, which is consistent with that of the sulfonic acid group, proving
+that the SM-GO is successfully prepared.
+
+Figure 2. FT−IR characterization of SM−GO, SMWCNTs, GO.
+
+Polymers 2021, 13, x  5 of 22   2005 standard. The surface of the coating sample was forked, and the cut was as deep as the metal substrate. Then, the sample was exposed to 5 wt.% NaCl salt spray. The temper-ature was kept at 35 °C, and the pH value was 6.5 to 7.2. The micro-surface morphology of the coating after the salt spray test was observed using the FEI quanta FEG 250 field emission scanning electron microscope (FESEM). Be-fore the test, it was necessary to spray gold on the surface of the sample to ensure electrical conductivity. After 70 days of salt spray test, the coating was peeled off, and the metal substrate was exposed. When the coating was heated at 50 °C for 5 min, the coating be-came soft. We used tweezers to remove the coating and were careful not to damage the metal substrate. The rust on the metal surface was removed using a descaling solution, and the surface morphology of metal substrate was observed using the German Zeiss Axio Imager A2m 3D confocal microscope. 3. Results and Discussion 3.1. Characterization Results of GO, SMWCNTs and SM-GO The specific functional groups of the samples were observed from the FT-IR spec-trum, reflecting the chemical structure characteristics, as shown in Figure 2. Besides the absorption peaks caused by the unoxidized domain and aromatic ring structure at 1627 cm−1 and 611.4 cm−1, the GO samples also have absorption peaks at 1055 cm−1, 3438 cm−1, 1224 cm−1, and 1728 cm−1, corresponding to the stretching vibrations of the C–O–C bond, O–H bond, C–O bond, and C=O bond, respectively. It shows that there are oxygen-con-taining groups of the epoxy group, hydroxyl group, and carboxyl group in the sample, which proves that GO is successfully synthesized in this experiment. SMWCNTs also have diffraction peaks caused by the unoxidized domain and aromatic ring structure at 1633 cm−1 and 611 cm−1. In addition, there are absorption peaks caused by the of the C–O bond and O–H bond at 1384 cm−1 and 3435 cm−1, and absorption peaks caused by the sulfonic group at 1116 cm−1 and 1168 cm−1, which proves that MWCNTs are successfully sul-fonated. For the SM-GO samples, the absorption peak positions are roughly the same as that of GO. The difference is that the absorption peak at 1114 cm−1 becomes a single peak, and the position shifts, which is consistent with that of the sulfonic acid group, proving that the SM-GO is successfully prepared. 50010001500200025003000350040001624162911711114116811161384611163334353446172812241055 SM-GO  GO  SMWCNTsTransmitance (%)Wavelenght (cm-1)3438 Figure 2. FT−IR characterization of SM−GO, SMWCNTs, GO. Figure 3 shows the XRD characterization results of GO, SMWCNTs, and SM-GO. Due to the abundant oxygen-containing functional groups, the diffraction peak of GO is lo-cated at 2θ = 10.76°. For the SMWCNTs, there are two diffraction peaks at 2θ = 25.96°and 2θ = 42.14°, which belong to the (002) and (100) faces of the hexagonal structure of graphite Polymers 2021, 13, 1657
+
+6 of 20
+
+Figure 3 shows the XRD characterization results of GO, SMWCNTs, and SM-GO.
+Due to the abundant oxygen-containing functional groups, the diffraction peak of GO is
+located at 2θ = 10.76◦. For the SMWCNTs, there are two diffraction peaks at 2θ = 25.96◦and
+2θ = 42.14◦, which belong to the (002) and (100) faces of the hexagonal structure of graphite
+carbon atom. Compared with the X-ray diffraction card number (JCPDF ICDD5 8-1638) [26],
+both the diffraction peaks move to a lower 2θ position. This indicates that the interlayer
+spacing of SMWCNTs increases, which conﬁrms the formation of the required functional
+groups [27]. Compared with SMWCNTs, the characteristic peak of SM-GO moves to
+2θ = 10.25◦, which shows that after GO is modiﬁed by SMWCNTs, the distribution of
+its linear structure develops from disorder to order. The interlayer spacing of SM-GO
+increases, and its dispersion is also improved.
+
+As shown in Figure 4, two leading bands exist in the Raman spectrum. The D- and
+G-band are related to the breathing mode of A1g symmetry and E2g symmetry of sp2 carbon
+atoms, respectively [3]. After the modiﬁcation of GO by SMWCNTs, the characteristic
+peak of the D- (1351 cm−1) and G-band (1596 cm−1) move to 1341 cm−1 and 1593 cm−1,
+respectively, which show that there is charge transfer between SMWCNTs and GO. The
+strength ratio of the D- to G-band (ID/IG) represents the quality of graphitization or defects
+in the structure of carbon materials. Due to the increase in the number of isolated sp2
+domains, the D-band of SM-GO increases, resulting in an increase in ID/IG from 0.85 to
+0.95 [28], which proves that GO is successfully modiﬁed by SMWCNTs.
+
+Figure 3. XRD characterization of GO, SMWCNTs and SM-GO samples.
+
+3.2. Characterization of Corrosion Resistance of Coatings
+3.2.1. Open Circuit Potential (OCP)
+
+Figure 5 shows the variation of OCP values of different coating samples immersed
+in 3.5 wt.% NaCl solution. The OCP values can reﬂect the protection characteristics of
+different coatings [29,30]. When the OCP is lower than the minimum potential value
+−1.143 V (vs. SCE), the hydrogen evolution occurs. When the OCP is higher than the
+maximum potential value −0.58 V (vs. SCE), the cathodic protection effect of the coating
+is invalid [9,31]. In the initial stage of immersion, the OCP values of all samples are less
+than −0.58 V, indicating that all four coatings have effective cathodic protection. With
+the increase in soaking time, the OCP value of 0-ZRC samples increases rapidly. The
+electrolyte solution permeates into the coating matrix through the micropores on the
+coating surface, which causes the rapid consumption of zinc particles and produces a large
+number of corrosion products such as ZnO and Zn(OH)2. As a result, the electron ﬂow
+channel between zinc particles is cut off, and the cathodic protection ability of the coating
+is reduced. After immersion for 16 days, the OCP value of the 0-ZRC sample is higher
+than that of carbon steel, which indicates that the coating has lost the ability of cathodic
+protection and entered the shielding stage.
+
+Polymers 2021, 13, x  6 of 22   carbon atom. Compared with the X-ray diffraction card number (JCPDF ICDD5 8-1638) [26], both the diffraction peaks move to a lower 2θ position. This indicates that the inter-layer spacing of SMWCNTs increases, which confirms the formation of the required func-tional groups [27]. Compared with SMWCNTs, the characteristic peak of SM-GO moves to 2θ = 10.25°, which shows that after GO is modified by SMWCNTs, the distribution of its linear structure develops from disorder to order. The interlayer spacing of SM-GO in-creases, and its dispersion is also improved. As shown in Figure 4, two leading bands exist in the Raman spectrum. The D- and G-band are related to the breathing mode of A1g symmetry and E2g symmetry of sp2 carbon atoms, respectively [3]. After the modification of GO by SMWCNTs, the characteristic peak of the D- (1351 cm−1) and G-band (1596 cm−1) move to 1341 cm−1 and 1593 cm−1, re-spectively, which show that there is charge transfer between SMWCNTs and GO. The strength ratio of the D- to G-band (ID/IG) represents the quality of graphitization or defects in the structure of carbon materials. Due to the increase in the number of isolated sp2 domains, the D-band of SM-GO increases, resulting in an increase in ID/IG from 0.85 to 0.95 [28], which proves that GO is successfully modified by SMWCNTs. 020406080100 SM-GO   SMWCNTs   GOIntensity (a.u.)2θ (deg) Figure 3. XRD characterization of GO, SMWCNTs and SM-GO samples.   Polymers 2021, 13, 1657
+
+7 of 20
+
+Figure 4. Raman characterization of GO, SMWCNTs and SM−GO samples.
+
+After immersion for 36 days, two coatings containing SMWCNTs (SM-ZRC and SG-
+ZRC) enter the shielding stage. However, the cathodic protection effect of GO-ZRC is
+persisting for approximately 50 days. This indicates that the addition of nanoparticles
+can prolong the cathodic protection time and improve the protective effect of the coat-
+ing. However, due to the different structure and electrochemical activity of different
+nanoparticles, the coatings have different utilizations of zinc particles. First of all, the
+planar structure of GO has a better barrier effect than the tubular structure of SMWCNTs.
+Secondly, conductive nanoparticles are easy to form a galvanic battery with zinc particles,
+which triggers galvanic corrosion and accelerates the consumption of zinc particles. The
+oxygen-containing functional groups on the surface of GO hinder the electron ﬂow. Thus,
+the electrochemical activity is passivated, and the galvanic corrosion is inhibited. However,
+SMWCNTs have strong electrochemical activity [25]. When GO is modiﬁed by SMWCNTs,
+the electrochemical activity is also improved. Therefore, SM-ZRC and SG-ZRC samples
+are prone to severe galvanic corrosion, which decreases the cathodic protection of the
+coating [32,33]. Hence, the cathodic protection effect of the GO-ZRC sample is the best.
+
+3.2.2. Salt Spray Test
+
+Figure 6 shows the macroscopic corrosion morphology of each coating after exposure
+to salt spray for 0 d, 30 d, 30 d, 50 d, and 70 d. In the initial stage of the salt spray test
+(30 d), rust spots appeared on the bare metal areas (marked lines) on all coating surfaces.
+Among them, more than a quarter of the 0-ZRC surface was covered with yellow corrosion
+products, and a small density of blistering phenomenon appeared. The other three sample
+surfaces were covered with fewer corrosion products, verifying that the 0-ZRC samples
+were severely corroded in the early stage of the salt spray test. With the penetration of
+corrosive media and the oxidation of many zinc particles at the metal/coating interface,
+the corrosion products accumulate and expand at the metal/coating interface, which leads
+to a further decrease in the corrosion resistance of the coating. With the continuation of the
+salt spray test, the corrosion degree of 0-ZRC samples is further deepened. After 70 days,
+the surface of the sample was entirely covered by corrosion products.
+
+Polymers 2021, 13, x  7 of 22    100012001400160018002000  （1596cm-1）  （1351cm-1）    G-band（1593cm-1）Intenslty (a.u.)Ramam shift (cm-1) SM-GO SMWCNTs GO    D-band（1341cm-1） Figure 4. Raman characterization of GO, SMWCNTs and SM−GO samples.   Polymers 2021, 13, 1657
+
+8 of 20
+
+Figure 5. OCP for the different coating samples with immersion time.
+
+After 30 days of the salt spray test, a large area of bubbles appeared on the surface
+of the SM-ZRC samples, and the bubble size near the exposed area was larger. With the
+continuation of the salt spray test, the corrosion products accumulated in the bubbles
+cannot penetrate and release into the environment. To maintain the balance of the internal
+and external osmotic pressure of the coating bubbles, a large amount of salt spray is
+absorbed from the outside. The corrosion degree of the coating/metal interface is further
+aggravated. After 70 days of the salt spray test, the surface corrosion of the SM-ZRC sample
+was very severe.
+
+GO-ZRC and SG-ZRC samples still had excellent corrosion resistance after 50 days of
+the salt spray test. This is because the utilization of zinc powder is improved by adding
+conductive nanoparticles such as GO and SM-GO, and the cathodic protection effect on
+the exposed metal area is enhanced. In addition, corrosion products and nanoparticles
+provide proper shielding for the metal matrix and inhibit the expansion and accumulation
+of corrosive substances at the metal/coating interface. After 70 days, a large number of
+corrosion products appear on the surface of SG-ZRC, which indicates that the corrosion
+resistance is greatly inhibited. This is related to the galvanic corrosion caused by SM-GO.
+However, the surface of GO-ZRC is still covered with fewer corrosion products, and the
+coating still has an excellent cathodic protection and shielding effect.
+
+Polymers 2021, 13, x  8 of 22   3.2. Characterization of Corrosion Resistance of Coatings 3.2.1. Open Circuit Potential (OCP) Figure 5 shows the variation of OCP values of different coating samples immersed in 3.5 wt.% NaCl solution. The OCP values can reflect the protection characteristics of differ-ent coatings [29,30]. When the OCP is lower than the minimum potential value −1.143 V (vs. SCE), the hydrogen evolution occurs. When the OCP is higher than the maximum potential value −0.58 V (vs. SCE), the cathodic protection effect of the coating is invalid [9,31]. In the initial stage of immersion, the OCP values of all samples are less than −0.58 V, indicating that all four coatings have effective cathodic protection. With the increase in soaking time, the OCP value of 0-ZRC samples increases rapidly. The electrolyte solution permeates into the coating matrix through the micropores on the coating surface, which causes the rapid consumption of zinc particles and produces a large number of corrosion products such as ZnO and Zn(OH)2. As a result, the electron flow channel between zinc particles is cut off, and the cathodic protection ability of the coating is reduced. After im-mersion for 16 days, the OCP value of the 0-ZRC sample is higher than that of carbon steel, which indicates that the coating has lost the ability of cathodic protection and en-tered the shielding stage. After immersion for 36 days, two coatings containing SMWCNTs (SM-ZRC and SG-ZRC) enter the shielding stage. However, the cathodic protection effect of GO-ZRC is per-sisting for approximately 50 days. This indicates that the addition of nanoparticles can prolong the cathodic protection time and improve the protective effect of the coating. However, due to the different structure and electrochemical activity of different nanopar-ticles, the coatings have different utilizations of zinc particles. First of all, the planar struc-ture of GO has a better barrier effect than the tubular structure of SMWCNTs. Secondly, conductive nanoparticles are easy to form a galvanic battery with zinc particles, which triggers galvanic corrosion and accelerates the consumption of zinc particles. The oxygen-containing functional groups on the surface of GO hinder the electron flow. Thus, the electrochemical activity is passivated, and the galvanic corrosion is inhibited. However, SMWCNTs have strong electrochemical activity [25]. When GO is modified by SMWCNTs, the electrochemical activity is also improved. Therefore, SM-ZRC and SG-ZRC samples are prone to severe galvanic corrosion, which decreases the cathodic protec-tion of the coating [32,33]. Hence, the cathodic protection effect of the GO-ZRC sample is the best. 081624324048566472-1.0-0.9-0.8-0.7-0.6-0.5-0.4-0.3Potential（V)Time（days） GO-ZRC   0-ZRC SG-ZRC   SM-ZRC Figure 5. OCP for the different coating samples with immersion time. Polymers 2021, 13, 1657
+
+9 of 20
+
+Figure 6. Visual observations of the different coating samples after 0, 15, 30, 50 and 70 d exposure to
+salt spray; results after peeling of coating after 70 d salt spray.
+
+After a salt spray test of 70 days, the coating of the sample was peeled and de-rusted
+to obtain a bare metal substrate. Dense and irregular corrosion pits on the metal substrate
+surface were observed with the macroscopic morphology, as shown in Figure 7a. In the
+microscopic 3D topography of the metal substrate, different colors represent different
+heights of the metal surface. Red represents the highest position of the metal surface,
+and blue represents the lowest position of the metal surface. Through the microscopic
+3D topography, the rugged surface of the metal substrate of the 0-ZRC sample can be
+observed. The shape of the corrosion pit was irregular, and the depth was considerable.
+The maximum height difference was 42.31 µm, which indicates severe corrosion during
+the salt spray test.
+
+The surface of the metal substrate of the GO-ZRC sample was smooth, and no cor-
+rosion pits were observed, as shown in Figure 7b. It is conﬁrmed that GO-ZRC provides
+sufﬁcient protection for metal substrates. Regular circular etching pits could be observed on
+the metal substrate surface of SM-ZRC samples, which is related to the galvanic corrosion,
+as shown in Figure 7c. An evident ladder-like 3D morphology could be observed at the
+connection of two adjacent corrosion pits. Additionally, the maximum height difference of
+the metal surface was 54.43 µm. It indicates that SM-ZRC cannot provide enough protection
+for the metal substrate. Tiny etching pits (square marked) were observed on the metal
+
+Polymers 2021, 13, x  10 of 22    Figure 6. Visual observations of the different coating samples after 0, 15, 30, 50 and 70 d exposure to salt spray; results after peeling of coating after 70 d salt spray. After a salt spray test of 70 days, the coating of the sample was peeled and de-rusted to obtain a bare metal substrate. Dense and irregular corrosion pits on the metal substrate surface were observed with the macroscopic morphology, as shown in Figure 7a. In the microscopic 3D topography of the metal substrate, different colors represent different heights of the metal surface. Red represents the highest position of the metal surface, and blue represents the lowest position of the metal surface. Through the microscopic 3D to-pography, the rugged surface of the metal substrate of the 0-ZRC sample can be observed. The shape of the corrosion pit was irregular, and the depth was considerable. The maxi-mum height difference was 42.31 μm, which indicates severe corrosion during the salt spray test. The surface of the metal substrate of the GO-ZRC sample was smooth, and no corro-sion pits were observed, as shown in Figure 7b. It is confirmed that GO-ZRC provides sufficient protection for metal substrates. Regular circular etching pits could be observed on the metal substrate surface of SM-ZRC samples, which is related to the galvanic corro-sion, as shown in Figure 7c. An evident ladder-like 3D morphology could be observed at the connection of two adjacent corrosion pits. Additionally, the maximum height differ-ence of the metal surface was 54.43 μm. It indicates that SM-ZRC cannot provide enough protection for the metal substrate. Tiny etching pits (square marked) were observed on Polymers 2021, 13, 1657
+
+10 of 20
+
+substrate surface of the SG-ZRC sample, as shown in Figure 7d. The maximum height
+difference was 16.09 µm, which proves that the metal substrate of the SG-ZRC sample was
+partially corroded.
+
+Figure 7. Macroscopic morphology (left) and microscopic 3D morphology (right) of the metal
+substrate of (a) 0-ZRC, (b) GO-ZRC, (c) SM-ZRC, (d) SG-ZRC.
+
+Polymers 2021, 13, x  11 of 22   the metal substrate surface of the SG-ZRC sample, as shown in Figure 7d. The maximum height difference was 16.09 μm, which proves that the metal substrate of the SG-ZRC sam-ple was partially corroded.   .   100 μm 100 μm 100 μm 100 μm Polymers 2021, 13, 1657
+
+11 of 20
+
+3.2.3. SEM Analysis
+
+As shown in Figure 8a, there were micropores on the surface of 0-ZRC samples. When
+nanoparticles are added to the coating, the porosity of GO-ZRC, SM-ZRC, and SG-ZRC
+samples decreases, as shown in Figure 8b–d. Simultaneously, the uniform distribution of
+GO, SMWCNTs, and SM-GO on the surface of the coating can be observed. The dispersion
+stability of the coating is proved.
+
+Figure 8. SEM of the 0-ZRC (a), GO-ZRC(b), SM-ZRC(c) and SG-ZRC(d) samples.
+
+The surface morphology of different coatings after 0, 15, 30, 50, and 70 d exposure to
+salt spray are shown in Figure 9. After the salt spray test, the surface morphology of the
+four coatings changes signiﬁcantly. After 30 days, a large number of corrosion products
+accumulated on the surface of 0-ZRC. However, only a small amount of corrosion products
+formed on the surface of GO-ZRC, SM-ZRC, and SG-ZRC samples. This is because the
+conductive nanoparticles connect a large number of zinc particles into a huge conductive
+network, and the zinc particles in the entire conductive network are uniformly corroded.
+After 30 d of salt spray test, the corrosion degree of the 0-ZRC sample further increased.
+This is due to the high galvanic corrosion between SMWCNTs and zinc particles. However,
+the oxidation degree of zinc particles on the surface of GO-ZRC and SG-ZRC samples is
+still low. After 50 days of salt spray test, loose corrosion products are accumulated on
+the surface of 0-ZRC and SM-ZRC samples, which increases the corrosion of the metal.
+However, dense corrosion products are deposited on the surface of SM-ZRC and SG-ZRC
+samples, which enhance the shielding effect of the coating.
+
+After 70 days of the salt spray test, the corrosion degree of 0-ZRC and SM-ZRC samples
+further increased. Due to the further accumulation of corrosion products, the original dense
+structure on the surface of SG-ZRC samples became loose, which caused corrosion of the
+metal substrate. However, the corrosion products on the surface of GO-ZRC samples still
+maintained a dense structure, and thus, the coating has a good shielding effect. The SEM
+results are consistent with the results in Figures 6 and 7.
+
+Polymers 2021, 13, x  12 of 22   Figure 7. Macroscopic morphology (left) and microscopic 3D morphology (right) of the metal sub-strate of (a) 0-ZRC, (b) GO-ZRC, (c) SM-ZRC, (d) SG-ZRC.  3.2.3. SEM Analysis As shown in Figure 8a, there were micropores on the surface of 0-ZRC samples. When nanoparticles are added to the coating, the porosity of GO-ZRC, SM-ZRC, and SG-ZRC samples decreases, as shown in Figure 8b–d. Simultaneously, the uniform distribu-tion of GO, SMWCNTs, and SM-GO on the surface of the coating can be observed. The dispersion stability of the coating is proved.  Figure 8. SEM of the 0-ZRC(a), GO-ZRC(b), SM-ZRC(c) and SG-ZRC(d) samples. The surface morphology of different coatings after 0, 15, 30, 50, and 70 d exposure to salt spray are shown in Figure 9. After the salt spray test, the surface morphology of the four coatings changes significantly. After 30 days, a large number of corrosion products accumulated on the surface of 0-ZRC. However, only a small amount of corrosion prod-ucts formed on the surface of GO-ZRC, SM-ZRC, and SG-ZRC samples. This is because the conductive nanoparticles connect a large number of zinc particles into a huge conduc-tive network, and the zinc particles in the entire conductive network are uniformly cor-roded. After 30 d of salt spray test, the corrosion degree of the 0-ZRC sample further in-creased. This is due to the high galvanic corrosion between SMWCNTs and zinc particles. However, the oxidation degree of zinc particles on the surface of GO-ZRC and SG-ZRC samples is still low. After 50 days of salt spray test, loose corrosion products are accumu-lated on the surface of 0-ZRC and SM-ZRC samples, which increases the corrosion of the metal. However, dense corrosion products are deposited on the surface of SM-ZRC and SG-ZRC samples, which enhance the shielding effect of the coating. After 70 days of the salt spray test, the corrosion degree of 0-ZRC and SM-ZRC sam-ples further increased. Due to the further accumulation of corrosion products, the original dense structure on the surface of SG-ZRC samples became loose, which caused corrosion of the metal substrate. However, the corrosion products on the surface of GO-ZRC sam-ples still maintained a dense structure, and thus, the coating has a good shielding effect. The SEM results are consistent with the results in Figures 6 and 7. Polymers 2021, 13, 1657
+
+12 of 20
+
+Figure 9. SEM of the 0-ZRC, GO-ZRC, SM-ZRC and SG-ZRC samples after 0, 15, 30, 50 and 70 days exposure to salt spray.
+
+3.2.4. EIS Analysis
+
+Figure 10 summarizes the electrochemical evolution behavior of different samples
+with immersion time in 3.5 wt.% NaCl solution. In general, the capacitive arc radius in the
+Nyquist diagram can directly reﬂect the corrosion resistance of the reaction system. It can
+be concluded that the capacitive arc radius of all coatings decreases in different degrees
+with the increase of immersion time, which indicates that the corrosion resistance of the
+coating becomes worse. The capacitive arc radius of GO-ZRC, SM-ZRC, and SG-ZRC is
+larger than that of 0-ZRC, owing to the addition of conductive nanoparticles to the zinc-rich
+coating. Furthermore, for different coatings, the shape of the impedance spectrum changes
+differently with immersion time.
+
+The EIS diagram of the 0-ZRC sample shows two capacitive reactance arcs, which
+means there are two time constants, as shown in Figure 10a1. One of the conductive
+paths contains the coated capacitor CC. Due to the dispersion effect, the constant phase
+angle element QC is used instead. The same is true in the equivalent circuit below. The
+other channel includes the ion conduction channel Rpo in the permeating solution and the
+electrochemical corrosion process of Zn. The latter includes the electron transfer resistance
+Rt during the corrosion reaction of Zn and the double layer capacitor Cdl. The equivalent
+circuit diagram is shown in Figure 11a [2,34,35]. The EIS of the SG-ZRC sample is similar
+to that of the ZRC sample, and there are two capacitive arcs and two time constants. The
+Nyquist diagram shows that the impedance arc radius of the SG-ZRC sample becomes
+smaller in the low frequency band, as shown in Figure 10d1. The equivalent circuits of
+the two are similar, but their meanings are different. At the same time of the sacrificial
+reaction of Zn in the sample, serious galvanic corrosion occurred between SM-GO and the
+metal substrate. Therefore, the equivalent circuit includes an iron-corroded electron transfer
+resistance Rt,Fe and an electric double-layer capacitor Qdl,Fe, as shown in Figure 11d. The
+ﬁtting component parameters for the EIS of 0-ZRC and SG-ZRC in Figure 10 are shown in
+Table 2.
+
+Polymers 2021, 13, x  13 of 22    Figure 9. SEM of the 0-ZRC, GO-ZRC, SM-ZRC and SG-ZRC samples after 0, 15, 30, 50 and 70 days exposure to salt spray. 3.2.4. EIS Analysis Figure 10 summarizes the electrochemical evolution behavior of different samples with immersion time in 3.5 wt.% NaCl solution. In general, the capacitive arc radius in the Nyquist diagram can directly reflect the corrosion resistance of the reaction system. It can be concluded that the capacitive arc radius of all coatings decreases in different degrees with the increase of immersion time, which indicates that the corrosion resistance of the coating becomes worse. The capacitive arc radius of GO-ZRC, SM-ZRC, and SG-ZRC is larger than that of 0-ZRC, owing to the addition of conductive nanoparticles to the zinc-rich coating. Furthermore, for different coatings, the shape of the impedance spectrum changes differently with immersion time. The EIS diagram of the 0-ZRC sample shows two capacitive reactance arcs, which means there are two time constants, as shown in Figure 10(a1). One of the conductive paths contains the coated capacitor CC. Due to the dispersion effect, the constant phase angle element QC is used instead. The same is true in the equivalent circuit below. The other channel includes the ion conduction channel Rpo in the permeating solution and the electrochemical corrosion process of Zn. The latter includes the electron transfer resistance Rt during the corrosion reaction of Zn and the double layer capacitor Cdl. The equivalent circuit diagram is shown in Figure 11a [2,34,35]. The EIS of the SG-ZRC sample is similar to that of the ZRC sample, and there are two capacitive arcs and two time constants. The Nyquist diagram shows that the impedance arc radius of the SG-ZRC sample becomes smaller in the low frequency band, as shown in Figure 10(d1). The equivalent circuits of the two are similar, but their meanings are different. At the same time of the sacrificial reaction of Zn in the sample, serious galvanic corrosion occurred between SM-GO and the metal substrate. Therefore, the equivalent circuit includes an iron-corroded electron trans-fer resistance Rt,Fe and an electric double-layer capacitor Qdl,Fe, as shown in Figure 11d. The fitting component parameters for the EIS of 0-ZRC and SG-ZRC in Figure 10 are shown in Table 2. There is a diffusion characteristic with a slope of 45° in the Nyquist diagram of GO-ZRC samples. The phase angle at the front of the low frequency peak shows an upward trend, as shown in Figure 10(c1). Warburg impedance is used in the equivalent circuit to Polymers 2021, 13, 1657
+
+13 of 20
+
+Figure 10. Nyquist and Bode diagrams of the (a1,a2) 0−ZRC, (b1,b2) SM− ZRC, (c1,c2) GO−ZRC
+and (d1,d2) SG−ZRC samples after 15, 30,50 and 70 days immersion in 3.5 wt.% NaCl solution.
+
+There is a diffusion characteristic with a slope of 45◦ in the Nyquist diagram of GO-
+ZRC samples. The phase angle at the front of the low frequency peak shows an upward
+trend, as shown in Figure 10c1. Warburg impedance is used in the equivalent circuit to
+describe the corrosion products of Zn and the diffusion process caused by GO, as shown in
+Figure 11c. Similar features also exist in the EIS diagram of SM-ZRC samples, as shown
+in Figure 10b1. On the other hand, there is a process of galvanic corrosion between the
+SMWCNTs and metal substrate. Therefore, the equivalent circuit of the SM-ZRC sample
+includes the electron transfer resistance Rt,Fe in the iron corrosion reaction, and the diffusion
+resistance Zw,Fe of the iron corrosion product, as shown in Figure 11b [4,35,36]. The ﬁtting
+component parameters for the EIS of GO-ZRC and SM-ZRC in Figure 10 are shown in
+Table 3. There is a positive correlation between the Rpo value and the physical barrier
+properties of the coating. The Rt value is inversely proportional to the corrosion rate of
+the metal/coating interface. They are the two basic parameters for evaluating the anti-
+corrosion performance of the coating. Compared with the parameters in the table, it is
+found that the Rpo value of the zinc-rich coating increases signiﬁcantly after the addition of
+nanoparticles. This is due to the fact that the nanoparticles ﬁll the micropores of the coating,
+
+Polymers 2021, 13, x  14 of 22   describe the corrosion products of Zn and the diffusion process caused by GO, as shown in Figure 11c. Similar features also exist in the EIS diagram of SM-ZRC samples, as shown in Figure 10(b1). On the other hand, there is a process of galvanic corrosion between the SMWCNTs and metal substrate. Therefore, the equivalent circuit of the SM-ZRC sample includes the electron transfer resistance Rt,Fe in the iron corrosion reaction, and the diffu-sion resistance Zw,Fe of the iron corrosion product, as shown in Figure 11b [4,35,36]. The fitting component parameters for the EIS of GO-ZRC and SM-ZRC in Figure 10 are shown in Table 3. There is a positive correlation between the Rpo value and the physical barrier properties of the coating. The Rt value is inversely proportional to the corrosion rate of the metal/coating interface. They are the two basic parameters for evaluating the anti-corro-sion performance of the coating. Compared with the parameters in the table, it is found that the Rpo value of the zinc-rich coating increases significantly after the addition of na-noparticles. This is due to the fact that the nanoparticles fill the micropores of the coating, hindering the penetration of the solution. The barrier property of the coating is related to the dispersion of nanoparticles in the coating. After GO was modified by SMWCNTs, its dispersibility was improved. Therefore, at the initial stage of immersion, the Rpo value of SG-ZRC samples was as high as 1.93 × 105 Ω·cm2. Among all the samples, the barrier per-formance of SG-ZRC sample was the best. In addition, with the extension of immersion time, it was found that the charge transfer resistance Rt of all samples decreased in varying degrees. It means that the corrosion resistance of the coating decreases gradually [37–39].  Figure 10. Nyquist and Bode diagrams of the (a1,a2) 0−ZRC, (b1,b2) SM− ZRC, (c1,c2) GO−ZRC and (d1,d2) SG−ZRC samples after 15, 30,50 and 70 days immersion in 3.5 wt.% NaCl solution. Polymers 2021, 13, 1657
+
+14 of 20
+
+hindering the penetration of the solution. The barrier property of the coating is related to
+the dispersion of nanoparticles in the coating. After GO was modiﬁed by SMWCNTs, its
+dispersibility was improved. Therefore, at the initial stage of immersion, the Rpo value
+of SG-ZRC samples was as high as 1.93 × 105 Ω·cm2. Among all the samples, the barrier
+performance of SG-ZRC sample was the best. In addition, with the extension of immersion
+time, it was found that the charge transfer resistance Rt of all samples decreased in varying
+degrees. It means that the corrosion resistance of the coating decreases gradually [37–39].
+
+Figure 11. Coating structures and equivalent circuits of (a) 0-ZRC; (b) SM-ZRC; (c) GO-ZRC;
+(d) SG-ZRC.
+
+Polymers 2021, 13, x  15 of 22    Figure 11. Coating structures and equivalent circuits of (a) 0-ZRC; (b) SM-ZRC; (c) GO-ZRC; (d) SG-ZRC. Table 2. The impedance parameters of 0-ZRC and SG-ZRC. CoatingParameter 0-ZRC-15d 0-ZRC-30 d 0-ZRC-50 d 0-ZRC-70 d SG-ZRC-15 d SG-ZRC-30 d SG-ZRC-50 d SG-ZRC-70 d Rs (Ω·cm2) 5.58 × 103 5.37 × 103 3.75 × 103 1.53 × 103 1.63 × 103 1.13 × 103 0.97 × 103 1.36 × 103 YQC (Ω−1·cm−2·sn) 2.51 × 10−4 6.95 × 10−5 8.07 × 10−5 8.09 × 10−4 5.98 × 10−7 6.39 × 10−7 5.53 × 10−7 2.19 × 10−6 nQC 0.716 0.812 0.961 0.387 0.573 0.661 0.753 0.679 Rpo (Ω·cm2) 1.18 × 104 4.55 × 103 2.41 × 102 4.45 × 102 1.93 × 105 6.47 × 104 2.48 × 104 8.80 × 103 Rt,Zn (Ω·cm2) 1.29 × 104 1.91 × 104 8.22 × 103 4.45 × 103 - - - - Ydl,Zn (Ω−1·cm−2·sn) 2.78 × 10−4 3.37 × 10−4 6.52 × 10−4 8.09 × 10−4 - - - - ndl,Zn 0.747 0.644 0.543 0.397 - - - - Rt,Fe (Ω·cm2) - - - - 1.30 × 105 8.18 × 104 6.70 × 104 5.40 × 103 Ydl,Fe (Ω−1·cm−2·sn) - - - - 3.53 × 10−6 4.04 × 10−6 7.62 × 10−6 4.80 × 10−6 ndl,Fe - - - - 0.535 0.513 0.459 0.789 Chi-Square 1.3 × 10−4 3.1 × 10−4 2.0 × 10−4 2.3 × 10−4 1.4 × 10−4 5.7 × 10−4 2.8 × 10−4 3.0 × 10−4   Polymers 2021, 13, 1657
+
+Coating
+
+Parameter
+
+Rs (Ω·cm2)
+
+YQC (Ω−1·cm−2·sn)
+
+nQC
+
+Rpo (Ω·cm2)
+Rt,Zn (Ω·cm2)
+
+Ydl,Zn (Ω−1·cm−2·sn)
+
+ndl,Zn
+
+Rt,Fe (Ω·cm2)
+
+Ydl,Fe (Ω−1·cm−2·sn)
+
+ndl,Fe
+
+Chi-Square
+
+Coating
+
+Parameter
+
+Rs (Ω·cm2)
+
+YQC (Ω−1·cm−2·sn)
+
+nQC
+
+Rpo (Ω·cm2)
+Rt,Zn (Ω·cm2)
+
+Ydl,Zn (Ω−1·cm−2·sn)
+
+ndl,Zn
+ZW,Zn
+
+Rt,Fe (Ω·cm2)
+
+Ydl,Fe (Ω−1·cm−2·sn)
+ZW,Fe(Ω−1·s−0.5)
+
+ndl,Fe
+
+Chi-Square
+
+Table 2. The impedance parameters of 0-ZRC and SG-ZRC.
+
+15 of 20
+
+0-ZRC-15d
+5.58 × 103
+2.51 × 10−4
+1.18 × 104
+1.29 × 104
+2.78 × 10−4
+
+0.716
+
+0.747
+
+0-ZRC-30 d
+5.37 × 103
+6.95 × 10−5
+4.55 × 103
+1.91 × 104
+3.37 × 10−4
+
+0.812
+
+0.644
+
+0-ZRC-50 d
+3.75 × 103
+8.07 × 10−5
+2.41 × 102
+8.22 × 103
+6.52 × 10−4
+
+0.961
+
+0.543
+
+0-ZRC-70 d
+1.53 × 103
+8.09 × 10−4
+4.45 × 102
+4.45 × 103
+8.09 × 10−4
+
+0.387
+
+0.397
+
+-
+-
+-
+
+1.3 × 10−4
+
+-
+-
+-
+
+3.1 × 10−4
+
+-
+-
+-
+
+2.0 × 10−4
+
+-
+-
+-
+
+2.3 × 10−4
+
+SG-ZRC-15 d
+1.63 × 103
+5.98 × 10−7
+1.93 × 105
+
+0.573
+
+SG-ZRC-30 d
+1.13 × 103
+6.39 × 10−7
+6.47 × 104
+
+0.661
+
+SG-ZRC-50 d
+0.97 × 103
+5.53 × 10−7
+2.48 × 104
+
+0.753
+
+SG-ZRC-70 d
+1.36 × 103
+2.19 × 10−6
+8.80 × 103
+
+0.679
+
+-
+-
+-
+
+1.30 × 105
+3.53 × 10−6
+1.4 × 10−4
+
+0.535
+
+-
+-
+-
+
+8.18 × 104
+4.04 × 10−6
+5.7 × 10−4
+
+0.513
+
+-
+-
+-
+
+6.70 × 104
+7.62 × 10−6
+2.8 × 10−4
+
+0.459
+
+-
+-
+-
+
+5.40 × 103
+4.80 × 10−6
+3.0 × 10−4
+
+0.789
+
+Table 3. The impedance parameters of GO-ZRC and SM-ZRC.
+
+0.072
+
+GO-ZRC-15 d
+1.00 × 10−7
+2.19 × 10−6
+1.00 × 105
+5.53 × 105
+3.83 × 10−10
+7.17 × 10−8
+
+1.000
+
+0.721
+
+GO-ZRC-30 d
+6.63 × 10−7
+1.88 × 10−8
+9.60 × 104
+1.29 × 104
+1.79 × 10−6
+4.91 × 10−5
+
+0.401
+
+1.000
+
+GO-ZRC-50 d
+1.20 × 10−4
+2.76 × 10−8
+5.04 × 104
+3.35 × 104
+1.25 × 10−6
+5.34 × 10−5
+
+0.586
+
+0.062
+
+GO-ZRC-70 d
+7.50 × 10−3
+4.32 × 10−6
+6.19 × 104
+9.34 × 103
+2.30 × 10−9
+8.67 × 10−8
+
+0.843
+
+-
+-
+-
+-
+
+7.0 × 10−4
+
+-
+-
+-
+-
+
+2.1 × 10−4
+
+-
+-
+-
+-
+
+3.5 × 10−4
+
+-
+-
+-
+-
+
+6.4 × 10−4
+
+SM-ZRC-15 d
+1.24 × 10−5
+9.82 × 10−7
+1.39 × 104
+
+0.477
+
+SM-ZRC-30 d
+6.52 × 10−3
+3.30 × 10−22
+2.41 × 103
+
+0.038
+
+SM-ZRC-50 d
+1.00 × 10−7
+5.05 × 10−5
+4.35 × 103
+
+0.226
+
+SM-ZRC-70 d
+1.00 × 10−3
+5.96 × 10−6
+
+0.403
+1 × 102
+
+-
+-
+-
+-
+
+9.95 × 104
+1.23 × 10−4
+1.79 × 10−10
+3.2 × 10−4
+
+0.635
+
+-
+-
+-
+-
+
+4.97 × 103
+1.58 × 10−6
+1.12 × 10−4
+3.7 × 10−4
+
+0.515
+
+-
+-
+-
+-
+
+1.10 × 103
+9.74 × 10−5
+2.30 × 10−4
+5.4 × 10−4
+
+0.638
+
+-
+-
+-
+-
+
+5.30 × 103
+5.87 × 10−10
+1.03 × 10−4
+4.4 × 10−4
+
+1.000
+
+Polymers 2021, 13, 1657
+
+16 of 20
+
+The impedance modulus |Z| of the lowest frequency (0.01 HZ) in the Bode diagram
+can be used as an indicator of the impermeability of the coating. The impedance modulus
+of all samples decreases with the immersion time, which is due to the gradual inﬁltration
+of the electrolyte solution into the coating, as shown in Figure 12. After being immersed
+in the electrolyte solution for 15 days, the impedance modulus of the 0-ZRC sample
+was 3.0 × 104 Ω·cm2, while it is decreased to 1.1 × 104 Ω·cm2 and 4.2 × 103 Ω·cm2
+after soaking for 30 days and 70 days, respectively. The impedance modulus of the
+samples with nanoparticles is higher than that of 0-ZRC samples, which is due to the
+barrier properties of the nanoparticles. The impedance modulus of the GO-ZRC sample
+was 5.5 × 105 Ω·cm2, after soaking for 15 days. With the permeation of the electrolyte
+solution, the impedance modulus decreased to 1.8 × 105 Ω·cm2 (soaking for 50 days).
+Subsequently, the corrosion products form dense protection ﬁlm on the surface of the
+metal substrate. The barrier property of the coating is enhanced, and the impedance
+modulus increased to 2.7 × 105 Ω·cm2. After being immersed in the electrolyte solution
+for 15 days, the impedance modulus of the SM-ZRC sample was 5.5 × 104 Ω·cm2, while
+it is decreased to 2.5 × 104 Ω·cm2 after soaking for 50 days. Similar to the case of the
+GO-ZRC, the impedance modulus of the SM-ZRC increased to 4.1 × 104 Ω·cm2 (soaking
+for 70 days). After soaking for 15 days, the impedance modulus of the SG-ZRC sample
+was 3.2 × 105 Ω·cm2. With the permeation of the electrolyte solution, the impedance
+modulus decreased to 1.3 × 105 Ω·cm2 after soaking for 30 days. After soaking for 70 days,
+the impedance modulus of the sample decreased to 9.9 × 104 Ω·cm2. During the whole
+immersion process, the impedance modulus of SM-ZRC and SG-ZRC was lower than that
+of GO-ZRC. This is due to the galvanic corrosion of SM-ZRC and SG-ZRC. The corrosion
+products destroy the adhesion of the coating to the metal substrate and accelerate the
+penetration of corrosive substances. Although galvanic corrosion also exists in the SM-
+GO coating, the barrier performance of SM-GO in the coating is better than that of the
+SMWCNTs. Therefore, the corrosion resistance of the SG-ZRC sample is greater than
+that of SM-ZRC. In addition, none of the four coatings swelled or peeled off during the
+immersion test for 70 days, and the impedance spectrum test results also show that the
+coating did not enter the failure period, indicating that the coating still protects the substrate
+metal [6,40–42].
+
+Figure 12. The values of impedance at 10 mHz obtained from Bode diagrams after 15, 30 50, and
+70 days immersion in 3.5 wt.% NaCl solution.
+
+4. Anti-Corrosion Mechanism
+
+The whole service life of pure epoxy zinc-rich coating can be divided into three stages:
+cathodic protection stage, shielding stage, and failure stage, as shown in Figure 13a–c,
+respectively. During the cathodic protection stage, the pores and cracks in the coating
+matrix provide the penetration path for the corrosive electrolyte solution. Zinc particles are
+
+Polymers 2021, 13, x  17 of 22   0-ZRCGO-ZRCSM-ZRCSG-ZRC01234567log|Z|/ohm cm2 15 days 30 days 50 days 70 days Figure 12. The values of impedance at 10 mHz obtained from Bode diagrams after 15, 30 50, and 70 days immersion in 3.5 wt.% NaCl solution. 4. Anti-Corrosion Mechanism The whole service life of pure epoxy zinc-rich coating can be divided into three stages: cathodic protection stage, shielding stage, and failure stage, as shown in Figure 13a–c, respectively. During the cathodic protection stage, the pores and cracks in the coat-ing matrix provide the penetration path for the corrosive electrolyte solution. Zinc parti-cles are infiltrated by corrosive electrolyte solution and undergo electrochemical corrosion reaction. Some zinc particles (activated zinc) in the coating are electrically connected with the metal substrate and provide cathodic protection for the metal substrate. The remaining zinc particles (isolated zinc) cannot provide cathodic protection for the metal substrate because of the lack of electron flow between the zinc particles and the metal substrate. During the shielding stage, the zinc corrosion products are filled in the penetration path of the corrosive electrolyte solution. It hinders the diffusion of the corrosive electrolyte solution in the coating matrix and protects the metal substrate. In the failure stage, the shielding effect of the coating is lost. A large amount of corrosive media enters the coating, causing serious corrosion of the metal substrate. Due to the presence of nanoparticles in the three samples (GO-ZRC, SM-ZRC, SG-ZRC), the whole service life can be divided into four stages: initial shielding stage, ca-thodic protection stage, shielding stage and failure stage, as shown in Figure 13d–g, re-spectively. In the initial shielding stage, the nanoparticles form many isolation layers in the coating, which prevents the diffusion of corrosive particles such as water and oxygen. In the cathodic protection stage, the conductive nanoparticles become the conductive bridge between the zinc particles to form a conductive network. The proportion of acti-vated zinc is increased, and the utilization rate of zinc particles is improved. Therefore, the cathodic protection time of the coating is prolonged. In the shielding stage, both na-noparticles and corrosion products provide shielding for the metal substrate. During the failure stage, the coating loses protection for the metal substrate. Due to the lack of con-ductive nanoparticles in the 0-ZRC samples, the cathodic protection and shielding ability are lower than those of the other three samples. Therefore, the corrosion resistance of 0-ZRC is the worst. Polymers 2021, 13, 1657
+
+17 of 20
+
+inﬁltrated by corrosive electrolyte solution and undergo electrochemical corrosion reaction.
+Some zinc particles (activated zinc) in the coating are electrically connected with the metal
+substrate and provide cathodic protection for the metal substrate. The remaining zinc
+particles (isolated zinc) cannot provide cathodic protection for the metal substrate because
+of the lack of electron ﬂow between the zinc particles and the metal substrate. During
+the shielding stage, the zinc corrosion products are ﬁlled in the penetration path of the
+corrosive electrolyte solution. It hinders the diffusion of the corrosive electrolyte solution
+in the coating matrix and protects the metal substrate. In the failure stage, the shielding
+effect of the coating is lost. A large amount of corrosive media enters the coating, causing
+serious corrosion of the metal substrate.
+
+Due to the presence of nanoparticles in the three samples (GO-ZRC, SM-ZRC, SG-
+ZRC), the whole service life can be divided into four stages: initial shielding stage, cathodic
+protection stage, shielding stage and failure stage, as shown in Figure 13d–g, respectively.
+In the initial shielding stage, the nanoparticles form many isolation layers in the coating,
+which prevents the diffusion of corrosive particles such as water and oxygen. In the
+cathodic protection stage, the conductive nanoparticles become the conductive bridge
+between the zinc particles to form a conductive network. The proportion of activated zinc
+is increased, and the utilization rate of zinc particles is improved. Therefore, the cathodic
+protection time of the coating is prolonged. In the shielding stage, both nanoparticles and
+corrosion products provide shielding for the metal substrate. During the failure stage, the
+coating loses protection for the metal substrate. Due to the lack of conductive nanoparticles
+in the 0-ZRC samples, the cathodic protection and shielding ability are lower than those of
+the other three samples. Therefore, the corrosion resistance of 0-ZRC is the worst.
+
+Figure 13. Pure zinc-rich coating (a) cathodic protection stage; (b) shielding stage; (c) failure stage; zinc-rich coating
+containing nanoparticles (d) initial shielding stage; (e) cathodic protection stage; (f) shielding stage; (g) failure stage.
+
+The high conductivity of carbon materials such as GO, SMWCNTs, and SM-GO can
+promote the corrosion of steel and the consumption of zinc particles. However, a large
+number of oxygen-containing groups on the surface of GO can tremendously reduce the
+electrical conductivity and electrochemical activity. If the oxygen-containing groups are
+removed, the reduced GO has a higher positive potential (+0.15 V vs. SCE) than carbon
+steel (−0.44 V vs. SCE), which will accelerate galvanic corrosion of steel and Zn [43,44].
+Therefore, GO can inhibit galvanic corrosion to a certain extent and ensure the corrosion
+resistance of the coating.
+
+SMWCNTs have strong electrochemical activity and are easy to activate the reaction
+between cathode and anode. Additionally, SMWCNTs are prone to corrode with zinc
+particles and metal substrate, as shown in Figure 14. During the longitudinal conduction
+of the current between the zinc particles and the metal substrate along the SMWCNTs axis,
+current leakage in the lateral direction (vertical to the SMWCNTs axis) is prone to occur,
+
+Polymers 2021, 13, x  18 of 22    Figure 13. Pure zinc-rich coating (a) cathodic protection stage; (b) shielding stage; (c) failure stage; zinc-rich coating con-taining nanoparticles (d) initial shielding stage; (e) cathodic protection stage; (f) shielding stage; (g) failure stage. The high conductivity of carbon materials such as GO, SMWCNTs, and SM-GO can promote the corrosion of steel and the consumption of zinc particles. However, a large number of oxygen-containing groups on the surface of GO can tremendously reduce the electrical conductivity and electrochemical activity. If the oxygen-containing groups are removed, the reduced GO has a higher positive potential (+0.15 V vs. SCE) than carbon steel (−0.44 V vs. SCE), which will accelerate galvanic corrosion of steel and Zn [43,44]. Therefore, GO can inhibit galvanic corrosion to a certain extent and ensure the corrosion resistance of the coating. SMWCNTs have strong electrochemical activity and are easy to activate the reaction between cathode and anode. Additionally, SMWCNTs are prone to corrode with zinc par-ticles and metal substrate, as shown in Figure 14. During the longitudinal conduction of the current between the zinc particles and the metal substrate along the SMWCNTs axis, current leakage in the lateral direction (vertical to the SMWCNTs axis) is prone to occur, causing a large proportion of anode current to be wasted. These leakage currents acceler-ate the cathodic reaction rate and promote the consumption reaction of zinc particles. Due to the existence of GO, the galvanic corrosion of SM-GO is weaker than that of SMWCNTs. However, the electrochemically active SM-GO acts as the cathode, and the metal substrate acts as the anode. Galvanic corrosion occurs between them, resulting in a decrease in the corrosion resistance of the coating. In addition, the cathode SM-GO has a high specific surface area, and it is easy to form a “large cathode, small anode” with the anode zinc or metal substrate, which will accelerate corrosion [13,45,46]. Therefore, the corrosion re-sistance of the SG-ZRC sample is better than that of the SM-ZRC sample, but worse than that of the GO-ZRC sample. Polymers 2021, 13, 1657
+
+18 of 20
+
+causing a large proportion of anode current to be wasted. These leakage currents accelerate
+the cathodic reaction rate and promote the consumption reaction of zinc particles. Due to
+the existence of GO, the galvanic corrosion of SM-GO is weaker than that of SMWCNTs.
+However, the electrochemically active SM-GO acts as the cathode, and the metal substrate
+acts as the anode. Galvanic corrosion occurs between them, resulting in a decrease in the
+corrosion resistance of the coating. In addition, the cathode SM-GO has a high speciﬁc
+surface area, and it is easy to form a “large cathode, small anode” with the anode zinc
+or metal substrate, which will accelerate corrosion [13,45,46]. Therefore, the corrosion
+resistance of the SG-ZRC sample is better than that of the SM-ZRC sample, but worse than
+that of the GO-ZRC sample.
+
+Figure 14. Galvanic corrosion of (a) SM−GO and zinc particles; (b) SM−GO and metal substrate.
+5. Conclusions
+
+Through the above studies, the main conclusions are drawn below.
+
+(3)
+
+(1) GO is successfully non-covalently modiﬁed by SMWCNTs to form SM-GO, of which
+the interlayer spacing increases, and the dispersion in the coating matrix is improved.
+(2) Due to the conductivity and physical shielding of the nanoparticles, the zinc-rich
+coatings with conductive nanoparticles have a longer cathodic protection time and
+a larger impedance modulus than pure zinc-rich coatings. That is, the corrosion
+resistance of the composite coating is enhanced.
+SMWCNTs have strong galvanic corrosion with zinc particles and metal substrates.
+Due to the presence of oxygen-containing functional groups, the galvanic corrosion
+of GO is relatively weak. Thus, the galvanic corrosion effect of SM-GO lies between
+them. Therefore, the regularity of the corrosion resistance of the coatings is recorded
+as GO-ZRC > SG-ZRC > SM-ZRC.
+It is proved that carbon nanotubes should not be used to modify GO in zinc-rich
+coatings. When modifying GO, attention should be paid to eliminating its cathodic
+behavior in order to reduce the galvanic corrosion.
+
+(4)
+
+Author Contributions: Conceptualization, G.C.; methodology, Z.B.; validation, G.C.; investigation,
+Y.T.; resources, G.C.; writing—original draft preparation, Y.T.; writing—review and editing, Z.B.;
+funding acquisition, Y.T. and G.C. All authors have read and agreed to the published version of
+the manuscript.
+
+Funding: This work is supported by the CNPC Innovation Found (Grant No. 2019D-5007-0505), the
+Natural Science Foundation of Shandong Province (No. ZR2020QE288).
+
+Institutional Review Board Statement: Not applicable.
+
+Informed Consent Statement: Not applicable.
+
+Polymers 2021, 13, x  19 of 22    Figure 14. Galvanic corrosion of (a) SM−GO and zinc particles; (b) SM−GO and metal substrate. 5. Conclusions Through the above studies, the main conclusions are drawn below. (1) GO is successfully non-covalently modified by SMWCNTs to form SM-GO, of which the interlayer spacing increases, and the dispersion in the coating matrix is improved. (2) Due to the conductivity and physical shielding of the nanoparticles, the zinc-rich coatings with conductive nanoparticles have a longer cathodic protection time and a larger impedance modulus than pure zinc-rich coatings. That is, the corrosion resistance of the composite coating is enhanced. (3) SMWCNTs have strong galvanic corrosion with zinc particles and metal substrates. Due to the presence of oxygen-containing functional groups, the galvanic corrosion of GO is relatively weak. Thus, the galvanic corrosion effect of SM-GO lies between them. Therefore, the regularity of the corrosion resistance of the coatings is recorded as GO-ZRC > SG-ZRC > SM-ZRC. (4) It is proved that carbon nanotubes should not be used to modify GO in zinc-rich coatings. When modifying GO, attention should be paid to eliminating its cathodic behavior in order to reduce the galvanic corrosion. Author Contributions: Conceptualization, G.C.; methodology, Z.B.; validation, G.C.; investigation, Y.T.; resources, G.C.; writing—original draft preparation, Y.T.; writing—review and editing, Z.B.; funding acquisition, Y.T. and G.C. All authors have read and agreed to the published version of the manuscript. Funding:  This work is supported by the CNPC Innovation Found (Grant No. 2019D-5007-0505), the Natural Science Foundation of Shandong Province (No. ZR2020QE288). Institutional Review Board Statement: Not applicable. Informed Consent Statement: Not applicable. Data Availability Statement: The raw/processed data required to reproduce these findings cannot be shared at this time due to technical or time limitations. Acknowledgments: This work is supported by the CNPC Innovation Found (Grant No. 2019D-5007-0505), the Natural Science Foundation of Shandong Province (No. ZR2020QE288). Conflicts of Interest: The authors declare no conflict of interest. Reference 1. Marchebois, H.; Savall, C.; Bernard, J.; Touzain, S. Electrochemical behavior of zinc-rich powder coatings in artifi-cial sea water. Electrochim. Acta 2004, 49, 2945–2954, doi:10.1016/j.electacta.2004.01.053. Polymers 2021, 13, 1657
+
+19 of 20
+
+Data Availability Statement: The raw/processed data required to reproduce these ﬁndings cannot
+be shared at this time due to technical or time limitations.
+
+Conﬂicts of Interest: The authors declare no conﬂict of interest.
+
+References
+1. Marchebois, H.; Savall, C.; Bernard, J.; Touzain, S. Electrochemical behavior of zinc-rich powder coatings in artiﬁcial sea water.
+
+2.
+
+3.
+
+4.
+
+5.
+
+6.
+
+7.
+8.
+
+9.
+
+Electrochim. Acta 2004, 49, 2945–2954. [CrossRef]
+Zhou, S.; Wu, Y.; Zhao, W.; Yu, J.; Jiang, F.; Wu, Y.; Ma, L. Designing reduced graphene oxide/zinc rich epoxy composite coatings
+for improving the anticorrosion performance of carbon steel substrate. Mater. Des. 2019, 169, 107694. [CrossRef]
+Teng, S.; Gao, Y.; Cao, F.; Kong, D.; Zheng, X.; Ma, X.; Zhi, L. Zinc-reduced graphene oxide for enhanced corrosion protection of
+zinc-rich epoxy coatings. Prog. Org. Coat. 2018, 123, 185–189. [CrossRef]
+Shirehjini, F.T.; Danaee, I.; Eskandari, H.; Zarei, D. Effect of Nano Clay on Corrosion Protection of Zinc-rich Epoxy Coatings on
+Steel 37. J. Mater. Sci. Technol. 2016, 32, 1152–1160. [CrossRef]
+Ding, R.; Zheng, Y.; Yu, H.; Li, W.; Wang, X.; Gui, T. Study of water permeation dynamics and anti-corrosion mechanism of
+graphene/zinc coatings. J. Alloy. Compd. 2018, 748, 481–495. [CrossRef]
+Luo, X.; Yin, H.; Ren, J.; Yan, H.; Huang, X.; Yang, D.; He, L. Enhanced mixing of binary droplets induced by capillary pressure. J.
+Colloid Interface Sci. 2019, 545, 35–42. [CrossRef]
+Berry, V. Impermeability of graphene and its applications. Carbon N. Y. 2013, 62, 1–10. [CrossRef]
+Kowalczyk, K.; Spychaj, T. Zinc-free varnishes and zinc-rich paints modiﬁed with ionic liquids. Corros. Sci. 2014, 78, 111–120.
+[CrossRef]
+Ramezanzadeh, B.; Mohamadzadeh Moghadam, M.H.; Shohani, N.; Mahdavian, M. Effects of highly crystalline and conductive
+polyaniline/graphene oxide composites on the corrosion protection performance of a zinc-rich epoxy coating. Chem. Eng. J. 2017,
+320, 363–375. [CrossRef]
+
+10. Hayatdavoudi, H.; Rahsepar, M. Smart inhibition action of layered double hydroxide nanocontainers in zinc-rich epoxy coating
+
+11.
+
+12.
+
+for active corrosion protection of carbon steel substrate. J. Alloy. Compd. 2017, 711, 560–567. [CrossRef]
+Shreepathi, S.; Bajaj, P.; Mallik, B.P. Electrochemical impedance spectroscopy investigations of epoxy zinc rich coatings: Role of
+Zn content on corrosion protection mechanism. Electrochim. Acta 2010, 55, 5129–5134. [CrossRef]
+Feng, Y.; Yin, J.; Liu, S.; Wang, Y.; Li, B.; Jiao, T. Facile Synthesis of Ag/Pd Nanoparticle–Loaded Poly(ethylene imine) Composite
+Hydrogels with Highly Efﬁcient Catalytic Reduction of 4-Nitrophenol. ACS Omega 2020, 5, 3725–3733. [CrossRef] [PubMed]
+
+13. Cui, G.; Bi, Z.; Zhang, R.; Liu, J.; Yu, X.; Li, Z. A comprehensive review on graphene-based anti-corrosive coatings. Chem. Eng. J.
+
+2019, 373, 104–121. [CrossRef]
+
+14. Loh, K.P.; Bao, Q.; Ang, P.K.; Yang, J. The chemistry of graphene. J. Mater. Chem. 2010, 20, 2277–2289. [CrossRef]
+15. Yang, S.Y.; Lin, W.N.; Huang, Y.L.; Tien, H.W.; Wang, J.Y.; Ma, C.C.M.; Li, S.M.; Wang, Y.S. Synergetic effects of graphene platelets
+and carbon nanotubes on the mechanical and thermal properties of epoxy composites. Carbon N. Y. 2011, 49, 793–803. [CrossRef]
+16. Hu, H.; He, Y.; Long, Z.; Zhan, Y. Synergistic effect of functional carbon nanotubes and graphene oxide on the anti-corrosion
+
+performance of epoxy coating. Polym. Adv. Technol. 2017, 28, 754–762. [CrossRef]
+
+17. Wu, Y.; Zhao, W.; Qiang, Y.; Chen, Z.; Wang, L.; Gao, X.; Fang, Z. π-π interaction between ﬂuorinated reduced graphene oxide
+
+and acridizinium ionic liquid: Synthesis and anti-corrosion application. Carbon N. Y. 2020, 159, 292–302. [CrossRef]
+
+18. Li, J.; Cui, J.; Yang, J.; Ma, Y.; Qiu, H.; Yang, J. Silanized graphene oxide reinforced organofunctional silane composite coatings for
+
+corrosion protection. Prog. Org. Coat. 2016, 99, 443–451. [CrossRef]
+
+19. Cui, M.; Ren, S.; Zhao, H.; Xue, Q.; Wang, L. Polydopamine coated graphene oxide for anticorrosive reinforcement of water-borne
+
+epoxy coating. Chem. Eng. J. 2018, 335, 255–266. [CrossRef]
+
+20. Zhang, L.; Wu, H.; Zheng, Z.; He, H.; Wei, M.; Huang, X. Fabrication of graphene oxide/multi-walled carbon nanotube/urushiol
+formaldehyde polymer composite coatings and evaluation of their physico-mechanical properties and corrosion resistance. Prog.
+Org. Coat. 2019, 127, 131–139. [CrossRef]
+Jing, L.-C.; Wang, T.; Cao, W.-W.; Wen, J.-G.; Zhao, H.; Ning, Y.-J.; Yuan, X.-T.; Tian, Y.; Teng, L.-H.; Geng, H.-Z. Water-based
+polyurethane composite anticorrosive barrier coating via enhanced dispersion of functionalized graphene oxide in the presence
+of acidiﬁed multi-walled carbon nanotubes. Prog. Org. Coat. 2020, 146, 105734. [CrossRef]
+
+21.
+
+22. Turhan, M.C.; Li, Q.; Jha, H.; Singer, R.F.; Virtanen, S. Corrosion behaviour of multiwall carbon nanotube/magnesium composites
+
+in 3.5% NaCl. Electrochim. Acta 2011, 56, 7141–7148. [CrossRef]
+
+23. Gergely, A.; Pászti, Z.; Mihály, J.; Drotár, E.; Török, T. Galvanic function of zinc-rich coatings facilitated by percolating structure of
+
+the carbon nanotubes. Part I: Characterization of the nano-size particles. Prog. Org. Coat. 2015, 78, 437–445. [CrossRef]
+
+24. Gergely, A.; Pászti, Z.; Mihály, J.; Drotár, E.; Török, T. Galvanic function of zinc-rich coatings facilitated by percolating structure of
+the carbon nanotubes. Part II: Protection properties and mechanism of the hybrid coatings. Prog. Org. Coat. 2014, 77, 412–424.
+[CrossRef]
+
+25. El-Khodary, S.A.; El-Enany, G.M.; El-Okr, M.; Ibrahim, M. Modiﬁed iron doped polyaniline/sulfonated carbon nanotubes for all
+
+symmetric solid-state supercapacitor. Synth. Met. 2017, 233, 41–51. [CrossRef]
+
+26. Morsy, M.; Helal, M.; El-Okr, M.; Ibrahim, M. Preparation, puriﬁcation and characterization of high purity multi-wall carbon
+
+nanotube. Spectrochim. Acta Part. A Mol. Biomol. Spectrosc. 2014, 132, 594–598. [CrossRef] [PubMed]
+
+Polymers 2021, 13, 1657
+
+20 of 20
+
+27. Dhall, S.; Jaggi, N.; Nathawat, R. Functionalized multiwalled carbon nanotubes based hydrogen gas sensor. Sens. Actuators A
+
+28.
+
+Phys. 2013, 201, 321–327. [CrossRef]
+Stankovich, S.; Dikin, D.A.; Piner, R.D.; Kohlhaas, K.A.; Kleinhammes, A.; Jia, Y.; Wu, Y.; Nguyen, S.T.; Ruoff, R.S. Synthesis of
+graphene-based nanosheets via chemical reduction of exfoliated graphite oxide. Carbon N. Y. 2007, 45, 1558–1565. [CrossRef]
+
+29. Bhaskaran; Pancharatna, P.D.; Lata, S.; Singh, G. Imidazolium based ionic liquid as an efﬁcient and green corrosion constraint for
+
+mild steel at acidic pH levels. J. Mol. Liq. 2019, 278, 467–476. [CrossRef]
+
+30. Li, Z.; Wang, X.; Zhang, Y.; Jing, C. Enhancing the Corrosion Resistance of Epoxy Coatings by Impregnation with a Reduced
+
+Graphene Oxide-Hydrophobic Ionic Liquid Composite. ChemElectroChem 2018, 5, 3300–3306. [CrossRef]
+
+31. Cheng, L.; Liu, C.; Han, D.; Ma, S.; Guo, W.; Cai, H.; Wang, X. Effect of graphene on corrosion resistance of waterborne inorganic
+
+zinc-rich coatings. J. Alloy. Compd. 2019, 774, 255–264. [CrossRef]
+
+32. Ye, Y.; Zhang, D.; Liu, T.; Liu, Z.; Pu, J.; Liu, W.; Zhao, H.; Li, X.; Wang, L. Superior corrosion resistance and self-healable epoxy
+
+coating pigmented with silanzied trianiline-intercalated graphene. Carbon N. Y. 2019, 142, 164–176. [CrossRef]
+
+33. Lv, X.; Li, X.; Li, N.; Zhang, H.; Zheng, Y.; Wu, J.; Tao, X. ZrO2 nanoparticle encapsulation of graphene microsheets for enhancing
+
+anticorrosion performance of epoxy coatings. Surf. Coat. Technol. 2019, 358, 443–451. [CrossRef]
+
+34. Cao, X.; Huang, F.; Huang, C.; Liu, J.; Cheng, Y.F. Preparation of graphene nanoplate added zinc-rich epoxy coatings for enhanced
+
+35.
+
+sacriﬁcial anode-based corrosion protection. Corros. Sci. 2019, 159, 108120. [CrossRef]
+Jalili, M.; Rostami, M.; Ramezanzadeh, B. An investigation of the electrochemical action of the epoxy zinc-rich coatings containing
+surface modiﬁed aluminum nanoparticle. Appl. Surf. Sci. 2015, 328, 95–108. [CrossRef]
+
+36. Li, W.; Fan, Z.; Li, X.; Jiang, B.; Yan, F.; Zhang, Z.; Wang, X. Improved anti-corrosion performance of epoxy zinc rich coating on
+
+rusted steel surface with aluminum triphosphate as rust converter. Prog. Org. Coat. 2019, 135, 483–489. [CrossRef]
+
+37. Mahato, P.; Mishra, S.K.; Murmu, M.; Murmu, N.C.; Hirani, H.; Banerjee, P. A prolonged exposure of Ti-Si-B-C nanocomposite
+coating in 3.5 wt.% NaCl solution: Electrochemical and morphological analysis. Surf. Coat. Technol. 2019, 375, 477–488. [CrossRef]
+38. Murmu, M.; Saha, S.K.; Murmu, N.C.; Banerjee, P. Amine cured double Schiff base epoxy as efﬁcient anticorrosive coating
+
+materials for protection of mild steel in 3.5% NaCl medium. J. Mol. Liq. 2019, 278, 521–535. [CrossRef]
+39. Murmu, M.; Saha, S.K.; Murmu, N.C.; Banerjee, P. Effect of stereochemical conformation into the corrosion inhibitive behaviour
+of double azomethine based Schiff bases on mild steel surface in 1 mol L−1 HCl medium: An experimental, density functional
+theory and molecular dynamics simulation study. Corros. Sci. 2019, 146, 134–151. [CrossRef]
+Shen, L.; Li, Y.; Zhao, W.; Miao, L.; Xie, W.; Lu, H.; Wang, K. Corrosion Protection of Graphene-Modiﬁed Zinc-Rich Epoxy
+Coatings in Dilute NaCl Solution. ACS Appl. Nano Mater. 2019, 2, 180–190. [CrossRef]
+
+40.
+
+41. Xu, X.; Yi, D.; Wang, Z.; Yu, J.; Zhang, Z.; Qiao, R.; Sun, Z.; Hu, Z.; Gao, P.; Peng, H.; et al. Greatly Enhanced Anticorrosion of Cu
+
+by Commensurate Graphene Coating. Adv. Mater. 2018, 30, 1–7. [CrossRef] [PubMed]
+
+42. Hayatdavoudi, H.; Rahsepar, M. A mechanistic study of the enhanced cathodic protection performance of graphene-reinforced
+zinc rich nanocomposite coating for corrosion protection of carbon steel substrate. J. Alloy. Compd. 2017, 727, 1148–1156.
+[CrossRef]
+
+43. Du, P.; Wang, J.; Liu, G.; Zhao, H.; Wang, L. Facile synthesis of intelligent nanocomposites as encapsulation for materials
+
+protection. Mater. Chem. Front. 2019, 3, 321–330. [CrossRef]
+
+44. Dhall, S.N.; Jaggi, R. Nathawat. Sens. Actuators A Phys. 2013, 201, 321–332. [CrossRef]
+45. Ding, R.; Li, W.; Wang, X.; Gui, T.; Li, B.; Han, P.; Tian, H.; Liu, A.; Wang, X.; Liu, X.; et al. A brief review of corrosion protective
+
+ﬁlms and coatings based on graphene and graphene oxide. J. Alloy. Compd. 2018, 764, 1039–1055. [CrossRef]
+
+46. Wu, Y.; Zhu, X.; Zhao, W.; Wang, Y.; Wang, C.; Xue, Q. Corrosion mechanism of graphene coating with different defect levels. J.
+
+Alloy. Compd. 2019, 777, 135–144. [CrossRef]
+
+

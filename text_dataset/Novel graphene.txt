@@ -1,0 +1,441 @@
+opeN
+
+A novel graphene barrier against 
+moisture by multiple stacking 
+large-grain graphene
+
+Received: 31 August 2018
+Accepted: 15 February 2019
+Published: xx xx xxxx
+
+ploybussara Gomasang1, Kenji Kawahara2, Kenta Yasuraoka3, Mina Maruyama3, Hiroki Ago 
+susumu okada3 & Kazuyoshi Ueno1,4
+
+ 2,  
+
+the moisture barrier properties of stacked graphene layers on Cu surfaces were investigated with the 
+goal of improving the moisture barrier efficiency of single-layer graphene (SLG) for Cu metallization. 
+SLG with large grain size were stacked on Cu surfaces coated with CVD-SLG to cover the grain-
+boundaries and defective areas of the underneath SLG film, which was confirmed to be oxidized by 
+Raman spectroscopy measurements. To evaluate the humidity resistance of the graphene-coated Cu 
+surfaces, temperature humidity storage (THS) testing was conducted under accelerated oxidation 
+conditions (85 °C and 85% relative humidity) for 100 h. The color changes of the Cu surfaces during THS 
+testing were observed by optical microscopy, while the oxidized Cu into Cu2o and Cuo was detected 
+by X-ray photoelectron spectroscopy (XPS). The experimental results were accord with the results of 
+first-principle simulation for the energetic barrier against water diffusion through the stacked graphene 
+layers with different overlap. The results demonstrate the efficiency of SLG stacking approach against 
+moisture for Cu metallization.
+
+Copper (Cu) interconnects, which are used in large-scale integrated circuits (LSIs), require a barrier layer to pre-
+vent Cu diffusion, which leads to degradation in the Si carrier lifetime. As the interconnect size shrinks according 
+to scaling, thinner barrier layer is required such as less than 1-nm thickness for beyond the 3-nm node to avoid 
+increased resistance resulting from the reduced cross-sectional area of Cu1. Graphene, a two-dimensional carbon 
+(C) layer, is a candidate for ultra-thin barrier layers because of its atomically thin crystal structure2. In addition to 
+a potential diffusion barrier3–6, graphene has been reported as a candidate capping layer to enhance the electromi-
+gration (EM) reliability7, electrical conductivity, and thermal conductivity of Cu interconnects8,9.
+
+Currently, LSIs are used primarily for data processing and have typical lifetimes of 10 years. LSIs are also 
+expected to find applications in data storage as non-volatile and flash memories. These LSI memories could store 
+data for more than 100 years since the digital data stored in LSIs are relatively easy to read compared to magnetic 
+and optical storage media, which require specific tools to read the data. However, before LSIs can be applied in 
+long-term storage, the reliability of Cu interconnects must be improved. To increase the lifetime of Cu intercon-
+nects, it is critical to develop ultra-thin protective barriers that prevent both the diffusion of both Cu and mois-
+ture. Graphene has been reported as a corrosion and diffusion barrier for metals such as Cu10–12, Ni11,12, Ag13, and 
+Pt14. Graphene grown by CVD on Cu foil has been preliminarily demonstrated to investigate the moisture barrier 
+properties of graphene15–19. We reported that CVD-grown single-layer graphene (SLG) can serve as an efficient 
+impermeable film to prevent the diffusion of moisture. However, some areas of the Cu surface were oxidized20. 
+The oxidized areas were speculated as the grain-boundaries or defective areas in the previous work.
+
+In this study, two analytical experiments were performed. In the first experiment, we have confirmed that the oxi-
+dized areas in the SLG-coated Cu were corresponding to the grain-boundaries or defective structures of graphene by 
+Raman spectroscopy measurements. For improvement in the resistance of graphene-coated Cu to prevent the oxida-
+tion from moisture, we report an artificial stacking SLG layers on CVD-SLG/Cu into double-layer graphene (DLG) 
+to eliminate the Cu oxidation through the defects and grain boundaries of the underneath SLG, as in the second 
+experiment. In addition, triple-layer graphene (TLG) was also formed by further stacking SLG on the DLG-coated 
+
+1Graduate School of Engineering and Science, Shibaura Institute of Technology, Koto, Tokyo, 135-8548, Japan. 
+2Global Innovation Center, Kyushu University, Kasuga, Fukuoka, 816-8580, Japan. 3Graduate School of Pure 
+and Applied Sciences, University of Tsukuba, Tsukuba, Ibaraki, 305-8577, Japan. 4Sit Research center for Green 
+Innovation, Koto, Tokyo, 135-8548, Japan. Correspondence and requests for materials should be addressed to K.U. 
+(email: ueno@shibaura-it.ac.jp)
+
+Scientific RepoRts  |          (2019) 9:3777  | https://doi.org/10.1038/s41598-019-40534-5
+
+1
+
+www.nature.com/scientificreportsFigure 1.  Relative O/Cu atomic concentration ratios of the SLG-coated Cu surfaces before and after different 
+durations of THS testing.
+
+Cu surface. To compare the oxidation resistances of DLG-coated Cu, TLG-coated Cu, SLG-coated Cu, and bare Cu 
+surfaces, temperature and humidity storage (THS) tests were carried out under accelerated oxidation conditions. 
+The sample surfaces were characterized using optical microscopy (OM) and X-ray photoelectron spectroscopy 
+(XPS). The results indicate that the formation of DLG can improve the moisture barrier properties of the SLG-coated 
+Cu surface by covering most of SLG grain boundaries. Moreover, TLG is a highly efficient barrier that uniformly 
+prevents oxidation on the Cu film surface by covering the cross-points of grain boundaries in DLG. We discuss the 
+mechanism of improvement by the first-principles simulation of overlapping graphene films result in an increased 
+energetic barrier against the water diffusion through the different length of graphene overlap.
+Results
+Analysis of oxidized Cu areas on SLG-coated Cu surface.  Regarding the previous report of moisture 
+barrier properties of SLG-coated Cu surface20, we reproduce this experiment again, and then found that some 
+areas of Cu surface were oxidized after 100 h of THS testing, as shown in the relative O/Cu atomic concentra-
+tion ratios investigated by XPS (Fig. 1). In order to confirm the hypothesis that the oxidation occurred under 
+grain boundaries or defective areas of SLG, dark and shiny areas on SLG-coated Cu surface were examined by 
+Raman spectroscopy and also investigated the formation of Cu oxides comparing to those of bare Cu surface, as 
+shown in Fig. 2. For the Raman spectra of SLG, the D peak, G peak, and 2D peak on SLG are located at 1320–
+1327, 1585–1597, and 2640–2680 cm−1, respectively21,22. The D peak corresponds to the defective structures of 
+graphene. Comparing the D and G peaks intensity ratio (ID/IG) between the dark and shiny areas of SLG-coated 
+Cu surface after 100 h of THS testing, the ID/IG ratio of dark color area is relatively higher than that of shiny area. 
+It indicates that there were more defects of the SLG such as grain-boundaries in the dark area than those of shiny 
+area. In addition, the Raman spectra of the dark area exhibit peaks of Cu2O23–25 at 148, 219, and 525 cm−1, and 
+the peak located at ∼630 cm−1 corresponds to CuO26. The intensities of both the Cu2O and CuO peaks are greater 
+in the spectrum of the SLG-coated Cu surface compared to those of the bare Cu surface. The Raman spectrum 
+measured on shiny areas of SLG-coated Cu surface after 100 h of THS testing do not show Cu oxide peaks. The 
+results suggest that when graphene does not completely protect the Cu surface from moisture, the oxidation of the 
+defective areas is enhanced by the graphene coating.
+Artificial stacking of SLG layers to cover the underneath grain boundaries. 
+In the second exper-
+iment, the oxidation resistance of SLG-coated Cu was improved by artificial stacking SLG layers. Figure 3 shows 
+the concept of SLG stacking as DLG-coated Cu surface expected to eliminate Cu oxidation through the defects 
+and grain boundaries in SLG-coated Cu surface, since the grain boundaries is expected to be covered by overlay 
+SLG grains. Further SLG stacking on the DLG-coated Cu surface as TLG was also performed to improve the 
+integrity of covering grain-boundaries and defects.
+
+Change of surface color during THS testing observed by OM.  All samples were prepared, including SLG-coated 
+Cu and bare Cu samples, and then tested in THS chamber. Primary observation in the color changes of the bare 
+Cu and graphene-coated Cu surfaces were carried out by OM with comparing before and after variously THS 
+testing times (Fig. 4). Compared to its initial state (Fig. 4a), the bare Cu surface rapidly changed to a uniformly 
+dark color after 25 h of THS testing (Fig. 4b) and became continually darker as the long-term THS test continued 
+(Fig. 4c,d). The changes in color indicate that the Cu surface was oxidized upon exposure to high temperature and 
+humidity. Most areas of the SLG-coated Cu surface appeared shiny after THS testing (Fig. 4f), similar to the initial 
+surface before testing (Fig. 4e). However, in some areas, dark lines and spots appeared (Fig. 4f‒h) and became 
+
+Scientific RepoRts  |          (2019) 9:3777  | https://doi.org/10.1038/s41598-019-40534-5
+
+2
+
+www.nature.com/scientificreportswww.nature.com/scientificreports/Figure 2.  Raman spectra of graphene-coated Cu and bare Cu surfaces after 100 h of THS testing. Spectrum 
+of SLG (shiny area) shows small D peak without Cu oxide peaks. Dark area of SLG and bare Cu spectra show 
+different peak intensities of Cu2O and CuO depending on the density of Cu oxide present.
+
+larger and darker after long-term THS testing (Fig. 4b−d). The color change of SLG-coated Cu surface was quali-
+tatively similar to the previous report20, but the dark color areas were relatively larger in this study probably due to 
+the higher density of defects. In contrast, the DLG- and TLG-coated surfaces exhibited large shiny areas after THS 
+testing. These results support our expected effects of stacking SLG layers cover relatively defective areas of under-
+neath SLG. Although some small dark spots were observed on the DLG-coated Cu surface after long-term THS 
+testing, the shiny areas on the DLG-coated Cu surface were clearly larger (Fig. 4j‒l) than those on the SLG-coated 
+Cu surface (Fig. 4f‒h). The dark spots were nearly eliminated on the TLG-coated Cu surface, and a uniformly 
+shiny surface without dark spots and lines was observed after 100 h of THS testing (Fig. 4n‒p).
+
+Evolution of Cu oxides during THS testing measured by XPS.  The relative changes in the contents of O and Cu 
+during THS testing were evaluated by XPS. A typical spectrum from each duration was exhibited, as shown in 
+Fig. 5. The XPS peak intensity is associated with the average amount of the corresponding elements within the 
+analyzed XPS depth. The primary analysis confirmed the components of metallic Cu, Cu2O, and CuO in the 
+Cu 2p spectrum, as shown in Fig. 5(a-1–a-4). The main peaks observed from 932.6‒932.4 eV correspond to 
+metallic Cu and the low oxidation state of Cu2O27–30. The high oxidation state of CuO is reflected by the peaks at 
+∼933.6 eV27–29, and its satellite peak is observed from 944.6‒942.4 eV27,28. The peaks of metallic Cu and Cu2O can 
+be distinguished in the Cu LMM Auger spectrum, as shown in Fig. 5(b-1‒b-4).
+
+The Cu 2p spectrum of the bare Cu surface before THS testing [Fig. 5(a-1)] exhibits high-intensity peaks of 
+metallic Cu and Cu2O along with small CuO and CuO satellite peaks. In the Cu LMM Auger spectrum of the bare 
+Cu surface, the peaks at the binding energies of ∼567.9 and ∼570 eV correspond to metallic Cu31 and Cu2O17, 
+respectively. The Cu LMM spectrum of bare Cu before THS testing [Fig. 5(b-1)] exhibits peaks of both metallic 
+Cu and Cu2O at 0 h, indicating that a layer of Cu2O formed on the Cu surface upon exposure to air before the 
+THS test. After THS testing, the peaks corresponding to metallic Cu and Cu2O in the Cu 2p spectrum [Fig. 5(a-1)]  
+decreased continually, whereas the CuO peak increased, indicating that Cu continued to be oxidized during the THS 
+test. No metallic Cu was observed after 100 h of testing, as shown in the Cu LMM Auger spectrum [Fig. 5(b-1)].
+
+Scientific RepoRts  |          (2019) 9:3777  | https://doi.org/10.1038/s41598-019-40534-5
+
+3
+
+www.nature.com/scientificreportswww.nature.com/scientificreports/Figure 3.  Structural models of the (a) bare Cu, (b) SLG-coated Cu, (c) DLG-coated Cu, and TLG-coated Cu 
+samples. The models conceptually show how stacking SLG on Cu coated with CVD-deposited SLG and DLG 
+layers covers the defects and grain boundaries of the underlying graphene layers.
+
+The Cu 2p spectra of the SLG-, DLG-, and TLG-coated Cu surfaces before THS testing [Fig. 5(a-2‒a-4)] 
+exhibit high-intensity peaks of metallic Cu and Cu2O. In the Cu LMM Auger spectra [Fig. 5(b-2‒b-4)], the peak 
+intensity of metallic Cu is much higher than that of Cu2O. These results demonstrate the ability of the graphene 
+layers to protect the Cu surface. Significant changes were observed in the Cu 2p spectrum of the SLG-coated Cu 
+surface after long-term THS testing [Fig. 5(a-2)]. The peak of CuO appeared suddenly after 100 h of testing, and 
+its intensity was greater than that of the Cu2O peak. This change coincides with the appearance of dark lines and 
+spots, as observed by OM (Fig. 4h). The Cu 2p spectra of the DLG- and TLG-coated Cu surfaces [Fig. 5(a-3,a-4)] 
+show strong peaks corresponding to metallic Cu + Cu2O components, whereas the CuO peaks are almost non-
+existent. The Cu LMM Auger spectra of the DLG- and TLG-coated Cu surfaces [Fig. 5(b-3,b-4)] clearly indicate 
+the presence of a large amount of metallic Cu after 100 h of THS testing, in agreement with the large shiny areas 
+observed on the Cu surfaces by OM [Fig. 4(i‒p)].
+
+Figure 6 shows the relative O/Cu atomic concentration ratios estimated from the Cu 2p and O 1 s spectra; 
+adsorbed O32,33 and C–O bonds32 were not included when determining the concentration ratios (Fig. S1 in 
+
+Scientific RepoRts  |          (2019) 9:3777  | https://doi.org/10.1038/s41598-019-40534-5
+
+4
+
+www.nature.com/scientificreportswww.nature.com/scientificreports/Figure 4.  OM images of sample surfaces before and after different durations of THS testing. OM images of 
+(a‒d) bare Cu, (e‒h) SLG-coated Cu, (i‒l) DLG-coated Cu, and (m‒p) TLG-coated Cu surfaces.
+
+Supplementary Information). Before THS testing, the O/Cu ratio of the bare Cu surface was higher than those of all 
+the graphene-coated Cu surfaces because the bare Cu surface was oxidized in air. The rate of increase in the O/Cu  
+ratio on the bare Cu surface was maximized after 25 h of the THS testing and then decreased as the test continued. 
+For the SLG-coated surface, the O/Cu ratio increased linearly with THS testing time and then increased extremely 
+quickly after 100 h of testing due to the higher content of CuO than Cu2O comparing to those of bare Cu surface, 
+as shown in inset Cu 2p curve fitting. These results agree with the dark lines and spots investigated on the sample 
+surface by Raman spectroscopy (Fig. 2) and the change in shape of the Cu 2p spectra (Fig. 5). For the DLG- and 
+TLG-coated Cu surfaces, the O/Cu ratios increased slightly after 25 h of THS testing and then remained stable.
+
+Discussion
+Coating the Cu surface with a high-quality SLG film generated a moisture barrier that prevented the oxidation of 
+the Cu film, as indicated the shiny areas observed by OM on the SLG-coated Cu surface (Fig. 4f‒h). However, some 
+areas of SLG-coated Cu surface show dark color owning to the formation of Cu oxides under the grain boundaries 
+and defective areas of SLG layers, as indicated by Raman spectroscopy (Fig. 2). A comparison of oxidation between 
+the bare Cu and SLG-coated Cu surfaces by Raman spectroscopy (Fig. 2), OM images (Fig. 4b‒d,f‒h) and XPS 
+results (Figs 5, 6) reveals that SLG could preserve the metallic Cu surface underneath graphene during 50 h of THS 
+testing; however, the efficiency of the SLG coating was reduced after long-term THS testing (100 h). In addition, 
+Raman spectroscopy revealed the enhanced Cu oxidation at the sites of defects and grain boundaries of SLG com-
+pared to on the bare Cu surface (Fig. 2). This enhanced oxidation can be explained by the formation of a galvanic 
+cell34, as shown schematically in Fig. 7. When Cu2O begins to form on unprotected areas of the Cu surface, a galvanic 
+cell is formed. This cell is in contact with conductive graphene, which transfers electrons to O, thereby promoting 
+further Cu oxidation at SLG defects and grain boundaries. The results indicate that the oxidation rate of the bare 
+Cu surface decreased after long-term THS testing because no galvanic cell was formed to accelerate Cu corrosion.
+
+To eliminate the oxidation at the sites of SLG grain boundaries and defects, we studied the effect of covering over the 
+grain boundaries and defects by stacking SLG layer as DLG. As expected, DLG-coated Cu surface exhibited larger shiny 
+areas after long-term THS testing (Fig. 4j‒l) because the water passing through the SLG defects and grain boundaries 
+was obstructed by the additional layer of graphene. Little change was observed in the XPS spectrum of DLG-coated Cu 
+during 100 h of THS testing [Fig. 5(a-3)], indicating good protective ability. To help explain how the upper graphene 
+layer protects areas with grain boundaries or defects, Fig. 8 shows the simulated energy barrier to water migration 
+through overlapped graphene layers. In the first-principle simulation, migrating water moved from the middle-right 
+side to left side of both graphene layers, and water migrates along the migration coordinate via the edge site and ends 
+among the overlapped graphene layers (Fig. 8a). The simulation results indicate that the energy barrier (E) to water 
+migration was higher when the length of graphene overlap (D) was 1.22 to 3.66 Å (Fig. 8c‒e) compared to the sce-
+nario with no overlap (D = 0 Å; Fig. 8b). The results indicate that graphene overlap is essential to improve the barrier 
+efficiency.
+
+Scientific RepoRts  |          (2019) 9:3777  | https://doi.org/10.1038/s41598-019-40534-5
+
+5
+
+www.nature.com/scientificreportswww.nature.com/scientificreports/Figure 5.  XPS spectra of bare and graphene-coated Cu surfaces before and after different durations of THS 
+testing. Panels (a) and (b) respectively show the Cu 2p and Cu LMM XPS spectra to analyze the presence of 
+metallic Cu, Cu2O, and CuO on each sample surface.
+
+However, small dark spots of Cu2O and CuO were still observed on some areas of the DLG-coated Cu sur-
+face, as indicated by OM (Fig. 4j‒l). These tiny dark spots, which were all similar in size, likely correspond to the 
+intersection between the upper and lower SLG grain boundaries, as shown in the schematic model in Fig. 9. The 
+O atoms can penetrate through these holes to oxidize Cu surfaces.
+
+The moisture barrier properties were further improved by stacking SLG on the DLG-coated Cu surface to form 
+TLG. The number of small dark spots on the TLG-coated surface after 100 h of THS testing (Fig. 4n‒p) was dras-
+tically reduced compared to on the DLG-coated Cu surface (Fig. 4j‒l), likely because the additional stacked SLG 
+covered the defects of the lower graphene layers. The Cu 2p spectrum and O/Cu ratio of the TLG-coated surface 
+
+Scientific RepoRts  |          (2019) 9:3777  | https://doi.org/10.1038/s41598-019-40534-5
+
+6
+
+www.nature.com/scientificreportswww.nature.com/scientificreports/Figure 6.  Relative O/Cu atomic concentration ratios of the bare Cu and graphene-coated Cu surfaces before 
+and after different durations of THS testing.
+
+Figure 7.  Schematic model showing the formation of a galvanic cell on a graphene-coated Cu surface.
+
+did not change significantly during THS testing [Figs 5(a-4), 6], confirming the ability of TLG to prevent the oxida-
+tion of the Cu surface by moisture. Overall, the findings demonstrate that stacking graphene layers can effectively 
+prevent the diffusion of moisture through the defects and grain boundaries of the lower graphene layers.
+Conclusion
+Raman spectroscopy measurement on the oxidized areas of the SLG-coated Cu surface and XPS analysis clearly 
+suggests that the obstruction of grain boundaries and defective areas of SLG should be concerned not only to 
+prevent the oxidation on Cu but also to eliminate the galvanic cell formation, which accelerates high oxidation 
+in long-term storage. To improve the moisture barrier properties of large-grain SLG on Cu(111)/sapphire sub-
+strates, stacking SLG on the SLG-coated Cu surface was performed to cover defects and grain boundaries of the 
+
+Scientific RepoRts  |          (2019) 9:3777  | https://doi.org/10.1038/s41598-019-40534-5
+
+7
+
+www.nature.com/scientificreportswww.nature.com/scientificreports/Figure 8.  Optimized geometry and energy of water migration through overlapping areas of graphene 
+nanoribbons. Panel (a) shows the migration coordinate of O. Panels (b‒e) show the water migration energies (E) 
+for different lengths of graphene overlap (D = 0, 1.22, 2.45, and 3.66 Å, respectively).
+
+underlying SLG surface. Long-term THS testing (100 h) was carried out under accelerated oxidation conditions 
+(85 °C and 85% relative humidity) to evaluate the effectiveness of the graphene coatings at preventing oxidation. 
+The change on sample surfaces were analyzed by OM and XPS. The results show that SLG stacking as DLG was 
+an efficient barrier against O diffusion, although some small areas of Cu were still oxidized at the intersections 
+of grain boundaries between the upper and lower SLG layers. Further stacking as TLG-coated Cu surface can be 
+achieved to preserve the Cu film surface in long-term THS testing. The simulation results indicate that energy 
+barrier against water migration was higher with increasing the graphene overlap. The results indicate that it is 
+essential to stack for covering the underneath grain boundaries and defects, not just stacking the SLG layers. The 
+findings demonstrate that stacking large-grain SLG is a promising strategy for improving the moisture barrier 
+properties of graphene on Cu film surface.
+Methods
+Large-area SLG was grown on Cu/sapphire substrates using a previously reported CVD method35,36. First, a 
+1000-nm-thick Cu(111) film was deposited on a c-plane sapphire substrate via high-temperature sputtering. To 
+deoxidize the Cu surface before SLG deposition, the Cu/sapphire substrate was annealed in a flow of H2 and Ar 
+gases at 1000 °C for 40 min. The temperature was then increased to 1075 °C over 20 min. SLG growth occurred 
+on heteroepitaxial Cu (111)/sapphire substrates via ambient-pressure CVD at 1075 °C in CH4 precursor gas. The 
+quality of the SLG film was confirmed by Raman spectroscopy after transferring the film to a SiO2/Si substrate 
+(Fig. S2 in Supplementary Information). DLG- and TLG-coated Cu samples were prepared by stacking SLG on 
+SLG/Cu samples formed by CVD using transfer method37. A bare Cu sample was also deposited on a sapphire 
+
+Scientific RepoRts  |          (2019) 9:3777  | https://doi.org/10.1038/s41598-019-40534-5
+
+8
+
+www.nature.com/scientificreportswww.nature.com/scientificreports/Figure 9.  Schematic model showing the likely cause of Cu oxidation on the DLG-coated Cu surface.
+
+substrate by sputtering and annealing in a quartz tube; to facilitate comparison, the procedure and conditions 
+used to deposit the bare Cu sample were identical as those used for SLG growth by CVD but without the CH4 
+precursor gas.
+
+THS testing was conducted for 100 h in a THS chamber under conditions designed to accelerate oxidation 
+(85 °C and 85% relative humidity). The first experiment was carried out to examine the oxidized areas in the 
+SLG-coated Cu surface after 100 h of THS testing measured by Raman spectroscopy measurement at an excitation 
+wavelength of 633 nm and spot diameter of ~1 μm. The second experiment was performed for testing the effi-
+ciency of stacking graphene samples, comparing to SLG-coated Cu and bare Cu samples. Before THS testing and 
+after 25, 50, and 100 h of test, all sample surfaces were observed by OM. Cu 2p, Cu LMM, and O 1 s XPS spectra 
+were collected using an Al X-ray source (1486.6 eV) with a spot diameter of ~110 μm. The O/Cu atomic concen-
+tration ratio was evaluated from the O 1 s and Cu 2p spectra after background subtraction.
+
+Unstitched grain boundaries of graphene were simulated for armchair graphene nanoribbons with hydro-
+genated edges. Water migrated through the overlapping graphene areas was simulated with various overlapped 
+lengths (D = 0, 1.22, 2.45, and 3.66 Å). The O atom of water was fixed along the migration coordinate. Water 
+migration began from the center of the graphene nanoribbon and ended among the overlapped graphene layers 
+via the edge site. The energy barrier to water migration was estimated form the simulation results.
+References
+  1.  Clarke, J. S. et al. Process technology scaling in an increasingly interconnect dominated world. IEEE Symp. VLSI Technology Dig. 
+
+  2.  Sato, S. Graphene for nanoelectronics. Jpn. J. Appl. Phys. 54, 040102 (2015).
+  3.  Hong, J. et al. Graphene as an atomically thin barrier to Cu diffusion into Si. Nanoscale 6, 7503–7511 (2014).
+  4.  Bong, J. H., Yoon, S. J., Yoon, A., Hwang, W. S. & Cho, B. J. Ultrathin graphene and graphene oxide layers as a diffusion barrier for 
+
+advanced Cu metallization. Appl. Phys. Lett. 106, 063112 (2015).
+
+  5.  Bunch, J. S. et al. Impermeable Atomic Membranes from Graphene Sheets. Nano Lett. 8, 2458–2462 (2008).
+  6.  Li, L. et al. Vertical and lateral copper transport through graphene layers. ACS Nano. 9, 8361–8367 (2015).
+  7.  Li, L. et al. BEOL compatible graphene/Cu with improved electromigration lifetime for future interconnects. IEDM Tech. Dig. 
+
+Tech. Papers (2014).
+
+  8.  Mehta, R., Chugh, S. & Chen, Z. Enhanced electrical and thermal conduction in graphene encapsulated copper nanowires. Nano 
+
+240‒243 (2016)
+
+Lett. 15, 2024–2030 (2015).
+
+Phys. Lett. 110, 131601 (2017).
+
+(2012).
+
+1, 4956–4961 (2013).
+
+Nano. 7, 6939–6947 (2013).
+
+707 (2012).
+
+  9.  Cuong, N. T. & Okada, S. Suppression of conductivity deterioration of copper thin films by coating with atomiclayer materials. Appl. 
+
+ 10.  Chen, S. et al. Oxidation resistance of graphene coated Cu and Cu/Ni alloy. ACS Nano. 5, 1321–1327 (2011).
+ 11.  Kirkland, N. T., Schiller, T., Medhekar, N. & Birbilis, N. Exploring graphene as a corrosion protection barrier. Corros. Sci. 56, 1–4 
+
+ 12.  Prasai, D. et al. Graphene: corrosion-inhibiting coating. ACS Nano. 6, 1102–1108 (2012).
+ 13.  Zhao, Y. et al. Highly impermeable and transparent graphene as an ultra-thin protection barrier for Ag thin films. J. Mater. Chem. C 
+
+ 14.  Nilsson, L. et al. Graphene Coatings: Probing the Limits of the One Atom Thick Protection Layer. ACS Nano. 6, 10258–10266 (2012).
+ 15.  Zhou, F., Li, Z., Shenoy, G. J., Li, L. & Liu, H. Enhanced room-temperature corrosion of copper in the presence of graphene. ACS 
+
+ 16.  Jia, C., Jiang, J., Gan, L. & Guo, X. Direct optical characterization of graphene growth and domains on growth substrates. Sci. Rep. 2, 
+
+ 17.  Galbiati, M., Stoot, A. C., Mackenzie, D. M. A., Bøggild, P. & Camilli, L. Real-time oxide evolution of copper protected by graphene 
+
+and boron nitride barriers. Sci. Rep. 7, 39770 (2017).
+
+ 18.  Schriver, M. et al. Graphene as a long-term metal oxidation barrier: worse than nothing. ACS Nano. 7, 5763–5768 (2013).
+ 19.  Huang, P. Y. et al. Grains and grain boundaries in single-layer graphene atomic patchwork quilts. Nature 469, 389–393 (2011).
+
+Scientific RepoRts  |          (2019) 9:3777  | https://doi.org/10.1038/s41598-019-40534-5
+
+9
+
+www.nature.com/scientificreportswww.nature.com/scientificreports/1613–1622 (2014).
+
+ 20.  Gomasang, P. et al. Moisture barrier properties of single-layer graphene deposited on Cu films for Cu metallization. Jpn. J. Appl. 
+
+Phys. 57, 04FC08 (2018).
+
+ 21.  Lu, A. Y. et al. Decoupling of CVD graphene by controlled oxidation of recrystallized Cu. RSC Adv. 2, 3008–3013 (2012).
+ 22.  Ferrari, A. C. et al. Raman Spectrum of Graphene and Graphene Layers. Phys. Rev. Lett. 97, 187401 (2006).
+ 23.  He, S., Amoruso, S., Pang, D., Wang, C. & Hu, M. Chromatic annuli formation and sample oxidation on copper thin films by 
+
+femtosecond laser. J. Chem. Phys. 144, 164703 (2016).
+
+ 24.  Yin, X. et al. Evolution of the Raman spectrum of graphene grown on copper upon oxidation of the substrate. Nano Res. 7, 
+
+ 25.  Deng, Y., Handoko, A. D., Du, Y., Xi, S. & Yeo, B. S. In situ Raman spectroscopy of copper and copper oxide surfaces during 
+electrochemical oxygen evolution reaction: identification of CuIII oxides as catalytically active species. ACS Catal. 6, 2473–2481 
+(2016).
+
+ 26.  Tounsi, N. et al. Structural and optical characterization of copper oxide composite thin films elaborated by GLAD technique. 
+
+Vacuum 121, 9–17 (2015).
+
+Surf. Interface Anal. 24, 811–820 (1996).
+
+ 27.  Poulston, S., Parlett, P. M., Stone, P. & Bowker, M. Surface oxidation and reduction of CuO and Cu2O studied using XPS and XAES. 
+
+ 28.  Iijima, J. et al. Native oxidation of ultra high purity Cu bulk and thin films. Appl. Surf. Sci. 253, 2825–2829 (2006).
+ 29.  Luo, B. et al. Copper oxidation through nucleation sites of chemical vapor deposited graphene. Chem. Mater. 28, 3789–3795 (2016).
+ 30.  Tahir, D. & Tougaard, S. Electronic and optical properties of Cu, CuO and Cu2O studied by electron spectroscopy. J. Phys.: Condens. 
+
+ 31.  Ueno, K., Donnelly, V. M. & Tsuchiya, Y. Cleaning of CHF3 plasma-etched SiO2/SiN/Cu via structures using a hydrogen plasma, an 
+
+oxygen plasma, and hexafluoroacetylacetone vapors. J. Vac. Sci. Technol. B 16, 2986–2995 (1998).
+
+ 32.  Aria, A. I. et al. Time evolution of the wettability of supported graphene under ambient air exposure. J. Phys. Chem. C 120, 
+
+Matter 24, 175002 (2012).
+
+2215–2224 (2016).
+
+Express 6, 075101 (2013).
+
+57 (2012).
+
+ 33.  Cong, Y. et al. Carbon-doped TiO2 coating on multiwalled carbon nanotubes with higher visible light photocatalytic activity. Appl. 
+
+Catalysis B: Environmental 107, 128–134 (2011).
+
+ 34.  Shen, L. et al. A long-term corrosion barrier with an insulating boron nitride monolayer. J. Mater. Chem. A 4, 5044–5050 (2016).
+ 35.  Ago, H. et al. Epitaxial growth and electronic properties of large hexagonal graphene domains on Cu(111) thin film. Appl. Phys. 
+
+ 36.  Hu, B. et al. Epitaxial growth of large-area single-layer graphene over Cu(111)/sapphire by atmospheric pressure CVD. Carbon 50, 
+
+ 37.  Takesaki, Y. et al. Highly uniform bilayer graphene on epitaxial Cu-Ni(111) alloy. Chem. Mater. 28, 4583–4592 (2016).
+Acknowledgements
+This work was supported by CREST, JST Grant Number JPMJCR1532 and JSPS KAKENHI Grant Numbers 
+JP17K19036 and JP18H03864.
+Author Contributions
+K.U., H.A. and S.O. designed the study. H.A. and K.K. fabricated the bare Cu and graphene-coated Cu samples. 
+P.G. and K.U. directed the experiments and measurements. K.Y., M.M. and S.O. simulated the energy barrier 
+of overlapping graphene layers. P.G. and K.U. wrote the manuscript. All authors discussed the results and 
+commented on the manuscript.
+Additional Information
+Supplementary information accompanies this paper at https://doi.org/10.1038/s41598-019-40534-5.
+Competing Interests: The authors declare no competing interests.
+Publisher’s note: Springer Nature remains neutral with regard to jurisdictional claims in published maps and 
+institutional affiliations.
+
+Open Access This article is licensed under a Creative Commons Attribution 4.0 International 
+License, which permits use, sharing, adaptation, distribution and reproduction in any medium or 
+format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Cre-
+ative Commons license, and indicate if changes were made. The images or other third party material in this 
+article are included in the article’s Creative Commons license, unless indicated otherwise in a credit line to the 
+material. If material is not included in the article’s Creative Commons license and your intended use is not per-
+mitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the 
+copyright holder. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/.
+ 
+© The Author(s) 2019
+
+Scientific RepoRts  |          (2019) 9:3777  | https://doi.org/10.1038/s41598-019-40534-5
+
+10
+
+www.nature.com/scientificreportswww.nature.com/scientificreports/
